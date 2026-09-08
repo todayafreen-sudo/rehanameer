@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 294486,
+    "name": "The Long Watch",
+    "first_air_date": "2026-09-06",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.0,
+    "votes": "1",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
+    "overview": "A millennium-era leak case shaping cross-strait dynamics hides a covert tug-of-war between foreign forces and Chinese agents. In the late 90s, rookie Chunxiao and star agent Ma Qi foil plots together, but as time passes, the case reshapes all involved amid era-defining shifts.",
+    "critic_score": 90,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-08T15:08:45Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 94664,
     "name": "Mushoku Tensei: Jobless Reincarnation",
     "first_air_date": "2021-01-11",
@@ -723,43 +753,6 @@
     "schedule": "Fridays on Apple TV+",
     "latest_season": 2,
     "trending": true,
-    "last_synced": "2026-09-08T11:10:46Z"
-  },
-  {
-    "id": "tv-002",
-    "tmdb_id": 1399,
-    "name": "Game of Thrones",
-    "first_air_date": "2011-04-17",
-    "seasons_count": 8,
-    "episodes_count": 73,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy"
-    ],
-    "network": "HBO",
-    "creators": [
-      "David Benioff",
-      "D.B. Weiss"
-    ],
-    "cast": [
-      "Emilia Clarke",
-      "Kit Harington",
-      "Peter Dinklage",
-      "Lena Headey",
-      "Sophie Turner"
-    ],
-    "rating": 9.2,
-    "votes": "2,240,000",
-    "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
-    "backdrop": "https://images.unsplash.com/photo-1514533450685-4493e01d1fdc?auto=format&fit=crop&w=1200&q=80",
-    "overview": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
-    "critic_score": 89,
-    "status": "Ended",
-    "schedule": "Completed Broadcast",
-    "latest_season": 8,
-    "trending": false,
     "last_synced": "2026-09-08T11:10:46Z"
   }
 ]
