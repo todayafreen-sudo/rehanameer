@@ -1,6 +1,96 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 456,
+    "name": "The Simpsons",
+    "first_air_date": "1989-12-17",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "10,988",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "critic_score": 80,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-08T19:07:27Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 278624,
+    "name": "Lucky",
+    "first_air_date": "2026-07-14",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.3,
+    "votes": "251",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+    "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+    "critic_score": 73,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-08T19:07:27Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 296140,
+    "name": "My Bias, My Boss",
+    "first_air_date": "2026-08-03",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.5,
+    "votes": "8",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
+    "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+    "critic_score": 75,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-08T19:07:27Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 255358,
     "name": "THE GHOST IN THE SHELL",
     "first_air_date": "2026-07-07",
@@ -653,96 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg",
     "overview": "Set during the Mexican Revolution, follow Emilia Sauri, a woman torn between two passionate loves while navigating a world dominated by violence and revolution.",
     "critic_score": 71,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-08T11:12:49Z"
-  },
-  {
-    "id": "tv-024",
-    "tmdb_id": 301626,
-    "name": "A Tale of Two Cities",
-    "first_air_date": "2026-09-06",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 9.0,
-    "votes": "8",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
-    "overview": "A pair of lookalikes, one a former French aristocrat and the other an alcoholic English lawyer, fall in love with the same woman amidst the turmoil of the French Revolution.",
-    "critic_score": 90,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-08T11:12:49Z"
-  },
-  {
-    "id": "tv-025",
-    "tmdb_id": 194583,
-    "name": "The Walking Dead: Dead City",
-    "first_air_date": "2023-06-18",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.9,
-    "votes": "791",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
-    "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
-    "critic_score": 79,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-08T11:12:49Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 65942,
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "first_air_date": "2016-04-04",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.1,
-    "votes": "769",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-    "critic_score": 81,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
