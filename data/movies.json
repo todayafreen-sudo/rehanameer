@@ -7,9 +7,19 @@
     "release_year": 2023,
     "release_date": "2023-07-21",
     "runtime": "180 min",
-    "genres": ["Biography", "Drama", "History"],
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
     "director": "Christopher Nolan",
-    "cast": ["Cillian Murphy", "Emily Blunt", "Matt Damon", "Robert Downey Jr.", "Florence Pugh"],
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Matt Damon",
+      "Robert Downey Jr.",
+      "Florence Pugh"
+    ],
     "rating": 8.9,
     "votes": "780,240",
     "box_office": "$957.8M",
@@ -18,10 +28,15 @@
     "overview": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb during the Manhattan Project, exploring the moral and political turmoil of the nuclear age.",
     "critic_score": 93,
     "certification": "R",
-    "streaming": ["Peacock", "Amazon Prime", "Apple TV"],
+    "streaming": [
+      "Peacock",
+      "Amazon Prime",
+      "Apple TV"
+    ],
     "tagline": "The world forever changes.",
     "status": "Released",
-    "trending": true
+    "trending": true,
+    "last_synced": "2026-09-08T11:10:46Z"
   },
   {
     "id": "mov-002",
@@ -31,9 +46,19 @@
     "release_year": 2024,
     "release_date": "2024-03-01",
     "runtime": "166 min",
-    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
     "director": "Denis Villeneuve",
-    "cast": ["Timothée Chalamet", "Zendaya", "Rebecca Ferguson", "Javier Bardem", "Austin Butler"],
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem",
+      "Austin Butler"
+    ],
     "rating": 8.8,
     "votes": "520,110",
     "box_office": "$714.4M",
@@ -42,10 +67,15 @@
     "overview": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family, facing a choice between love and the fate of the universe.",
     "critic_score": 92,
     "certification": "PG-13",
-    "streaming": ["Max", "Apple TV", "Google Play"],
+    "streaming": [
+      "Max",
+      "Apple TV",
+      "Google Play"
+    ],
     "tagline": "Long live the fighters.",
     "status": "Released",
-    "trending": true
+    "trending": true,
+    "last_synced": "2026-09-08T11:10:46Z"
   },
   {
     "id": "mov-003",
@@ -55,9 +85,18 @@
     "release_year": 2021,
     "release_date": "2021-10-22",
     "runtime": "155 min",
-    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
     "director": "Denis Villeneuve",
-    "cast": ["Timothée Chalamet", "Rebecca Ferguson", "Oscar Isaac", "Josh Brolin"],
+    "cast": [
+      "Timothée Chalamet",
+      "Rebecca Ferguson",
+      "Oscar Isaac",
+      "Josh Brolin"
+    ],
     "rating": 8.0,
     "votes": "730,900",
     "box_office": "$402.0M",
@@ -66,10 +105,14 @@
     "overview": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.",
     "critic_score": 83,
     "certification": "PG-13",
-    "streaming": ["Max", "Hulu"],
+    "streaming": [
+      "Max",
+      "Hulu"
+    ],
     "tagline": "Beyond fear, destiny awaits.",
     "status": "Released",
-    "trending": false
+    "trending": false,
+    "last_synced": "2026-09-08T11:10:46Z"
   },
   {
     "id": "mov-004",
@@ -79,9 +122,18 @@
     "release_year": 2024,
     "release_date": "2024-06-14",
     "runtime": "96 min",
-    "genres": ["Animation", "Adventure", "Comedy"],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
     "director": "Kelsey Mann",
-    "cast": ["Amy Poehler", "Maya Hawke", "Kensington Tallman", "Liza Lapira"],
+    "cast": [
+      "Amy Poehler",
+      "Maya Hawke",
+      "Kensington Tallman",
+      "Liza Lapira"
+    ],
     "rating": 7.9,
     "votes": "230,400",
     "box_office": "$1.69B",
@@ -90,10 +142,14 @@
     "overview": "Teenager Riley's mind headquarters undergoes a sudden demolition to make room for unexpected new Emotions, led by Anxiety, Envy, Ennui, and Embarrassment.",
     "critic_score": 90,
     "certification": "PG",
-    "streaming": ["Disney+", "Apple TV"],
+    "streaming": [
+      "Disney+",
+      "Apple TV"
+    ],
     "tagline": "Make room for new emotions.",
     "status": "Released",
-    "trending": true
+    "trending": true,
+    "last_synced": "2026-09-08T11:10:46Z"
   },
   {
     "id": "mov-005",
@@ -103,9 +159,18 @@
     "release_year": 2024,
     "release_date": "2024-07-26",
     "runtime": "128 min",
-    "genres": ["Action", "Comedy", "Sci-Fi"],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
     "director": "Shawn Levy",
-    "cast": ["Ryan Reynolds", "Hugh Jackman", "Emma Corrin", "Morena Baccarin"],
+    "cast": [
+      "Ryan Reynolds",
+      "Hugh Jackman",
+      "Emma Corrin",
+      "Morena Baccarin"
+    ],
     "rating": 7.8,
     "votes": "360,000",
     "box_office": "$1.33B",
@@ -114,10 +179,14 @@
     "overview": "Wolverine is recovering from his injuries when he crosses paths with the loudmouth Deadpool. They team up to defeat a common enemy threatening their timelines.",
     "critic_score": 78,
     "certification": "R",
-    "streaming": ["Disney+", "Amazon Prime"],
+    "streaming": [
+      "Disney+",
+      "Amazon Prime"
+    ],
     "tagline": "Come together.",
     "status": "Released",
-    "trending": true
+    "trending": true,
+    "last_synced": "2026-09-08T11:10:46Z"
   },
   {
     "id": "mov-006",
@@ -127,9 +196,18 @@
     "release_year": 2024,
     "release_date": "2024-10-25",
     "runtime": "109 min",
-    "genres": ["Action", "Sci-Fi", "Adventure"],
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
     "director": "Kelly Marcel",
-    "cast": ["Tom Hardy", "Chiwetel Ejiofor", "Juno Temple", "Stephen Graham"],
+    "cast": [
+      "Tom Hardy",
+      "Chiwetel Ejiofor",
+      "Juno Temple",
+      "Stephen Graham"
+    ],
     "rating": 6.8,
     "votes": "140,500",
     "box_office": "$477.5M",
@@ -138,10 +216,14 @@
     "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on their final dance.",
     "critic_score": 41,
     "certification": "PG-13",
-    "streaming": ["Amazon Prime", "Apple TV"],
+    "streaming": [
+      "Amazon Prime",
+      "Apple TV"
+    ],
     "tagline": "'Til death do them part.",
     "status": "Released",
-    "trending": false
+    "trending": false,
+    "last_synced": "2026-09-08T11:10:46Z"
   },
   {
     "id": "mov-007",
@@ -151,9 +233,18 @@
     "release_year": 2024,
     "release_date": "2024-08-16",
     "runtime": "119 min",
-    "genres": ["Horror", "Sci-Fi", "Thriller"],
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
     "director": "Fede Álvarez",
-    "cast": ["Cailee Spaeny", "David Jonsson", "Archie Renaux", "Isabela Merced"],
+    "cast": [
+      "Cailee Spaeny",
+      "David Jonsson",
+      "Archie Renaux",
+      "Isabela Merced"
+    ],
     "rating": 7.3,
     "votes": "195,000",
     "box_office": "$350.8M",
@@ -162,10 +253,14 @@
     "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
     "critic_score": 80,
     "certification": "R",
-    "streaming": ["Hulu", "Disney+"],
+    "streaming": [
+      "Hulu",
+      "Disney+"
+    ],
     "tagline": "In space, no one can hear you scream.",
     "status": "Released",
-    "trending": false
+    "trending": false,
+    "last_synced": "2026-09-08T11:10:46Z"
   },
   {
     "id": "mov-008",
@@ -175,9 +270,18 @@
     "release_year": 2019,
     "release_date": "2019-05-30",
     "runtime": "132 min",
-    "genres": ["Drama", "Thriller", "Comedy"],
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
     "director": "Bong Joon-ho",
-    "cast": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong", "Choi Woo-shik"],
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
     "rating": 8.5,
     "votes": "915,000",
     "box_office": "$263.1M",
@@ -186,9 +290,13 @@
     "overview": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
     "critic_score": 99,
     "certification": "R",
-    "streaming": ["Max", "Hulu"],
+    "streaming": [
+      "Max",
+      "Hulu"
+    ],
     "tagline": "Act like you own the place.",
     "status": "Released",
-    "trending": false
+    "trending": false,
+    "last_synced": "2026-09-08T11:10:46Z"
   }
 ]

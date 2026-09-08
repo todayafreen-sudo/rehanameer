@@ -6,10 +6,23 @@
     "first_air_date": "2022-02-18",
     "seasons_count": 2,
     "episodes_count": 19,
-    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
     "network": "Apple TV+",
-    "creators": ["Dan Erickson"],
-    "cast": ["Adam Scott", "Zach Cherry", "Britt Lower", "Patricia Arquette", "John Turturro", "Christopher Walken"],
+    "creators": [
+      "Dan Erickson"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Zach Cherry",
+      "Britt Lower",
+      "Patricia Arquette",
+      "John Turturro",
+      "Christopher Walken"
+    ],
     "rating": 8.7,
     "votes": "210,000",
     "poster": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?auto=format&fit=crop&w=600&q=80",
@@ -19,7 +32,8 @@
     "status": "Returning Series",
     "schedule": "Fridays on Apple TV+",
     "latest_season": 2,
-    "trending": true
+    "trending": true,
+    "last_synced": "2026-09-08T11:10:46Z"
   },
   {
     "id": "tv-002",
@@ -28,10 +42,24 @@
     "first_air_date": "2011-04-17",
     "seasons_count": 8,
     "episodes_count": 73,
-    "genres": ["Action", "Adventure", "Drama", "Fantasy"],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
     "network": "HBO",
-    "creators": ["David Benioff", "D.B. Weiss"],
-    "cast": ["Emilia Clarke", "Kit Harington", "Peter Dinklage", "Lena Headey", "Sophie Turner"],
+    "creators": [
+      "David Benioff",
+      "D.B. Weiss"
+    ],
+    "cast": [
+      "Emilia Clarke",
+      "Kit Harington",
+      "Peter Dinklage",
+      "Lena Headey",
+      "Sophie Turner"
+    ],
     "rating": 9.2,
     "votes": "2,240,000",
     "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
@@ -41,7 +69,8 @@
     "status": "Ended",
     "schedule": "Completed Broadcast",
     "latest_season": 8,
-    "trending": false
+    "trending": false,
+    "last_synced": "2026-09-08T11:10:46Z"
   },
   {
     "id": "tv-003",
@@ -50,10 +79,24 @@
     "first_air_date": "2022-08-21",
     "seasons_count": 2,
     "episodes_count": 18,
-    "genres": ["Action", "Adventure", "Drama", "Fantasy"],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
     "network": "HBO / Max",
-    "creators": ["Ryan J. Condal", "George R.R. Martin"],
-    "cast": ["Matt Smith", "Emma D'Arcy", "Olivia Cooke", "Rhys Ifans", "Steve Toussaint"],
+    "creators": [
+      "Ryan J. Condal",
+      "George R.R. Martin"
+    ],
+    "cast": [
+      "Matt Smith",
+      "Emma D'Arcy",
+      "Olivia Cooke",
+      "Rhys Ifans",
+      "Steve Toussaint"
+    ],
     "rating": 8.4,
     "votes": "385,000",
     "poster": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=600&q=80",
@@ -63,7 +106,8 @@
     "status": "Returning Series",
     "schedule": "Sundays on HBO",
     "latest_season": 2,
-    "trending": true
+    "trending": true,
+    "last_synced": "2026-09-08T11:10:46Z"
   },
   {
     "id": "tv-004",
@@ -72,10 +116,23 @@
     "first_air_date": "2023-01-15",
     "seasons_count": 2,
     "episodes_count": 16,
-    "genres": ["Action", "Adventure", "Drama", "Sci-Fi"],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
     "network": "HBO / Max",
-    "creators": ["Craig Mazin", "Neil Druckmann"],
-    "cast": ["Pedro Pascal", "Bella Ramsey", "Gabriel Luna", "Kaitlyn Dever"],
+    "creators": [
+      "Craig Mazin",
+      "Neil Druckmann"
+    ],
+    "cast": [
+      "Pedro Pascal",
+      "Bella Ramsey",
+      "Gabriel Luna",
+      "Kaitlyn Dever"
+    ],
     "rating": 8.8,
     "votes": "512,000",
     "poster": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80",
@@ -85,7 +142,8 @@
     "status": "Returning Series",
     "schedule": "Sundays on HBO",
     "latest_season": 2,
-    "trending": true
+    "trending": true,
+    "last_synced": "2026-09-08T11:10:46Z"
   },
   {
     "id": "tv-005",
@@ -94,10 +152,22 @@
     "first_air_date": "2008-01-20",
     "seasons_count": 5,
     "episodes_count": 62,
-    "genres": ["Crime", "Drama", "Thriller"],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
     "network": "AMC",
-    "creators": ["Vince Gilligan"],
-    "cast": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Giancarlo Esposito", "Bob Odenkirk"],
+    "creators": [
+      "Vince Gilligan"
+    ],
+    "cast": [
+      "Bryan Cranston",
+      "Aaron Paul",
+      "Anna Gunn",
+      "Giancarlo Esposito",
+      "Bob Odenkirk"
+    ],
     "rating": 9.5,
     "votes": "2,150,000",
     "poster": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=600&q=80",
@@ -107,7 +177,8 @@
     "status": "Ended",
     "schedule": "Completed Broadcast",
     "latest_season": 5,
-    "trending": false
+    "trending": false,
+    "last_synced": "2026-09-08T11:10:46Z"
   },
   {
     "id": "tv-006",
@@ -116,10 +187,22 @@
     "first_air_date": "2024-02-27",
     "seasons_count": 1,
     "episodes_count": 10,
-    "genres": ["Drama", "History", "War"],
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
     "network": "FX / Hulu",
-    "creators": ["Rachel Kondo", "Justin Marks"],
-    "cast": ["Hiroyuki Sanada", "Cosmo Jarvis", "Anna Sawai", "Tadanobu Asano"],
+    "creators": [
+      "Rachel Kondo",
+      "Justin Marks"
+    ],
+    "cast": [
+      "Hiroyuki Sanada",
+      "Cosmo Jarvis",
+      "Anna Sawai",
+      "Tadanobu Asano"
+    ],
     "rating": 8.7,
     "votes": "180,000",
     "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
@@ -129,6 +212,7 @@
     "status": "Renewed for Season 2",
     "schedule": "Tuesdays on FX / Hulu",
     "latest_season": 1,
-    "trending": true
+    "trending": true,
+    "last_synced": "2026-09-08T11:10:46Z"
   }
 ]
