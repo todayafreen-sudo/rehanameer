@@ -49,8 +49,8 @@
       })();
     </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="apple-touch-icon" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="apple-touch-icon" href="favicon.svg" />
     <title>MovixWires — Global Press Wire, Entertainment Database & News Wire</title>
     <meta name="description" content="MovixWires Global Press Wire — Entertainment Database, Real-Time Celebrity Wire, Box Office Intelligence, and Digital Income Blueprints at movixwire.world" />
     <meta property="og:title" content="MovixWires — Global Press Wire, Entertainment Database & News Wire" />
@@ -60,10 +60,38 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+    <script>
+      // Autonomous Static Deployment Router (GitHub Pages & CDN hosting):
+      // On static servers where raw TSX is not compiled by Vite, immediately
+      // transition to standalone-index.html so visitors never get a white screen.
+      (function() {
+        var isViteDev = location.hostname === 'localhost' || 
+                        location.hostname === '127.0.0.1' || 
+                        location.hostname.indexOf('run.app') !== -1;
+        if (!isViteDev && !window.__vite_plugin_react_preamble_installed__) {
+          var target = 'standalone-index.html' + location.search + location.hash;
+          location.replace(target);
+        }
+      })();
+    </script>
   </head>
   <body class="bg-slate-50 text-slate-900 antialiased selection:bg-amber-500 selection:text-white">
+    <noscript>
+      <meta http-equiv="refresh" content="0; url=standalone-index.html" />
+    </noscript>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
+    <script>
+      // Fallback safeguard: if React bundle fails to mount on static hosting, redirect to standalone portal
+      setTimeout(function() {
+        var root = document.getElementById('root');
+        if (root && (!root.firstElementChild || root.children.length === 0)) {
+          if (location.hostname !== 'localhost' && location.hostname.indexOf('run.app') === -1) {
+            location.replace('standalone-index.html' + location.search + location.hash);
+          }
+        }
+      }, 700);
+    </script>
   </body>
 </html>
 
