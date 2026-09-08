@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 687163,
+    "title": "Project Hail Mary",
+    "original_title": "Project Hail Mary",
+    "release_year": 2026,
+    "release_date": "2026-03-15",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.6,
+    "votes": "7,616",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+    "critic_score": 86,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-08T22:08:12Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1731694,
     "title": "LEGO Star Wars: The Mandalorian",
     "original_title": "LEGO Star Wars: The Mandalorian",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-010",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-011",
@@ -393,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-012",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-013",
@@ -444,7 +477,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.7,
+    "rating": 7.6,
     "votes": "222",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-014",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-015",
@@ -525,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-016",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-017",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-018",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-019",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-020",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-021",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-022",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-023",
@@ -774,7 +807,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.1,
+    "rating": 7.0,
     "votes": "22",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-024",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-025",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-026",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-027",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
+    "last_synced": "2026-09-08T22:08:12Z"
   },
   {
     "id": "mov-028",
@@ -955,44 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-08T21:36:50Z"
-  },
-  {
-    "id": "mov-001",
-    "tmdb_id": 872585,
-    "title": "Oppenheimer",
-    "original_title": "Oppenheimer",
-    "release_year": 2023,
-    "release_date": "2023-07-21",
-    "runtime": "180 min",
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "director": "Christopher Nolan",
-    "cast": [
-      "Cillian Murphy",
-      "Emily Blunt",
-      "Matt Damon",
-      "Robert Downey Jr.",
-      "Florence Pugh"
-    ],
-    "rating": 8.9,
-    "votes": "780,240",
-    "box_office": "$957.8M",
-    "poster": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?auto=format&fit=crop&w=600&q=80",
-    "backdrop": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
-    "overview": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb during the Manhattan Project, exploring the moral and political turmoil of the nuclear age.",
-    "critic_score": 93,
-    "certification": "R",
-    "streaming": [
-      "Peacock",
-      "Amazon Prime",
-      "Apple TV"
-    ],
-    "tagline": "The world forever changes.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-08T11:10:46Z"
   }
 ]
