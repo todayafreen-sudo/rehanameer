@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="apple-touch-icon" href="favicon.svg">
+  <title>TV Shows & Broadcasts Directory — MovixWires</title>
+  <meta name="description" content="Discover premium television series, broadcast schedules, season breakdowns, and critical acclaim on MovixWires (movixwire.world).">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 text-slate-900 font-sans antialiased">
+  <header class="glass-header">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-3.5 flex items-center justify-between gap-4">
+      <a href="index.html" class="flex items-center gap-2.5 text-left group">
+        <span class="w-8 h-8 rounded-lg bg-amber-500 text-white flex items-center justify-center font-sans font-bold text-sm shadow-sm">M</span>
+        <div>
+          <span class="font-cinzel text-xl font-bold tracking-wider text-slate-900 block leading-none">MovixWires</span>
+          <span class="text-[10px] font-semibold text-slate-400 tracking-wider uppercase block mt-0.5">Global Press Wire</span>
+        </div>
+      </a>
+      <nav class="hidden md:flex items-center gap-7 text-sm font-medium text-slate-600">
+        <a href="index.html" class="hover:text-amber-600 transition">Home</a>
+        <a href="movies.html" class="hover:text-amber-600 transition">Movies</a>
+        <a href="tvshows.html" class="text-amber-600 font-semibold">TV Shows</a>
+        <a href="people.html" class="hover:text-amber-600 transition">People</a>
+        <a href="awards.html" class="hover:text-amber-600 transition">Awards</a>
+        <a href="news.html" class="hover:text-amber-600 transition">News Wire</a>
+        <a href="earn-online.html" class="hover:text-amber-600 transition">Earn Online</a>
+      </nav>
+      <div class="relative w-48 sm:w-64">
+        <input type="text" placeholder="Search broadcast series..." class="universal-search-input w-full pl-9 pr-4 py-1.5 text-xs bg-slate-100 border border-slate-200 rounded-full focus:bg-white focus:outline-none focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition">
+        <span class="absolute left-3 top-2 text-slate-400 text-xs">🔍</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="max-w-5xl mx-auto px-4 my-6">
+    <div id="mediadb-ad-header"></div>
+  </div>
+
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 py-8">
+    <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-8">
+      <div>
+        <div class="text-xs font-bold uppercase tracking-wider text-amber-600 mb-1">Prestige Television & Streaming</div>
+        <h1 class="font-serif text-3xl sm:text-4xl font-extrabold text-slate-900">Television Shows & Broadcasts</h1>
+        <p class="text-sm text-slate-500 mt-1 max-w-xl">
+          Weekly air schedules, episodic ratings, and critical reception from our accredited television review desk.
+        </p>
+      </div>
+      <div class="flex flex-wrap gap-2 text-xs font-semibold">
+        <button class="px-3.5 py-1.5 bg-slate-900 text-white rounded-lg shadow-sm">All Shows</button>
+        <button class="px-3.5 py-1.5 bg-white border border-slate-200 text-slate-600 hover:bg-slate-100 rounded-lg">Returning Series</button>
+        <button class="px-3.5 py-1.5 bg-white border border-slate-200 text-slate-600 hover:bg-slate-100 rounded-lg">HBO / Max Exclusives</button>
+      </div>
+    </div>
+
+    <!-- TV Grid Container -->
+    <div id="tv-grid-container" class="media-grid">
+      <!-- Ingested dynamically via assets/js/app.js -->
+    </div>
+  </main>
+
+  <footer class="border-t border-slate-200 bg-white py-12 text-center text-xs text-slate-500 mt-20">
+    <div class="max-w-7xl mx-auto px-4">
+      <p>© 2026 MovixWires Global Television Bureau. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="assets/js/app.js"></script>
+  <script src="ads-config.js"></script>
+</body>
+</html>

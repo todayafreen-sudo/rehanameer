@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="apple-touch-icon" href="favicon.svg">
+  <title>MovixWires — Global Entertainment, Movies, TV & News Wire</title>
+  <meta name="description" content="MovixWires (movixwire.world) — Global Entertainment Database, Film Reviews, Real-Time Celebrity Wire, and Industry Guides">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 text-slate-900 font-sans antialiased selection:bg-amber-500 selection:text-white">
+  <!-- Glassmorphism Top Navigation -->
+  <header class="glass-header">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-3.5 flex items-center justify-between gap-4">
+      <a href="standalone-index.html" class="flex items-center gap-2.5 text-left group">
+        <span class="w-8 h-8 rounded-lg bg-amber-500 text-white flex items-center justify-center font-sans font-extrabold text-sm shadow-sm">M</span>
+        <div>
+          <span class="font-cinzel text-xl font-bold tracking-wider text-slate-900 block leading-none">MovixWires</span>
+          <span class="text-[10px] font-semibold text-slate-400 tracking-wider uppercase block mt-0.5">Global Press Wire</span>
+        </div>
+      </a>
+      <nav class="hidden md:flex items-center gap-7 text-sm font-medium text-slate-600">
+        <a href="standalone-index.html" class="text-amber-600 font-semibold">Home</a>
+        <a href="movies.html" class="hover:text-amber-600 transition">Movies</a>
+        <a href="tvshows.html" class="hover:text-amber-600 transition">TV Shows</a>
+        <a href="people.html" class="hover:text-amber-600 transition">People</a>
+        <a href="awards.html" class="hover:text-amber-600 transition">Awards</a>
+        <a href="news.html" class="hover:text-amber-600 transition">News Wire</a>
+        <a href="earn-online.html" class="hover:text-amber-600 transition">Earn Online</a>
+      </nav>
+      <div class="relative w-48 sm:w-72">
+        <input type="text" placeholder="Search films, actors, directors..." class="universal-search-input w-full pl-9 pr-4 py-2 text-xs bg-slate-100 border border-slate-200 rounded-full focus:bg-white focus:outline-none focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition">
+        <span class="absolute left-3.5 top-2.5 text-slate-400 text-xs">🔍</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Leaderboard Ad Slot -->
+  <div class="max-w-6xl mx-auto px-4 my-6">
+    <div id="mediadb-ad-header"></div>
+  </div>
+
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 py-4 space-y-12">
+    <!-- Cinematic Spotlight Hero -->
+    <section id="cinematic-spotlight-container">
+      <!-- Ingested dynamically via assets/js/app.js -->
+    </section>
+
+    <!-- Category Routing Quick Bar -->
+    <section class="grid grid-cols-2 sm:grid-cols-4 gap-4">
+      <a href="movies.html" class="p-4 bg-white border border-slate-200 rounded-xl shadow-sm hover:border-amber-400 hover:shadow-md transition flex items-center gap-3">
+        <span class="text-2xl">🎬</span>
+        <div>
+          <div class="font-bold text-sm text-slate-900">Theatrical Films</div>
+          <div class="text-xs text-slate-500">Box office & reviews</div>
+        </div>
+      </a>
+      <a href="tvshows.html" class="p-4 bg-white border border-slate-200 rounded-xl shadow-sm hover:border-amber-400 hover:shadow-md transition flex items-center gap-3">
+        <span class="text-2xl">📺</span>
+        <div>
+          <div class="font-bold text-sm text-slate-900">Broadcast Series</div>
+          <div class="text-xs text-slate-500">Episodic guides & dates</div>
+        </div>
+      </a>
+      <a href="people.html" class="p-4 bg-white border border-slate-200 rounded-xl shadow-sm hover:border-amber-400 hover:shadow-md transition flex items-center gap-3">
+        <span class="text-2xl">🌟</span>
+        <div>
+          <div class="font-bold text-sm text-slate-900">Talent Profiles</div>
+          <div class="text-xs text-slate-500">Actors & directors</div>
+        </div>
+      </a>
+      <a href="awards.html" class="p-4 bg-white border border-slate-200 rounded-xl shadow-sm hover:border-amber-400 hover:shadow-md transition flex items-center gap-3">
+        <span class="text-2xl">🏆</span>
+        <div>
+          <div class="font-bold text-sm text-slate-900">Festival Honors</div>
+          <div class="text-xs text-slate-500">Oscars, Cannes & Globes</div>
+        </div>
+      </a>
+    </section>
+
+    <!-- Trending Movies Carousel / Grid -->
+    <section>
+      <div class="flex items-center justify-between mb-6">
+        <div>
+          <div class="text-xs font-bold uppercase tracking-wider text-amber-600 mb-0.5">Top Theatrical Draws</div>
+          <h2 class="font-serif text-2xl sm:text-3xl font-bold text-slate-900">Trending Cinema Releases</h2>
+        </div>
+        <a href="movies.html" class="text-xs font-semibold text-amber-600 hover:text-amber-700 flex items-center gap-1">
+          Explore Directory →
+        </a>
+      </div>
+      <div id="movies-grid-container" class="media-grid">
+        <!-- Ingested dynamically via assets/js/app.js -->
+      </div>
+    </section>
+
+    <!-- In-Article Sponsor Placement -->
+    <div class="my-8">
+      <div id="mediadb-ad-in-article"></div>
+    </div>
+
+    <!-- Breaking News Wire Spotlight -->
+    <section class="bg-white border border-slate-200 rounded-2xl p-6 sm:p-8 shadow-sm">
+      <div class="flex items-center justify-between mb-6 border-b border-slate-100 pb-4">
+        <div class="flex items-center gap-3">
+          <span class="w-3 h-3 rounded-full bg-emerald-500 animate-pulse"></span>
+          <div>
+            <h2 class="font-serif text-2xl font-bold text-slate-900">Latest from the Press Wire</h2>
+            <p class="text-xs text-slate-500">Direct reports from Cannes, London & Los Angeles bureaus</p>
+          </div>
+        </div>
+        <a href="news.html" class="text-xs font-semibold bg-slate-900 text-white px-3.5 py-1.5 rounded-full hover:bg-slate-800 transition">
+          Full News Wire →
+        </a>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <article class="p-4 bg-slate-50 rounded-xl border border-slate-100 flex flex-col justify-between">
+          <div>
+            <span class="text-[10px] font-bold text-amber-600 uppercase tracking-wider">Film Festivals • Cannes</span>
+            <h3 class="font-serif text-base font-bold text-slate-900 mt-1 mb-2">
+              <a href="news.html" class="hover:text-amber-600 transition">Cannes 2025 Unveils Fierce Competition Slate as International Auteurs Descend on the Croisette</a>
+            </h3>
+            <p class="text-xs text-slate-600 line-clamp-2">Opening night screenings ignited immediate debates across the Croisette cafés as buyers scout high-profile independent gems.</p>
+          </div>
+          <div class="mt-4 pt-3 border-t border-slate-200/60 flex items-center justify-between text-[11px] text-slate-500">
+            <span>Elena Rostova</span>
+            <span class="text-amber-600 font-medium">5 min read</span>
+          </div>
+        </article>
+
+        <article class="p-4 bg-slate-50 rounded-xl border border-slate-100 flex flex-col justify-between">
+          <div>
+            <span class="text-[10px] font-bold text-amber-600 uppercase tracking-wider">Box Office • United States</span>
+            <h3 class="font-serif text-base font-bold text-slate-900 mt-1 mb-2">
+              <a href="news.html" class="hover:text-amber-600 transition">Global Box Office Poised for Historic Rebound as Summer Blockbuster Slate Ramps Up</a>
+            </h3>
+            <p class="text-xs text-slate-600 line-clamp-2">Advance reservations across North America and East Asia outpace benchmarks by 18.4 percent, led by premium large-format IMAX screens.</p>
+          </div>
+          <div class="mt-4 pt-3 border-t border-slate-200/60 flex items-center justify-between text-[11px] text-slate-500">
+            <span>Marcus Thorne</span>
+            <span class="text-amber-600 font-medium">4 min read</span>
+          </div>
+        </article>
+
+        <article class="p-4 bg-slate-50 rounded-xl border border-slate-100 flex flex-col justify-between">
+          <div>
+            <span class="text-[10px] font-bold text-amber-600 uppercase tracking-wider">Television • United Kingdom</span>
+            <h3 class="font-serif text-base font-bold text-slate-900 mt-1 mb-2">
+              <a href="news.html" class="hover:text-amber-600 transition">The Golden Age Recalibration: Premium TV Prioritizing Story Craft Over Runaway Budgets</a>
+            </h3>
+            <p class="text-xs text-slate-600 line-clamp-2">Leading showrunners at BAFTA London discuss the structural return to chamber dramas, tight ensemble scripts, and disciplined narrative pacing.</p>
+          </div>
+          <div class="mt-4 pt-3 border-t border-slate-200/60 flex items-center justify-between text-[11px] text-slate-500">
+            <span>Julian Vance</span>
+            <span class="text-amber-600 font-medium">6 min read</span>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- TV Shows Spotlight -->
+    <section>
+      <div class="flex items-center justify-between mb-6">
+        <div>
+          <div class="text-xs font-bold uppercase tracking-wider text-amber-600 mb-0.5">Television Grid</div>
+          <h2 class="font-serif text-2xl sm:text-3xl font-bold text-slate-900">Featured Broadcast Series</h2>
+        </div>
+        <a href="tvshows.html" class="text-xs font-semibold text-amber-600 hover:text-amber-700">
+          View All Series →
+        </a>
+      </div>
+      <div id="tv-grid-container" class="media-grid">
+        <!-- Ingested dynamically via assets/js/app.js -->
+      </div>
+    </section>
+  </main>
+
+  <footer class="border-t border-slate-200 bg-white py-14 text-center text-xs text-slate-500 mt-24">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="flex items-center justify-center gap-2 mb-3">
+        <span class="w-6 h-6 rounded bg-amber-500 text-white font-bold text-xs flex items-center justify-center">M</span>
+        <span class="font-cinzel text-lg font-bold text-slate-900">MovixWires</span>
+      </div>
+      <p class="max-w-md mx-auto text-slate-500 mb-6">
+        The definitive global entertainment database, festival archive, and syndicated press wire.
+      </p>
+      <div class="flex flex-wrap justify-center gap-6 mb-6 text-slate-600 font-medium">
+        <a href="movies.html" class="hover:text-amber-600">Movies</a>
+        <a href="tvshows.html" class="hover:text-amber-600">TV Broadcasts</a>
+        <a href="people.html" class="hover:text-amber-600">People Directory</a>
+        <a href="awards.html" class="hover:text-amber-600">Awards Archive</a>
+        <a href="news.html" class="hover:text-amber-600">News Wire</a>
+        <a href="earn-online.html" class="hover:text-amber-600">Monetization Guides</a>
+        <a href="sitemap.html" class="hover:text-amber-600">Sitemap Index</a>
+      </div>
+      <p class="text-slate-400">© 2026 MovixWires Global Press Network. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="assets/js/app.js"></script>
+  <script src="ads-config.js"></script>
+</body>
+</html>

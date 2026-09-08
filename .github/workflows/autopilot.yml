@@ -1,0 +1,90 @@
+name: MovixWires Autonomous Engine & Autopilot Sync
+
+on:
+  schedule:
+    # Runs every 30 minutes for real-time news wire dispatches and sitemap rebuilding
+    - cron: '*/30 * * * *'
+    # Daily full catalog synchronization runs at 1:00 AM UTC
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    inputs:
+      force_tmdb_sync:
+        description: 'Force TMDb Catalog Resync'
+        required: false
+        default: true
+        type: boolean
+      generate_news:
+        description: 'Dispatch New Editorial Wire Feature'
+        required: false
+        default: true
+        type: boolean
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: movixwires-autopilot
+  cancel-in-progress: false
+
+jobs:
+  autopilot-cycle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Automation Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 google-generativeai
+
+      - name: Run TMDb Catalog Sync
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
+          echo "Executing autonomous catalog synchronization..."
+          python bots/tmdb_sync.py
+
+      - name: Run Real-Time News Wire & Editorial Dispatch
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          echo "Executing syndicated news wire engine..."
+          python bots/news_bot.py
+
+      - name: Rebuild Compliance Sitemaps & Search Indices
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          SITE_URL: ${{ secrets.SITE_URL }}
+        run: |
+          echo "Rebuilding sitemap.xml and sitemap.html for instant indexing..."
+          python bots/sitemap_generator.py
+
+      - name: Commit and Push Autonomous Updates
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "action@github.com"
+          
+          # Stage all modified data files, generated news articles, and sitemaps
+          git add data/ news/ sitemap.xml sitemap.html
+          
+          # Check if changes exist before attempting commit
+          if git diff --staged --quiet; then
+            echo "No repository modifications detected in this cycle. Working tree clean."
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            git commit -m "Editorial & Wire Dispatch: $TIMESTAMP [skip ci]"
+            git push origin main || git push
+            echo "Autopilot updates successfully committed and published."
+          fi

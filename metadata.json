@@ -1,0 +1,6 @@
+{
+  "name": "MovixWires",
+  "description": "MovixWires Global Press Wire — Entertainment Database, Real-Time Celebrity Wire, Box Office Intelligence, and Digital Income Blueprints at movixwire.world",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

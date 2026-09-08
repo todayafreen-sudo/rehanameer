@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      (function() {
+        try {
+          const origDefineProperty = Object.defineProperty;
+          Object.defineProperty = function(obj, prop, descriptor) {
+            if ((obj === window || obj === globalThis || (typeof Window !== 'undefined' && obj === Window.prototype)) && prop === 'fetch') {
+              try {
+                let customVal = undefined;
+                const origGetter = descriptor && descriptor.get;
+                return origDefineProperty(obj, prop, {
+                  configurable: true,
+                  enumerable: true,
+                  get: function() {
+                    if (customVal !== undefined) return customVal;
+                    return origGetter ? origGetter.call(this) : descriptor.value;
+                  },
+                  set: function(v) {
+                    customVal = v;
+                    if (descriptor && descriptor.set) {
+                      try { descriptor.set.call(this, v); } catch (e) {}
+                    }
+                  }
+                });
+              } catch (e) {}
+            }
+            return origDefineProperty(obj, prop, descriptor);
+          };
+
+          const currentDesc = Object.getOwnPropertyDescriptor(window, 'fetch');
+          if (currentDesc && currentDesc.get && !currentDesc.set && currentDesc.configurable !== false) {
+            let customVal = undefined;
+            origDefineProperty(window, 'fetch', {
+              configurable: true,
+              enumerable: true,
+              get: function() {
+                if (customVal !== undefined) return customVal;
+                return currentDesc.get.call(this);
+              },
+              set: function(v) {
+                customVal = v;
+              }
+            });
+          }
+        } catch (e) {}
+      })();
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
+    <title>MovixWires — Global Press Wire, Entertainment Database & News Wire</title>
+    <meta name="description" content="MovixWires Global Press Wire — Entertainment Database, Real-Time Celebrity Wire, Box Office Intelligence, and Digital Income Blueprints at movixwire.world" />
+    <meta property="og:title" content="MovixWires — Global Press Wire, Entertainment Database & News Wire" />
+    <meta property="og:description" content="MovixWires Global Press Wire — Entertainment Database, Real-Time Celebrity Wire, Box Office Intelligence, and Digital Income Blueprints at movixwire.world" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+  </head>
+  <body class="bg-slate-50 text-slate-900 antialiased selection:bg-amber-500 selection:text-white">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

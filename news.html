@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script>
+    (function() {
+      try {
+        const origDefineProperty = Object.defineProperty;
+        Object.defineProperty = function(obj, prop, descriptor) {
+          if ((obj === window || obj === globalThis || (typeof Window !== 'undefined' && obj === Window.prototype)) && prop === 'fetch') {
+            try {
+              let customVal = undefined;
+              const origGetter = descriptor && descriptor.get;
+              return origDefineProperty(obj, prop, {
+                configurable: true,
+                enumerable: true,
+                get: function() {
+                  if (customVal !== undefined) return customVal;
+                  return origGetter ? origGetter.call(this) : descriptor.value;
+                },
+                set: function(v) {
+                  customVal = v;
+                  if (descriptor && descriptor.set) {
+                    try { descriptor.set.call(this, v); } catch (e) {}
+                  }
+                }
+              });
+            } catch (e) {}
+          }
+          return origDefineProperty(obj, prop, descriptor);
+        };
+      } catch (e) {}
+    })();
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="apple-touch-icon" href="favicon.svg">
+  <title>Real-Time Entertainment News Wire — MovixWires</title>
+  <meta name="description" content="Live breaking dispatches, box office analysis, studio negotiations, and film festival reviews on MovixWires (movixwire.world).">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 text-slate-900 font-sans antialiased">
+  <header class="glass-header">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-3.5 flex items-center justify-between gap-4">
+      <a href="index.html" class="flex items-center gap-2.5 text-left group">
+        <span class="w-8 h-8 rounded-lg bg-amber-500 text-white flex items-center justify-center font-sans font-bold text-sm shadow-sm">M</span>
+        <div>
+          <span class="font-cinzel text-xl font-bold tracking-wider text-slate-900 block leading-none">MovixWires</span>
+          <span class="text-[10px] font-semibold text-slate-400 tracking-wider uppercase block mt-0.5">Global Press Wire</span>
+        </div>
+      </a>
+      <nav class="hidden md:flex items-center gap-7 text-sm font-medium text-slate-600">
+        <a href="index.html" class="hover:text-amber-600 transition">Home</a>
+        <a href="movies.html" class="hover:text-amber-600 transition">Movies</a>
+        <a href="tvshows.html" class="hover:text-amber-600 transition">TV Shows</a>
+        <a href="people.html" class="hover:text-amber-600 transition">People</a>
+        <a href="awards.html" class="hover:text-amber-600 transition">Awards</a>
+        <a href="news.html" class="text-amber-600 font-semibold">News Wire</a>
+        <a href="earn-online.html" class="hover:text-amber-600 transition">Earn Online</a>
+      </nav>
+      <div class="relative w-48 sm:w-64">
+        <input type="text" id="news-search" placeholder="Search news wire..." class="w-full pl-9 pr-4 py-1.5 text-xs bg-slate-100 border border-slate-200 rounded-full focus:bg-white focus:outline-none focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition">
+        <span class="absolute left-3 top-2 text-slate-400 text-xs">🔍</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="max-w-5xl mx-auto px-4 my-6">
+    <div id="mediadb-ad-header"></div>
+  </div>
+
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 py-8">
+    <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-8">
+      <div>
+        <div class="flex items-center gap-2 mb-1">
+          <span class="inline-block w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+          <span class="text-xs font-bold uppercase tracking-wider text-emerald-600">Live Press Bureau</span>
+        </div>
+        <h1 class="font-serif text-3xl sm:text-4xl font-extrabold text-slate-900">Real-Time News Wire</h1>
+        <p class="text-sm text-slate-500 mt-1 max-w-xl">
+          Direct dispatches from accredited entertainment journalists across Cannes, London, Los Angeles, and worldwide festivals.
+        </p>
+      </div>
+
+      <!-- Filters: Country, Category -->
+      <div class="flex flex-wrap gap-2 text-xs">
+        <select id="filter-category" class="bg-white border border-slate-200 text-slate-700 py-1.5 px-3 rounded-lg font-medium shadow-sm focus:outline-none focus:border-amber-500">
+          <option value="all">All Categories</option>
+          <option value="Film Festivals">Film Festivals</option>
+          <option value="Box Office">Box Office</option>
+          <option value="Television">Television</option>
+          <option value="Production">Production</option>
+          <option value="Animation">Animation</option>
+          <option value="Independent Cinema">Independent Cinema</option>
+          <option value="Music & Scores">Music & Scores</option>
+          <option value="Awards & Honors">Awards & Honors</option>
+          <option value="Technology">Technology</option>
+          <option value="Streaming">Streaming</option>
+        </select>
+        <select id="filter-country" class="bg-white border border-slate-200 text-slate-700 py-1.5 px-3 rounded-lg font-medium shadow-sm focus:outline-none focus:border-amber-500">
+          <option value="all">All Countries & Bureaus</option>
+          <option value="United States">United States</option>
+          <option value="United Kingdom">United Kingdom</option>
+          <option value="France">France</option>
+          <option value="Italy">Italy</option>
+          <option value="Germany">Germany</option>
+          <option value="Japan">Japan</option>
+          <option value="South Korea">South Korea</option>
+          <option value="India">India</option>
+          <option value="Canada">Canada</option>
+          <option value="Australia">Australia</option>
+          <option value="Spain">Spain</option>
+          <option value="Hungary">Hungary</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- News Wire Listing -->
+    <div id="news-wire-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Populated dynamically via JS or falls back to server json -->
+    </div>
+  </main>
+
+  <footer class="border-t border-slate-200 bg-white py-12 text-center text-xs text-slate-500 mt-20">
+    <p>© 2026 MovixWires Global Press Syndicate. All rights reserved.</p>
+  </footer>
+
+  <script src="ads-config.js"></script>
+  <script>
+    async function loadNewsWire() {
+      const container = document.getElementById('news-wire-grid');
+      const categorySelect = document.getElementById('filter-category');
+      const countrySelect = document.getElementById('filter-country');
+      const searchInput = document.getElementById('news-search');
+
+      let newsList = [];
+      try {
+        const res = await fetch('data/news.json');
+        if (res.ok) newsList = await res.json();
+      } catch (e) {
+        console.error('Error loading news:', e);
+      }
+
+      function render(items) {
+        if (!items || items.length === 0) {
+          container.innerHTML = `<div class="col-span-full py-12 text-center text-slate-400">No wire dispatches match your selected filters.</div>`;
+          return;
+        }
+
+        container.innerHTML = items.map(a => `
+          <article class="bg-white border border-slate-200 rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition flex flex-col justify-between">
+            <div>
+              <div class="h-48 overflow-hidden bg-slate-100">
+                <img src="${a.featured_image}" alt="${a.title}" class="w-full h-full object-cover hover:scale-105 transition duration-300">
+              </div>
+              <div class="p-5">
+                <div class="flex items-center gap-2 text-[11px] font-bold uppercase tracking-wider text-amber-600 mb-2">
+                  <span>${a.category}</span>
+                  <span>•</span>
+                  <span>${a.country}</span>
+                  <span>•</span>
+                  <span class="text-slate-400 font-normal">${a.date}</span>
+                </div>
+                <h3 class="font-serif text-lg font-bold text-slate-900 leading-snug mb-2 hover:text-amber-600 transition">
+                  <a href="index.html?type=news&id=${a.id}" target="_blank" rel="noopener noreferrer">${a.title}</a>
+                </h3>
+                <p class="text-xs text-slate-600 line-clamp-3 leading-relaxed">
+                  ${a.summary}
+                </p>
+              </div>
+            </div>
+            <div class="px-5 pb-5 pt-3 border-t border-slate-100 flex items-center justify-between text-xs text-slate-500">
+              <span class="font-medium text-slate-700">${a.author}</span>
+              <a href="index.html?type=news&id=${a.id}" target="_blank" rel="noopener noreferrer" class="text-amber-600 font-semibold hover:underline">Read Dispatch →</a>
+            </div>
+          </article>
+        `).join('');
+      }
+
+      function applyFilters() {
+        const cat = categorySelect.value;
+        const country = countrySelect.value;
+        const query = (searchInput.value || '').toLowerCase().trim();
+
+        const filtered = newsList.filter(item => {
+          const matchCat = (cat === 'all' || item.category === cat);
+          const matchCountry = (country === 'all' || item.country === country);
+          const matchQuery = !query || item.title.toLowerCase().includes(query) || (item.summary && item.summary.toLowerCase().includes(query));
+          return matchCat && matchCountry && matchQuery;
+        });
+        render(filtered);
+      }
+
+      categorySelect.addEventListener('change', applyFilters);
+      countrySelect.addEventListener('change', applyFilters);
+      searchInput.addEventListener('input', applyFilters);
+
+      render(newsList);
+    }
+
+    document.addEventListener('DOMContentLoaded', loadNewsWire);
+  </script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "awd-2024-oscars",
+    "ceremony": "96th Academy Awards (Oscars)",
+    "year": 2024,
+    "date": "March 10, 2024",
+    "venue": "Dolby Theatre, Hollywood, Los Angeles",
+    "host": "Jimmy Kimmel",
+    "banner": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "categories": [
+      {
+        "category": "Best Picture",
+        "winner": "Oppenheimer",
+        "nominees": ["American Fiction", "Anatomy of a Fall", "Barbie", "The Holdovers", "Killers of the Flower Moon", "Maestro", "Past Lives", "Poor Things", "The Zone of Interest"]
+      },
+      {
+        "category": "Best Director",
+        "winner": "Christopher Nolan (Oppenheimer)",
+        "nominees": ["Justine Triet (Anatomy of a Fall)", "Martin Scorsese (Killers of the Flower Moon)", "Yorgos Lanthimos (Poor Things)", "Jonathan Glazer (The Zone of Interest)"]
+      },
+      {
+        "category": "Best Actor in a Leading Role",
+        "winner": "Cillian Murphy (Oppenheimer)",
+        "nominees": ["Bradley Cooper (Maestro)", "Colman Domingo (Rustin)", "Paul Giamatti (The Holdovers)", "Jeffrey Wright (American Fiction)"]
+      },
+      {
+        "category": "Best Actress in a Leading Role",
+        "winner": "Emma Stone (Poor Things)",
+        "nominees": ["Annette Bening (Nyad)", "Lily Gladstone (Killers of the Flower Moon)", "Sandra Hüller (Anatomy of a Fall)", "Carey Mulligan (Maestro)"]
+      },
+      {
+        "category": "Best Animated Feature Film",
+        "winner": "The Boy and the Heron",
+        "nominees": ["Elemental", "Nimona", "Robot Dreams", "Spider-Man: Across the Spider-Verse"]
+      }
+    ]
+  },
+  {
+    "id": "awd-2024-cannes",
+    "ceremony": "77th Cannes Film Festival",
+    "year": 2024,
+    "date": "May 14–25, 2024",
+    "venue": "Palais des Festivals et des Congrès, Cannes, France",
+    "host": "Greta Gerwig (Jury President)",
+    "banner": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=1200&q=80",
+    "categories": [
+      {
+        "category": "Palme d'Or",
+        "winner": "Anora (Sean Baker)",
+        "nominees": ["All We Imagine as Light", "Emilia Pérez", "The Seed of the Sacred Fig", "The Substance", "Grand Tour"]
+      },
+      {
+        "category": "Grand Prix",
+        "winner": "All We Imagine as Light (Payal Kapadia)",
+        "nominees": ["Bird", "Kinds of Kindness", "The Apprentice"]
+      },
+      {
+        "category": "Best Director",
+        "winner": "Miguel Gomes (Grand Tour)",
+        "nominees": ["David Cronenberg", "Paolo Sorrentino", "Kirill Serebrennikov"]
+      },
+      {
+        "category": "Jury Prize",
+        "winner": "Emilia Pérez (Jacques Audiard)",
+        "nominees": ["Parthenope", "The Shrouds"]
+      }
+    ]
+  },
+  {
+    "id": "awd-2024-globes",
+    "ceremony": "81st Golden Globe Awards",
+    "year": 2024,
+    "date": "January 7, 2024",
+    "venue": "The Beverly Hilton, Beverly Hills, California",
+    "host": "Jo Koy",
+    "banner": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?auto=format&fit=crop&w=1200&q=80",
+    "categories": [
+      {
+        "category": "Best Motion Picture – Drama",
+        "winner": "Oppenheimer",
+        "nominees": ["Killers of the Flower Moon", "Maestro", "Past Lives", "The Zone of Interest", "Anatomy of a Fall"]
+      },
+      {
+        "category": "Best Motion Picture – Musical or Comedy",
+        "winner": "Poor Things",
+        "nominees": ["Air", "American Fiction", "Barbie", "The Holdovers", "May December"]
+      },
+      {
+        "category": "Best Television Series – Drama",
+        "winner": "Succession",
+        "nominees": ["1923", "The Crown", "The Diplomat", "The Last of Us", "The Morning Show"]
+      }
+    ]
+  }
+]

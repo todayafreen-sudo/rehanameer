@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="movixGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.25" />
+    </filter>
+  </defs>
+  <!-- Background Rounded Shield / Icon Container -->
+  <rect width="64" height="64" rx="14" fill="url(#movixGrad)" />
+  
+  <!-- Subtle Film Sprocket Accent Dots at top and bottom -->
+  <rect x="10" y="6" width="6" height="4" rx="1.5" fill="#ffffff" opacity="0.35" />
+  <rect x="22" y="6" width="6" height="4" rx="1.5" fill="#ffffff" opacity="0.35" />
+  <rect x="36" y="6" width="6" height="4" rx="1.5" fill="#ffffff" opacity="0.35" />
+  <rect x="48" y="6" width="6" height="4" rx="1.5" fill="#ffffff" opacity="0.35" />
+  
+  <rect x="10" y="54" width="6" height="4" rx="1.5" fill="#ffffff" opacity="0.35" />
+  <rect x="22" y="54" width="6" height="4" rx="1.5" fill="#ffffff" opacity="0.35" />
+  <rect x="36" y="54" width="6" height="4" rx="1.5" fill="#ffffff" opacity="0.35" />
+  <rect x="48" y="54" width="6" height="4" rx="1.5" fill="#ffffff" opacity="0.35" />
+
+  <!-- Bold Central 'M' Path with Cinematic Geometry -->
+  <path d="M 16 46 L 16 18 L 26 18 L 32 30 L 38 18 L 48 18 L 48 46 L 41 46 L 41 27 L 35 38 L 29 38 L 23 27 L 23 46 Z" fill="#ffffff" filter="url(#shadow)" />
+  
+  <!-- Live Press Wire recording badge -->
+  <circle cx="50" cy="14" r="3.5" fill="#ef4444" stroke="#ffffff" stroke-width="1.5" />
+</svg>
