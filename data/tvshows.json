@@ -1,6 +1,66 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 94664,
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "first_air_date": "2021-01-11",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "1,705",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-08T13:40:38Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 298168,
+    "name": "The Shards",
+    "first_air_date": "2026-08-05",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.3,
+    "votes": "49",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg",
+    "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+    "critic_score": 73,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-08T13:40:38Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 290193,
     "name": "Mousetrap",
     "first_air_date": "2026-08-28",
@@ -700,79 +760,6 @@
     "schedule": "Completed Broadcast",
     "latest_season": 8,
     "trending": false,
-    "last_synced": "2026-09-08T11:10:46Z"
-  },
-  {
-    "id": "tv-003",
-    "tmdb_id": 94997,
-    "name": "House of the Dragon",
-    "first_air_date": "2022-08-21",
-    "seasons_count": 2,
-    "episodes_count": 18,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy"
-    ],
-    "network": "HBO / Max",
-    "creators": [
-      "Ryan J. Condal",
-      "George R.R. Martin"
-    ],
-    "cast": [
-      "Matt Smith",
-      "Emma D'Arcy",
-      "Olivia Cooke",
-      "Rhys Ifans",
-      "Steve Toussaint"
-    ],
-    "rating": 8.4,
-    "votes": "385,000",
-    "poster": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=600&q=80",
-    "backdrop": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=1200&q=80",
-    "overview": "An internal succession contest within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
-    "critic_score": 89,
-    "status": "Returning Series",
-    "schedule": "Sundays on HBO",
-    "latest_season": 2,
-    "trending": true,
-    "last_synced": "2026-09-08T11:10:46Z"
-  },
-  {
-    "id": "tv-004",
-    "tmdb_id": 63333,
-    "name": "The Last of Us",
-    "first_air_date": "2023-01-15",
-    "seasons_count": 2,
-    "episodes_count": 16,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Sci-Fi"
-    ],
-    "network": "HBO / Max",
-    "creators": [
-      "Craig Mazin",
-      "Neil Druckmann"
-    ],
-    "cast": [
-      "Pedro Pascal",
-      "Bella Ramsey",
-      "Gabriel Luna",
-      "Kaitlyn Dever"
-    ],
-    "rating": 8.8,
-    "votes": "512,000",
-    "poster": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80",
-    "backdrop": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?auto=format&fit=crop&w=1200&q=80",
-    "overview": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
-    "critic_score": 96,
-    "status": "Returning Series",
-    "schedule": "Sundays on HBO",
-    "latest_season": 2,
-    "trending": true,
     "last_synced": "2026-09-08T11:10:46Z"
   }
 ]
