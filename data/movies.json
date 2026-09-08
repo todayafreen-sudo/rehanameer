@@ -1,5 +1,170 @@
 [
   {
+    "id": "mov-029",
+    "tmdb_id": 1288059,
+    "title": "I Want Your Sex",
+    "original_title": "I Want Your Sex",
+    "release_year": 2026,
+    "release_date": "2026-07-29",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.2,
+    "votes": "58",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/34z9eBtEBv6QoroLuUA55cU3e8Q.jpg",
+    "overview": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
+    "critic_score": 62,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-08T12:43:54Z"
+  },
+  {
+    "id": "mov-030",
+    "tmdb_id": 950028,
+    "title": "The Invite",
+    "original_title": "The Invite",
+    "release_year": 2026,
+    "release_date": "2026-06-25",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.3,
+    "votes": "452",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+    "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+    "critic_score": 73,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-08T12:43:54Z"
+  },
+  {
+    "id": "mov-031",
+    "tmdb_id": 192139,
+    "title": "The Brink of War",
+    "original_title": "The Brink of War",
+    "release_year": 2026,
+    "release_date": "2026-08-13",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.2,
+    "votes": "18",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
+    "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
+    "critic_score": 72,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-08T12:43:54Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1294189,
+    "title": "The Mongoose",
+    "original_title": "The Mongoose",
+    "release_year": 2026,
+    "release_date": "2026-10-30",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-08T12:43:54Z"
+  },
+  {
+    "id": "mov-033",
+    "tmdb_id": 1228710,
+    "title": "The Mandalorian and Grogu",
+    "original_title": "The Mandalorian and Grogu",
+    "release_year": 2026,
+    "release_date": "2026-05-20",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.5,
+    "votes": "1,525",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg",
+    "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+    "critic_score": 75,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-08T12:43:54Z"
+  },
+  {
     "id": "mov-009",
     "tmdb_id": 1108427,
     "title": "Moana",
@@ -30,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T12:10:42Z"
+    "last_synced": "2026-09-08T12:43:54Z"
   },
   {
     "id": "mov-010",
@@ -63,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T12:10:42Z"
+    "last_synced": "2026-09-08T12:43:54Z"
   },
   {
     "id": "mov-011",
@@ -129,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T12:10:42Z"
+    "last_synced": "2026-09-08T12:43:54Z"
   },
   {
     "id": "mov-013",
@@ -162,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T12:10:42Z"
+    "last_synced": "2026-09-08T12:43:54Z"
   },
   {
     "id": "mov-014",
@@ -195,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T12:10:42Z"
+    "last_synced": "2026-09-08T12:43:54Z"
   },
   {
     "id": "mov-015",
@@ -228,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T12:10:42Z"
+    "last_synced": "2026-09-08T12:43:54Z"
   },
   {
     "id": "mov-016",
@@ -261,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T12:10:42Z"
+    "last_synced": "2026-09-08T12:43:54Z"
   },
   {
     "id": "mov-017",
@@ -294,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T12:10:42Z"
+    "last_synced": "2026-09-08T12:43:54Z"
   },
   {
     "id": "mov-018",
@@ -327,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T12:10:42Z"
+    "last_synced": "2026-09-08T12:43:54Z"
   },
   {
     "id": "mov-019",
@@ -360,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T12:10:42Z"
+    "last_synced": "2026-09-08T12:43:54Z"
   },
   {
     "id": "mov-020",
@@ -393,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T12:10:42Z"
+    "last_synced": "2026-09-08T12:43:54Z"
   },
   {
     "id": "mov-021",
@@ -426,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T12:10:42Z"
+    "last_synced": "2026-09-08T12:43:54Z"
   },
   {
     "id": "mov-022",
@@ -525,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T12:10:42Z"
+    "last_synced": "2026-09-08T12:43:54Z"
   },
   {
     "id": "mov-025",
@@ -558,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T12:10:42Z"
+    "last_synced": "2026-09-08T12:43:54Z"
   },
   {
     "id": "mov-026",
@@ -657,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T12:10:42Z"
+    "last_synced": "2026-09-08T12:43:54Z"
   },
   {
     "id": "mov-001",
@@ -846,117 +1011,6 @@
     "tagline": "Come together.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T11:10:46Z"
-  },
-  {
-    "id": "mov-006",
-    "tmdb_id": 912649,
-    "title": "Venom: The Last Dance",
-    "original_title": "Venom: The Last Dance",
-    "release_year": 2024,
-    "release_date": "2024-10-25",
-    "runtime": "109 min",
-    "genres": [
-      "Action",
-      "Sci-Fi",
-      "Adventure"
-    ],
-    "director": "Kelly Marcel",
-    "cast": [
-      "Tom Hardy",
-      "Chiwetel Ejiofor",
-      "Juno Temple",
-      "Stephen Graham"
-    ],
-    "rating": 6.8,
-    "votes": "140,500",
-    "box_office": "$477.5M",
-    "poster": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80",
-    "backdrop": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?auto=format&fit=crop&w=1200&q=80",
-    "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on their final dance.",
-    "critic_score": 41,
-    "certification": "PG-13",
-    "streaming": [
-      "Amazon Prime",
-      "Apple TV"
-    ],
-    "tagline": "'Til death do them part.",
-    "status": "Released",
-    "trending": false,
-    "last_synced": "2026-09-08T11:10:46Z"
-  },
-  {
-    "id": "mov-007",
-    "tmdb_id": 945961,
-    "title": "Alien: Romulus",
-    "original_title": "Alien: Romulus",
-    "release_year": 2024,
-    "release_date": "2024-08-16",
-    "runtime": "119 min",
-    "genres": [
-      "Horror",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "director": "Fede Álvarez",
-    "cast": [
-      "Cailee Spaeny",
-      "David Jonsson",
-      "Archie Renaux",
-      "Isabela Merced"
-    ],
-    "rating": 7.3,
-    "votes": "195,000",
-    "box_office": "$350.8M",
-    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=600&q=80",
-    "backdrop": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
-    "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
-    "critic_score": 80,
-    "certification": "R",
-    "streaming": [
-      "Hulu",
-      "Disney+"
-    ],
-    "tagline": "In space, no one can hear you scream.",
-    "status": "Released",
-    "trending": false,
-    "last_synced": "2026-09-08T11:10:46Z"
-  },
-  {
-    "id": "mov-008",
-    "tmdb_id": 496243,
-    "title": "Parasite",
-    "original_title": "Gisaengchung",
-    "release_year": 2019,
-    "release_date": "2019-05-30",
-    "runtime": "132 min",
-    "genres": [
-      "Drama",
-      "Thriller",
-      "Comedy"
-    ],
-    "director": "Bong Joon-ho",
-    "cast": [
-      "Song Kang-ho",
-      "Lee Sun-kyun",
-      "Cho Yeo-jeong",
-      "Choi Woo-shik"
-    ],
-    "rating": 8.5,
-    "votes": "915,000",
-    "box_office": "$263.1M",
-    "poster": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=600&q=80",
-    "backdrop": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=1200&q=80",
-    "overview": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
-    "critic_score": 99,
-    "certification": "R",
-    "streaming": [
-      "Max",
-      "Hulu"
-    ],
-    "tagline": "Act like you own the place.",
-    "status": "Released",
-    "trending": false,
     "last_synced": "2026-09-08T11:10:46Z"
   }
 ]

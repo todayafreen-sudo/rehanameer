@@ -1,5 +1,35 @@
 [
   {
+    "id": "tv-026",
+    "tmdb_id": 290193,
+    "name": "Mousetrap",
+    "first_air_date": "2026-08-28",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "32",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
+    "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
+    "critic_score": 80,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-08T12:43:54Z"
+  },
+  {
     "id": "tv-007",
     "tmdb_id": 125988,
     "name": "Silo",
@@ -743,41 +773,6 @@
     "schedule": "Sundays on HBO",
     "latest_season": 2,
     "trending": true,
-    "last_synced": "2026-09-08T11:10:46Z"
-  },
-  {
-    "id": "tv-005",
-    "tmdb_id": 1396,
-    "name": "Breaking Bad",
-    "first_air_date": "2008-01-20",
-    "seasons_count": 5,
-    "episodes_count": 62,
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "network": "AMC",
-    "creators": [
-      "Vince Gilligan"
-    ],
-    "cast": [
-      "Bryan Cranston",
-      "Aaron Paul",
-      "Anna Gunn",
-      "Giancarlo Esposito",
-      "Bob Odenkirk"
-    ],
-    "rating": 9.5,
-    "votes": "2,150,000",
-    "poster": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=600&q=80",
-    "backdrop": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
-    "overview": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student in order to secure his family's financial future.",
-    "critic_score": 96,
-    "status": "Ended",
-    "schedule": "Completed Broadcast",
-    "latest_season": 5,
-    "trending": false,
     "last_synced": "2026-09-08T11:10:46Z"
   }
 ]
