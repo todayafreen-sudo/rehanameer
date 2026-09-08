@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1731694,
+    "title": "LEGO Star Wars: The Mandalorian",
+    "original_title": "LEGO Star Wars: The Mandalorian",
+    "release_year": 2026,
+    "release_date": "2026-09-02",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.0,
+    "votes": "21",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/upecGaCuQOIbSpdz85mrJ395UMg.jpg",
+    "overview": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adventures, a pirate threat looms.",
+    "critic_score": 70,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-08T19:37:21Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1381071,
     "title": "Godzilla Minus Zero",
     "original_title": "ゴジラ-0.0",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-010",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-011",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-012",
@@ -393,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-013",
@@ -411,7 +444,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.6,
+    "rating": 7.7,
     "votes": "222",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-014",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-015",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-016",
@@ -525,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-017",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-018",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-019",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-020",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-021",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-022",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-023",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-024",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-025",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-026",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-027",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T13:40:38Z"
+    "last_synced": "2026-09-08T19:37:21Z"
   },
   {
     "id": "mov-001",
@@ -958,45 +991,6 @@
       "Apple TV"
     ],
     "tagline": "The world forever changes.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-08T11:10:46Z"
-  },
-  {
-    "id": "mov-002",
-    "tmdb_id": 693134,
-    "title": "Dune: Part Two",
-    "original_title": "Dune: Part Two",
-    "release_year": 2024,
-    "release_date": "2024-03-01",
-    "runtime": "166 min",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "director": "Denis Villeneuve",
-    "cast": [
-      "Timothée Chalamet",
-      "Zendaya",
-      "Rebecca Ferguson",
-      "Javier Bardem",
-      "Austin Butler"
-    ],
-    "rating": 8.8,
-    "votes": "520,110",
-    "box_office": "$714.4M",
-    "poster": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80",
-    "backdrop": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80",
-    "overview": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family, facing a choice between love and the fate of the universe.",
-    "critic_score": 92,
-    "certification": "PG-13",
-    "streaming": [
-      "Max",
-      "Apple TV",
-      "Google Play"
-    ],
-    "tagline": "Long live the fighters.",
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-08T11:10:46Z"
