@@ -1,5 +1,71 @@
 [
   {
+    "id": "mov-031",
+    "tmdb_id": 1384216,
+    "title": "The Dog Stars",
+    "original_title": "The Dog Stars",
+    "release_year": 2026,
+    "release_date": "2026-08-26",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.7,
+    "votes": "223",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O616X9vmRzQdB68PHzBewPittd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
+    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+    "critic_score": 67,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-08T15:41:11Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1003596,
+    "title": "Avengers: Doomsday",
+    "original_title": "Avengers: Doomsday",
+    "release_year": 2026,
+    "release_date": "2026-12-16",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-08T15:41:11Z"
+  },
+  {
     "id": "mov-029",
     "tmdb_id": 1288059,
     "title": "I Want Your Sex",
@@ -195,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-010",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-011",
@@ -246,7 +312,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.0,
+    "rating": 7.1,
     "votes": "73",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGIjFMxPgoVVnTPpAFRAkf8TH9M.jpg",
@@ -261,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-012",
@@ -294,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-013",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-014",
@@ -360,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-015",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-016",
@@ -426,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-017",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-018",
@@ -492,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-019",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-020",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-021",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-022",
@@ -642,7 +708,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.9,
+    "rating": 7.0,
     "votes": "22",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
@@ -657,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-024",
@@ -690,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-025",
@@ -723,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-026",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-027",
@@ -789,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-08T15:08:45Z"
+    "last_synced": "2026-09-08T15:41:11Z"
   },
   {
     "id": "mov-028",
@@ -937,80 +1003,6 @@
     "tagline": "Beyond fear, destiny awaits.",
     "status": "Released",
     "trending": false,
-    "last_synced": "2026-09-08T11:10:46Z"
-  },
-  {
-    "id": "mov-004",
-    "tmdb_id": 1022789,
-    "title": "Inside Out 2",
-    "original_title": "Inside Out 2",
-    "release_year": 2024,
-    "release_date": "2024-06-14",
-    "runtime": "96 min",
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "director": "Kelsey Mann",
-    "cast": [
-      "Amy Poehler",
-      "Maya Hawke",
-      "Kensington Tallman",
-      "Liza Lapira"
-    ],
-    "rating": 7.9,
-    "votes": "230,400",
-    "box_office": "$1.69B",
-    "poster": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=600&q=80",
-    "backdrop": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=80",
-    "overview": "Teenager Riley's mind headquarters undergoes a sudden demolition to make room for unexpected new Emotions, led by Anxiety, Envy, Ennui, and Embarrassment.",
-    "critic_score": 90,
-    "certification": "PG",
-    "streaming": [
-      "Disney+",
-      "Apple TV"
-    ],
-    "tagline": "Make room for new emotions.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-08T11:10:46Z"
-  },
-  {
-    "id": "mov-005",
-    "tmdb_id": 533535,
-    "title": "Deadpool & Wolverine",
-    "original_title": "Deadpool & Wolverine",
-    "release_year": 2024,
-    "release_date": "2024-07-26",
-    "runtime": "128 min",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "director": "Shawn Levy",
-    "cast": [
-      "Ryan Reynolds",
-      "Hugh Jackman",
-      "Emma Corrin",
-      "Morena Baccarin"
-    ],
-    "rating": 7.8,
-    "votes": "360,000",
-    "box_office": "$1.33B",
-    "poster": "https://images.unsplash.com/photo-1568832359672-e36cf5d74f54?auto=format&fit=crop&w=600&q=80",
-    "backdrop": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80",
-    "overview": "Wolverine is recovering from his injuries when he crosses paths with the loudmouth Deadpool. They team up to defeat a common enemy threatening their timelines.",
-    "critic_score": 78,
-    "certification": "R",
-    "streaming": [
-      "Disney+",
-      "Amazon Prime"
-    ],
-    "tagline": "Come together.",
-    "status": "Released",
-    "trending": true,
     "last_synced": "2026-09-08T11:10:46Z"
   }
 ]
