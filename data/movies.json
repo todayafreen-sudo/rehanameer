@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1083381,
+    "title": "Backrooms",
+    "original_title": "Backrooms",
+    "release_year": 2026,
+    "release_date": "2026-05-27",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.1,
+    "votes": "3,179",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+    "overview": "A strange doorway appears in the basement of a furniture showroom.",
+    "critic_score": 71,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-09T03:40:22Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1480574,
+    "title": "Just Play Dead",
+    "original_title": "Just Play Dead",
+    "release_year": 2026,
+    "release_date": "2026-08-28",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.6,
+    "votes": "32",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tieojVpH6eW44JQOQEWnf8t4khG.jpg",
+    "overview": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
+    "critic_score": 66,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-09T03:40:22Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1423191,
     "title": "Resident Evil",
     "original_title": "Resident Evil",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   },
   {
     "id": "mov-031",
@@ -162,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   },
   {
     "id": "mov-032",
@@ -195,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   },
   {
     "id": "mov-032",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   },
   {
     "id": "mov-030",
@@ -690,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   },
   {
     "id": "mov-010",
@@ -723,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   },
   {
     "id": "mov-011",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   },
   {
     "id": "mov-012",
@@ -789,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   },
   {
     "id": "mov-013",
@@ -822,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   },
   {
     "id": "mov-014",
@@ -855,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   },
   {
     "id": "mov-015",
@@ -888,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   },
   {
     "id": "mov-016",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
-  },
-  {
-    "id": "mov-017",
-    "tmdb_id": 969681,
-    "title": "Spider-Man: Brand New Day",
-    "original_title": "Spider-Man: Brand New Day",
-    "release_year": 2026,
-    "release_date": "2026-07-29",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.9,
-    "votes": "2,508",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "critic_score": 79,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
-  },
-  {
-    "id": "mov-018",
-    "tmdb_id": 860508,
-    "title": "The Whisper Man",
-    "original_title": "The Whisper Man",
-    "release_year": 2026,
-    "release_date": "2026-08-27",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.8,
-    "votes": "521",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
-    "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-    "critic_score": 68,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-09T03:07:49Z"
+    "last_synced": "2026-09-09T03:40:22Z"
   }
 ]
