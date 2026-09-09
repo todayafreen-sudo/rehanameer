@@ -1,6 +1,66 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 255358,
+    "name": "THE GHOST IN THE SHELL",
+    "first_air_date": "2026-07-07",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "50",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
+    "overview": "2029, a near-future Japan. The full cyborg Motoko Kusanagi envisions a task force that preemptively strikes emerging threats. She and her team are scouted by Daisuke Aramaki as Public Security Section 9, AKA the \"Shell Squad.\" An international conspiracy hints at a hacker known as The \"Puppet Master.\" What fate awaits Kusanagi? What is the hacker's endgame?",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-09T12:09:59Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 253941,
+    "name": "The Paper",
+    "first_air_date": "2025-09-04",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.1,
+    "votes": "93",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qtMVO0McAXN4IV30SMFAVmXraBL.jpg",
+    "overview": "The documentary crew that immortalized Dunder Mifflin's Scranton branch is in search of a new subject when they discover a historic Toledo newspaper, The Truth Teller, and the eager publisher trying to revive it.",
+    "critic_score": 71,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-09T12:09:59Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 258230,
     "name": "Last Seen",
     "first_air_date": "2026-09-09",
@@ -688,65 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-09T04:40:03Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 290234,
-    "name": "Lovesick",
-    "first_air_date": "2026-09-02",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.2,
-    "votes": "8",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg",
-    "overview": "Set during the Mexican Revolution, follow Emilia Sauri, a woman torn between two passionate loves while navigating a world dominated by violence and revolution.",
-    "critic_score": 72,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-09T04:07:52Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 65942,
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "first_air_date": "2016-04-04",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.1,
-    "votes": "769",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-    "critic_score": 81,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-09T03:40:22Z"
   }
 ]
