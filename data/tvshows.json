@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 304842,
+    "name": "The Drop: A Snowfall Saga",
+    "first_air_date": "2026-09-08",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 5.4,
+    "votes": "7",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiLqDZQdVILCIt00MLwDvnXAttr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
+    "overview": "In 1990s Los Angeles, Wanda and Leon fight to take West Coast rap mainstream while gang wars erupt and record labels move to exploit hip hop culture for their own gain.",
+    "critic_score": 54,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-09T22:37:20Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 615,
     "name": "Futurama",
     "first_air_date": "1999-03-28",
@@ -713,36 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
     "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
     "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-09T18:41:06Z"
-  },
-  {
-    "id": "tv-031",
-    "tmdb_id": 387,
-    "name": "SpongeBob SquarePants",
-    "first_air_date": "1999-05-01",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.7,
-    "votes": "3,268",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/pv8zQ2MKIZA67VmOfTNktJLmHa5.jpg",
-    "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
-    "critic_score": 77,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
