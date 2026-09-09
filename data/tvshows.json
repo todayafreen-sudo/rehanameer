@@ -1,6 +1,126 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 286686,
+    "name": "In My Prime",
+    "first_air_date": "2026-09-03",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.0,
+    "votes": "1",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fvUpmY1JJiOz1HNG4QnNmacNIc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7HXIhc3aRr1v7KmOrCulszXf3YP.jpg",
+    "overview": "In a small 1980s town, two families face an unexpected child swap between Qi Shi, a courageous girl with albinism, and Cao Xin, a disciplined boy seen as perfect. As they navigate identity, family, and love, both children and parents confront personal and societal challenges. Together, they struggle through hardships to find happiness and belonging in a changing world.",
+    "critic_score": 90,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-09T07:09:30Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 296140,
+    "name": "My Bias, My Boss",
+    "first_air_date": "2026-08-03",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.5,
+    "votes": "8",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
+    "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+    "critic_score": 75,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-09T07:09:30Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 220102,
+    "name": "Spider-Noir",
+    "first_air_date": "2026-05-25",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "833",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+    "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-09T07:09:30Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 2190,
+    "name": "South Park",
+    "first_air_date": "1997-08-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "5,133",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-09T07:09:30Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 615,
     "name": "Futurama",
     "first_air_date": "1999-03-28",
@@ -628,125 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-08T22:08:13Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 97546,
-    "name": "Ted Lasso",
-    "first_air_date": "2020-08-14",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.4,
-    "votes": "2,632",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-08T22:08:13Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 299952,
-    "name": "The Early Spring",
-    "first_air_date": "2026-08-26",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.9,
-    "votes": "9",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-    "critic_score": 79,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-08T22:08:13Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 247168,
-    "name": "Chad Powers",
-    "first_air_date": "2025-09-30",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "119",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXetUcD4wfalCj90QmT6kSvwO6D.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/wGmJg0wHBpifiHFsC6VgAOlQTge.jpg",
-    "overview": "Eight years after an unforgivable mistake nukes his promising college football career, hotshot quarterback Russ Holliday tries to resurrect his dreams by disguising himself as Chad Powers - a talented oddball who walks on to the struggling South Georgia Catfish.",
-    "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 60625,
-    "name": "Rick and Morty",
-    "first_air_date": "2013-12-02",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.7,
-    "votes": "11,369",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
-    "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-    "critic_score": 87,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-08T21:36:50Z"
   }
 ]
