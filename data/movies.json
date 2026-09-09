@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1315772,
+    "title": "Minions & Monsters",
+    "original_title": "Minions & Monsters",
+    "release_year": 2026,
+    "release_date": "2026-06-24",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.6,
+    "votes": "1,054",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+    "critic_score": 76,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-09T02:39:35Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1084244,
     "title": "Toy Story 5",
     "original_title": "Toy Story 5",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-032",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-032",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-009",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-010",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-011",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-012",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-013",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-014",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-015",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-016",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-017",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-018",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-019",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   },
   {
     "id": "mov-020",
@@ -954,39 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
-  },
-  {
-    "id": "mov-021",
-    "tmdb_id": 1423191,
-    "title": "Resident Evil",
-    "original_title": "Resident Evil",
-    "release_year": 2026,
-    "release_date": "2026-09-16",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "critic_score": 0,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-09T02:08:01Z"
+    "last_synced": "2026-09-09T02:39:35Z"
   }
 ]
