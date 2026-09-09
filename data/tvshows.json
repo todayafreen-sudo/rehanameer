@@ -1,6 +1,66 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 247718,
+    "name": "MobLand",
+    "first_air_date": "2025-03-30",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "828",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-09T01:39:16Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 194583,
+    "name": "The Walking Dead: Dead City",
+    "first_air_date": "2023-06-18",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.9,
+    "votes": "792",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
+    "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+    "critic_score": 79,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-09T01:39:16Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 125988,
     "name": "Silo",
     "first_air_date": "2023-05-04",
@@ -688,65 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-08T19:07:27Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 296140,
-    "name": "My Bias, My Boss",
-    "first_air_date": "2026-08-03",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "8",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
-    "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
-    "critic_score": 75,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-08T19:07:27Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 255358,
-    "name": "THE GHOST IN THE SHELL",
-    "first_air_date": "2026-07-07",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.5,
-    "votes": "43",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
-    "overview": "2029, a near-future Japan. The full cyborg Motoko Kusanagi envisions a task force that preemptively strikes emerging threats. She and her team are scouted by Daisuke Aramaki as Public Security Section 9, AKA the \"Shell Squad.\" An international conspiracy hints at a hacker known as The \"Puppet Master.\" What fate awaits Kusanagi? What is the hacker's endgame?",
-    "critic_score": 85,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-08T17:37:48Z"
   }
 ]
