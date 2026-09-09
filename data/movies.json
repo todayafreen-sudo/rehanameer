@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1108427,
+    "title": "Moana",
+    "original_title": "Moana",
+    "release_year": 2026,
+    "release_date": "2026-07-08",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.8,
+    "votes": "378",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
+    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "critic_score": 68,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-09T06:10:04Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1386315,
+    "title": "The Runner",
+    "original_title": "The Runner",
+    "release_year": 2026,
+    "release_date": "2026-09-03",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.7,
+    "votes": "342",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
+    "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+    "critic_score": 67,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-09T06:10:04Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1433367,
     "title": "One Night Only",
     "original_title": "One Night Only",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-033",
@@ -96,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-032",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-032",
@@ -294,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-032",
@@ -360,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-032",
@@ -426,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-032",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T05:39:25Z"
+    "last_synced": "2026-09-09T06:10:04Z"
   },
   {
     "id": "mov-032",
@@ -913,72 +979,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
     "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
     "critic_score": 73,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-08T13:40:38Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 192139,
-    "title": "The Brink of War",
-    "original_title": "The Brink of War",
-    "release_year": 2026,
-    "release_date": "2026-08-13",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.2,
-    "votes": "18",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
-    "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
-    "critic_score": 72,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-08T13:40:38Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1294189,
-    "title": "The Mongoose",
-    "original_title": "The Mongoose",
-    "release_year": 2026,
-    "release_date": "2026-10-30",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
-    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
-    "critic_score": 0,
     "certification": "PG-13",
     "streaming": [
       "Theatrical",
