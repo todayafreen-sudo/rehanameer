@@ -1,6 +1,156 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 294636,
+    "name": "The Ordinary Jackpot",
+    "first_air_date": "2026-09-10",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkHMNq0PUHDVn3w5QPM2hcnOdVb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2vN1SjkpXT6oCBxeE9GOK5NVS2b.jpg",
+    "overview": "An ordinary office worker wins the lottery – the amount isn't enough for him to quit his job, but it's enough to give him a new outlook on life.",
+    "critic_score": 0,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-10T18:41:20Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 294486,
+    "name": "The Long Watch",
+    "first_air_date": "2026-09-06",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.0,
+    "votes": "1",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
+    "overview": "A millennium-era leak case shaping cross-strait dynamics hides a covert tug-of-war between foreign forces and Chinese agents. In the late 90s, rookie Chunxiao and star agent Ma Qi foil plots together, but as time passes, the case reshapes all involved amid era-defining shifts.",
+    "critic_score": 90,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-10T18:41:20Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 94664,
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "first_air_date": "2021-01-11",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "1,710",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-10T18:41:20Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 95480,
+    "name": "Slow Horses",
+    "first_air_date": "2022-04-01",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "966",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2jauz2PeSjFQifDObI3qDen4f7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "critic_score": 80,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-10T18:41:20Z"
+  },
+  {
+    "id": "tv-030",
+    "tmdb_id": 1413,
+    "name": "American Horror Story",
+    "first_air_date": "2011-10-05",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "6,161",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2c3AvZeTyNehRZXabTojAxfDuR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6TSJRc77dDOesKzcNqkz0KeXdLz.jpg",
+    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-10T18:41:20Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 615,
     "name": "Futurama",
     "first_air_date": "1999-03-28",
@@ -598,155 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-10T06:42:50Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 301626,
-    "name": "A Tale of Two Cities",
-    "first_air_date": "2026-09-06",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 9.0,
-    "votes": "8",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
-    "overview": "A pair of lookalikes, one a former French aristocrat and the other an alcoholic English lawyer, fall in love with the same woman amidst the turmoil of the French Revolution.",
-    "critic_score": 90,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-10T06:42:50Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 196322,
-    "name": "Dark Matter",
-    "first_air_date": "2024-05-07",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.8,
-    "votes": "764",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-    "critic_score": 78,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-10T06:10:29Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 247168,
-    "name": "Chad Powers",
-    "first_air_date": "2025-09-30",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "119",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXetUcD4wfalCj90QmT6kSvwO6D.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/r7uH0Wa7rzHyK83XQpxRZVH76u7.jpg",
-    "overview": "Eight years after an unforgivable mistake nukes his promising college football career, hotshot quarterback Russ Holliday tries to resurrect his dreams by disguising himself as Chad Powers - a talented oddball who walks on to the struggling South Georgia Catfish.",
-    "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-10T05:38:43Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 255358,
-    "name": "THE GHOST IN THE SHELL",
-    "first_air_date": "2026-07-07",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.1,
-    "votes": "51",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
-    "overview": "2029, a near-future Japan. The full cyborg Motoko Kusanagi envisions a task force that preemptively strikes emerging threats. She and her team are scouted by Daisuke Aramaki as Public Security Section 9, AKA the \"Shell Squad.\" An international conspiracy hints at a hacker known as The \"Puppet Master.\" What fate awaits Kusanagi? What is the hacker's endgame?",
-    "critic_score": 81,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-10T05:07:35Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 103516,
-    "name": "Star Trek: Strange New Worlds",
-    "first_air_date": "2022-05-05",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.9,
-    "votes": "839",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-    "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-    "critic_score": 79,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-10T02:40:19Z"
   }
 ]
