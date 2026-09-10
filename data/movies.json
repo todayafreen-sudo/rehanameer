@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1386315,
+    "title": "The Runner",
+    "original_title": "The Runner",
+    "release_year": 2026,
+    "release_date": "2026-09-03",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.7,
+    "votes": "359",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+    "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+    "critic_score": 67,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-10T11:07:48Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1433367,
+    "title": "One Night Only",
+    "original_title": "One Night Only",
+    "release_year": 2026,
+    "release_date": "2026-07-28",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.8,
+    "votes": "87",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
+    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+    "critic_score": 68,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-10T11:07:48Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1137844,
     "title": "Mayday",
     "original_title": "Mayday",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   },
   {
     "id": "mov-032",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   },
   {
     "id": "mov-031",
@@ -162,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   },
   {
     "id": "mov-032",
@@ -195,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   },
   {
     "id": "mov-032",
@@ -261,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   },
   {
     "id": "mov-032",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   },
   {
     "id": "mov-032",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   },
   {
     "id": "mov-032",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   },
   {
     "id": "mov-031",
@@ -789,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   },
   {
     "id": "mov-032",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1522689,
-    "title": "Why Did I Get Married Again?",
-    "original_title": "Why Did I Get Married Again?",
-    "release_year": 2026,
-    "release_date": "2026-09-09",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.1,
-    "votes": "1",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-    "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
-    "critic_score": 50,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1108427,
-    "title": "Moana",
-    "original_title": "Moana",
-    "release_year": 2026,
-    "release_date": "2026-07-08",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.9,
-    "votes": "378",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
-    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "critic_score": 68,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-10T10:40:06Z"
+    "last_synced": "2026-09-10T11:07:48Z"
   }
 ]
