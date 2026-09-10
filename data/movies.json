@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1137844,
+    "title": "Mayday",
+    "original_title": "Mayday",
+    "release_year": 2026,
+    "release_date": "2026-09-03",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.9,
+    "votes": "359",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
+    "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+    "critic_score": 79,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-10T10:40:06Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1377237,
+    "title": "Runner",
+    "original_title": "Runner",
+    "release_year": 2026,
+    "release_date": "2026-09-07",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "9",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+    "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
+    "critic_score": 84,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-10T10:40:06Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1204680,
     "title": "Coyote vs. Acme",
     "original_title": "Coyote vs. Acme",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   },
   {
     "id": "mov-032",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   },
   {
     "id": "mov-031",
@@ -162,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   },
   {
     "id": "mov-032",
@@ -195,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   },
   {
     "id": "mov-032",
@@ -261,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   },
   {
     "id": "mov-032",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   },
   {
     "id": "mov-032",
@@ -690,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   },
   {
     "id": "mov-032",
@@ -855,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   },
   {
     "id": "mov-032",
@@ -888,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   },
   {
     "id": "mov-031",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1386315,
-    "title": "The Runner",
-    "original_title": "The Runner",
-    "release_year": 2026,
-    "release_date": "2026-09-03",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.7,
-    "votes": "342",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
-    "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
-    "critic_score": 67,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1433367,
-    "title": "One Night Only",
-    "original_title": "One Night Only",
-    "release_year": 2026,
-    "release_date": "2026-07-28",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.8,
-    "votes": "77",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
-    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-    "critic_score": 70,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-10T10:07:59Z"
+    "last_synced": "2026-09-10T10:40:06Z"
   }
 ]

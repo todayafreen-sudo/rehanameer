@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 325755,
+    "name": "The Perfect Lie",
+    "first_air_date": "2026-09-10",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
+    "overview": "When one of their own is killed in a house fire, four picture-perfect couples are forced to question everything they thought they knew about each other.",
+    "critic_score": 0,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-10T10:40:06Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 125988,
     "name": "Silo",
     "first_air_date": "2023-05-04",
@@ -718,35 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-10T02:40:19Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 290193,
-    "name": "Mousetrap",
-    "first_air_date": "2026-08-28",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "32",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
-    "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
-    "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-10T01:38:21Z"
   }
 ]
