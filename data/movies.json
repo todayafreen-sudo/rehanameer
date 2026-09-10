@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1284046,
+    "title": "Onslaught",
+    "original_title": "Onslaught",
+    "release_year": 2026,
+    "release_date": "2026-09-02",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.4,
+    "votes": "17",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+    "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+    "critic_score": 64,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-10T01:07:34Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1731694,
+    "title": "LEGO Star Wars: The Mandalorian",
+    "original_title": "LEGO Star Wars: The Mandalorian",
+    "release_year": 2026,
+    "release_date": "2026-09-02",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.9,
+    "votes": "22",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sVatzfUXkmPzPaR6iJIYiwp2TR6.jpg",
+    "overview": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adventures, a pirate threat looms.",
+    "critic_score": 69,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-10T01:07:34Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 687163,
     "title": "Project Hail Mary",
     "original_title": "Project Hail Mary",
@@ -294,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-032",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-031",
@@ -345,7 +411,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.9,
+    "rating": 6.8,
     "votes": "77",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg",
@@ -360,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-032",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-033",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-032",
@@ -492,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-032",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-032",
@@ -624,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-032",
@@ -690,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T23:36:55Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-032",
@@ -741,7 +807,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.8,
+    "rating": 6.9,
     "votes": "29",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-09T20:39:22Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-032",
@@ -888,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
+    "last_synced": "2026-09-10T01:07:34Z"
   },
   {
     "id": "mov-031",
@@ -922,71 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-09T19:36:13Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1101412,
-    "title": "Fall 2: Deadpoint",
-    "original_title": "Fall 2: Deadpoint",
-    "release_year": 2026,
-    "release_date": "2026-09-01",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.8,
-    "votes": "20",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-    "critic_score": 68,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-10T00:42:29Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1355228,
-    "title": "Gandhari",
-    "original_title": "गांधारी",
-    "release_year": 2026,
-    "release_date": "2026-09-03",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 4.9,
-    "votes": "6",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
-    "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
-    "critic_score": 52,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-09T02:39:35Z"
   }
 ]
