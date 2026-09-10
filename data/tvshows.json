@@ -1,6 +1,96 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 125988,
+    "name": "Silo",
+    "first_air_date": "2023-05-04",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "2,624",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+    "critic_score": 82,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-10T09:40:25Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 65942,
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "first_air_date": "2016-04-04",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "775",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qrYep23cjwdlwgfvyoO51YD9JrI.jpg",
+    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-10T09:40:25Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 69557,
+    "name": "Fauda",
+    "first_air_date": "2015-02-15",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.4,
+    "votes": "271",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bc6XIKP1TrnugYMzIIUz9YCL8VM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/l7BDJsD2zRYHvu3G7qV1v7q5hoF.jpg",
+    "overview": "A top Israeli agent comes out of retirement to hunt for a Palestinian militant he thought he'd killed, setting a chaotic chain of events into motion.",
+    "critic_score": 74,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-10T09:40:25Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 95350,
     "name": "Lanterns",
     "first_air_date": "2026-08-16",
@@ -658,95 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-10T01:38:21Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 60625,
-    "name": "Rick and Morty",
-    "first_air_date": "2013-12-02",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.7,
-    "votes": "11,375",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
-    "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-    "critic_score": 87,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-10T01:10:56Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 260458,
-    "name": "Adults",
-    "first_air_date": "2025-05-28",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.0,
-    "votes": "81",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJUoRlVXGl3MJb62Ugi1G08GPbx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/plx2cifejzcbGPYDtpsYS2mpajB.jpg",
-    "overview": "A group of twenty-somethings in New York trying to be good people, despite being neither \"good\" nor \"people\" yet.",
-    "critic_score": 60,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-10T01:10:56Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 304842,
-    "name": "The Drop: A Snowfall Saga",
-    "first_air_date": "2026-09-08",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 5.4,
-    "votes": "7",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiLqDZQdVILCIt00MLwDvnXAttr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
-    "overview": "In 1990s Los Angeles, Wanda and Leon fight to take West Coast rap mainstream while gang wars erupt and record labels move to exploit hip hop culture for their own gain.",
-    "critic_score": 54,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-09T22:37:20Z"
   }
 ]
