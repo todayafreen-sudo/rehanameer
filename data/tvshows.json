@@ -1,6 +1,156 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 456,
+    "name": "The Simpsons",
+    "first_air_date": "1989-12-17",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "10,995",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "critic_score": 80,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-11T06:42:24Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 615,
+    "name": "Futurama",
+    "first_air_date": "1999-03-28",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "3,895",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+    "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-11T06:42:24Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 294486,
+    "name": "The Long Watch",
+    "first_air_date": "2026-09-06",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.0,
+    "votes": "1",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
+    "overview": "A millennium-era leak case shaping cross-strait dynamics hides a covert tug-of-war between foreign forces and Chinese agents. In the late 90s, rookie Chunxiao and star agent Ma Qi foil plots together, but as time passes, the case reshapes all involved amid era-defining shifts.",
+    "critic_score": 90,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-11T06:42:24Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 304842,
+    "name": "The Drop: A Snowfall Saga",
+    "first_air_date": "2026-09-08",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 5.9,
+    "votes": "9",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiLqDZQdVILCIt00MLwDvnXAttr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
+    "overview": "In 1990s Los Angeles, Wanda and Leon fight to take West Coast rap mainstream while gang wars erupt and record labels move to exploit hip hop culture for their own gain.",
+    "critic_score": 59,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-11T06:42:24Z"
+  },
+  {
+    "id": "tv-030",
+    "tmdb_id": 287238,
+    "name": "Furious",
+    "first_air_date": "2026-07-27",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.3,
+    "votes": "117",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+    "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+    "critic_score": 73,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-11T06:42:24Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 125988,
     "name": "Silo",
     "first_air_date": "2023-05-04",
@@ -598,155 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-11T02:07:38Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 196322,
-    "name": "Dark Matter",
-    "first_air_date": "2024-05-07",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.8,
-    "votes": "764",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-    "critic_score": 78,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-11T02:07:38Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 69557,
-    "name": "Fauda",
-    "first_air_date": "2015-02-15",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.4,
-    "votes": "271",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bc6XIKP1TrnugYMzIIUz9YCL8VM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/l7BDJsD2zRYHvu3G7qV1v7q5hoF.jpg",
-    "overview": "A top Israeli agent comes out of retirement to hunt for a Palestinian militant he thought he'd killed, setting a chaotic chain of events into motion.",
-    "critic_score": 74,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-11T01:38:04Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 94997,
-    "name": "House of the Dragon",
-    "first_air_date": "2022-08-21",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.4,
-    "votes": "7,103",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-    "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-    "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-11T01:38:04Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 66980,
-    "name": "Babylon Berlin",
-    "first_air_date": "2017-10-13",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.7,
-    "votes": "410",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr18RHPMQSA0zbCzAZN2asIOqy5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7hezSIqkDjhP7MNGFN9vRkyWgO9.jpg",
-    "overview": "Beneath the decadence of 1929 Berlin, lies an underworld city of sin. Police investigator Gereon Rath has been transferred from Cologne to the epicenter of political and social changes in the Golden Twenties.",
-    "critic_score": 77,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-11T01:38:04Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 220102,
-    "name": "Spider-Noir",
-    "first_air_date": "2026-05-25",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.4,
-    "votes": "834",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
-    "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
-    "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-11T01:38:04Z"
   }
 ]
