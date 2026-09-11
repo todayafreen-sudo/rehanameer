@@ -1,6 +1,126 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 95350,
+    "name": "Lanterns",
+    "first_air_date": "2026-08-16",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "307",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-11T12:10:21Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 325755,
+    "name": "The Perfect Lie",
+    "first_air_date": "2026-09-10",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.0,
+    "votes": "3",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
+    "overview": "When one of their own is killed in a house fire, four picture-perfect couples are forced to question everything they thought they knew about each other.",
+    "critic_score": 70,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-11T12:10:21Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 332863,
+    "name": "Stolen Heartbeats",
+    "first_air_date": "2026-09-11",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 10.0,
+    "votes": "1",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2lqDwTCsD01Dg83BLw9z4IsDNh5.jpg",
+    "overview": "After an attack leaves a woman named Anabel comatose, she and Rafael—a nurse who has the unique ability to hear the dead—must work together to keep her alive while hiding from her enemies.",
+    "critic_score": 100,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-11T12:10:21Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 65942,
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "first_air_date": "2016-04-04",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "776",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qrYep23cjwdlwgfvyoO51YD9JrI.jpg",
+    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-11T12:10:21Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 108978,
     "name": "Reacher",
     "first_air_date": "2022-02-03",
@@ -628,125 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-11T06:42:24Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 294486,
-    "name": "The Long Watch",
-    "first_air_date": "2026-09-06",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 9.0,
-    "votes": "1",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
-    "overview": "A millennium-era leak case shaping cross-strait dynamics hides a covert tug-of-war between foreign forces and Chinese agents. In the late 90s, rookie Chunxiao and star agent Ma Qi foil plots together, but as time passes, the case reshapes all involved amid era-defining shifts.",
-    "critic_score": 90,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-11T06:42:24Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 304842,
-    "name": "The Drop: A Snowfall Saga",
-    "first_air_date": "2026-09-08",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 5.9,
-    "votes": "9",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiLqDZQdVILCIt00MLwDvnXAttr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
-    "overview": "In 1990s Los Angeles, Wanda and Leon fight to take West Coast rap mainstream while gang wars erupt and record labels move to exploit hip hop culture for their own gain.",
-    "critic_score": 59,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-11T06:42:24Z"
-  },
-  {
-    "id": "tv-030",
-    "tmdb_id": 287238,
-    "name": "Furious",
-    "first_air_date": "2026-07-27",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.3,
-    "votes": "117",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-    "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-    "critic_score": 73,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-11T06:42:24Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 125988,
-    "name": "Silo",
-    "first_air_date": "2023-05-04",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.2,
-    "votes": "2,633",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-    "critic_score": 82,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-11T06:09:37Z"
   }
 ]
