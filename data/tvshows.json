@@ -1,6 +1,66 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 30984,
+    "name": "Bleach",
+    "first_air_date": "2004-10-05",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "2,266",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-11T03:40:03Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 329471,
+    "name": "The Grand Tour",
+    "first_air_date": "2026-09-04",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.0,
+    "votes": "9",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/40Dx3P1mllQq1jhgN3K8dlti6CS.jpg",
+    "overview": "Welcome to The Grand Tour. The world's greatest motoring show reboots with new presenters - Thomas Holland, James Engelsman and Francis Bourgeois - and its trademark blend of global adventure, incredible vehicles, epic stunts and strong opinions.",
+    "critic_score": 90,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-11T03:40:03Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 37854,
     "name": "One Piece",
     "first_air_date": "1999-10-20",
@@ -688,65 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-10T21:07:00Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 299952,
-    "name": "The Early Spring",
-    "first_air_date": "2026-08-26",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.2,
-    "votes": "11",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGFngmJWMO4HTPcI0sUGKBAFqMe.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-    "critic_score": 82,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-10T20:38:13Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 246473,
-    "name": "Made in Korea",
-    "first_air_date": "2025-12-24",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.1,
-    "votes": "34",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3GmRS3efCTp6jumogKOxYBrV5mO.jpg",
-    "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
-    "critic_score": 81,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-10T20:38:13Z"
   }
 ]
