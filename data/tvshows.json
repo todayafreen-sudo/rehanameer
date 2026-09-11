@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 253941,
+    "name": "The Paper",
+    "first_air_date": "2025-09-04",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.1,
+    "votes": "95",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qtMVO0McAXN4IV30SMFAVmXraBL.jpg",
+    "overview": "The documentary crew that immortalized Dunder Mifflin's Scranton branch is in search of a new subject when they discover a historic Toledo newspaper, The Truth Teller, and the eager publisher trying to revive it.",
+    "critic_score": 71,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-11T22:36:50Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 125988,
     "name": "Silo",
     "first_air_date": "2023-05-04",
@@ -718,35 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-11T16:08:14Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 196322,
-    "name": "Dark Matter",
-    "first_air_date": "2024-05-07",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.8,
-    "votes": "765",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/mKOINOeqqXPpuGnf6DHDK4o02uR.jpg",
-    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-    "critic_score": 78,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-11T15:39:24Z"
   }
 ]
