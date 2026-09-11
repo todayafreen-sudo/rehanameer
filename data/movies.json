@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1302904,
+    "title": "Practical Magic 2",
+    "original_title": "Practical Magic 2",
+    "release_year": 2026,
+    "release_date": "2026-09-09",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.3,
+    "votes": "23",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "critic_score": 63,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-11T19:06:49Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 813418,
+    "title": "Hot Spot",
+    "original_title": "Hot Spot",
+    "release_year": 2026,
+    "release_date": "2026-08-21",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 4.7,
+    "votes": "11",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+    "overview": "Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.",
+    "critic_score": 47,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-11T19:06:49Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1248832,
     "title": "Digger",
     "original_title": "Digger",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-033",
@@ -96,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-032",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-032",
@@ -657,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-032",
@@ -723,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-032",
@@ -789,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T18:40:34Z"
+    "last_synced": "2026-09-11T19:06:49Z"
   },
   {
     "id": "mov-032",
@@ -922,71 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-11T18:08:29Z"
-  },
-  {
-    "id": "mov-033",
-    "tmdb_id": 1315772,
-    "title": "Minions & Monsters",
-    "original_title": "Minions & Monsters",
-    "release_year": 2026,
-    "release_date": "2026-06-24",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.6,
-    "votes": "1,064",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-    "critic_score": 76,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-11T10:07:52Z"
-  },
-  {
-    "id": "mov-034",
-    "tmdb_id": 1355228,
-    "title": "Gandhari",
-    "original_title": "गांधारी",
-    "release_year": 2026,
-    "release_date": "2026-09-03",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 5.1,
-    "votes": "8",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
-    "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
-    "critic_score": 51,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-10T21:07:00Z"
   }
 ]
