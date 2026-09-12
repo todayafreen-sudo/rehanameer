@@ -1,6 +1,105 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1315772,
+    "title": "Minions & Monsters",
+    "original_title": "Minions & Monsters",
+    "release_year": 2026,
+    "release_date": "2026-06-24",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.6,
+    "votes": "1,083",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+    "critic_score": 76,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-12T18:38:20Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1506560,
+    "title": "Clash of the Thundermans",
+    "original_title": "Clash of the Thundermans",
+    "release_year": 2026,
+    "release_date": "2026-09-03",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.7,
+    "votes": "48",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tBZMwg5oCJn8P0pStfuOMhhSQD3.jpg",
+    "overview": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",
+    "critic_score": 67,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-12T18:38:20Z"
+  },
+  {
+    "id": "mov-033",
+    "tmdb_id": 977942,
+    "title": "The Uprising",
+    "original_title": "The Uprising",
+    "release_year": 2026,
+    "release_date": "2026-09-10",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-12T18:38:20Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 687163,
     "title": "Project Hail Mary",
     "original_title": "Project Hail Mary",
@@ -81,7 +180,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.6,
+    "rating": 6.5,
     "votes": "38",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
@@ -96,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
+    "last_synced": "2026-09-12T18:38:20Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
+    "last_synced": "2026-09-12T18:38:20Z"
   },
   {
     "id": "mov-032",
@@ -195,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
+    "last_synced": "2026-09-12T18:38:20Z"
   },
   {
     "id": "mov-032",
@@ -228,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
+    "last_synced": "2026-09-12T18:38:20Z"
   },
   {
     "id": "mov-031",
@@ -246,7 +345,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.8,
+    "rating": 7.9,
     "votes": "416",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
@@ -261,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
+    "last_synced": "2026-09-12T18:38:20Z"
   },
   {
     "id": "mov-032",
@@ -294,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
+    "last_synced": "2026-09-12T18:38:20Z"
   },
   {
     "id": "mov-033",
@@ -327,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
+    "last_synced": "2026-09-12T18:38:20Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
+    "last_synced": "2026-09-12T18:38:20Z"
   },
   {
     "id": "mov-032",
@@ -393,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
+    "last_synced": "2026-09-12T18:38:20Z"
   },
   {
     "id": "mov-033",
@@ -426,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
+    "last_synced": "2026-09-12T18:38:20Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
+    "last_synced": "2026-09-12T18:38:20Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
+    "last_synced": "2026-09-12T18:38:20Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
+    "last_synced": "2026-09-12T18:38:20Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
+    "last_synced": "2026-09-12T18:38:20Z"
   },
   {
     "id": "mov-032",
@@ -789,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T02:07:44Z"
+    "last_synced": "2026-09-12T18:38:20Z"
   },
   {
     "id": "mov-032",
@@ -889,104 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-12T18:08:20Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1185806,
-    "title": "PAW Patrol: The Dino Movie",
-    "original_title": "PAW Patrol: The Dino Movie",
-    "release_year": 2026,
-    "release_date": "2026-07-23",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.8,
-    "votes": "50",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-    "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
-    "critic_score": 70,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1081003,
-    "title": "Supergirl",
-    "original_title": "Supergirl",
-    "release_year": 2026,
-    "release_date": "2026-06-24",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.7,
-    "votes": "2,211",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
-    "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-    "critic_score": 67,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-12T14:06:59Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1003596,
-    "title": "Avengers: Doomsday",
-    "original_title": "Avengers: Doomsday",
-    "release_year": 2026,
-    "release_date": "2026-12-16",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
-    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-    "critic_score": 0,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-12T15:36:10Z"
   }
 ]
