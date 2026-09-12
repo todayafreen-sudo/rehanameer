@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1465063,
+    "title": "Forgotten Island",
+    "original_title": "Forgotten Island",
+    "release_year": 2026,
+    "release_date": "2026-09-16",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 10.0,
+    "votes": "1",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
+    "critic_score": 100,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-12T01:06:35Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1291595,
+    "title": "Insidious: Out of the Further",
+    "original_title": "Insidious: Out of the Further",
+    "release_year": 2026,
+    "release_date": "2026-08-19",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.5,
+    "votes": "134",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "critic_score": 65,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-12T01:06:35Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1302904,
     "title": "Practical Magic 2",
     "original_title": "Practical Magic 2",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-032",
@@ -96,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T19:36:11Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-032",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-11T19:36:11Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-032",
@@ -723,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-032",
@@ -789,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-032",
@@ -855,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-031",
@@ -888,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   },
   {
     "id": "mov-032",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1084244,
-    "title": "Toy Story 5",
-    "original_title": "Toy Story 5",
-    "release_year": 2026,
-    "release_date": "2026-06-17",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.3,
-    "votes": "2,066",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-    "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-    "critic_score": 83,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1514026,
-    "title": "Buddy",
-    "original_title": "Buddy",
-    "release_year": 2026,
-    "release_date": "2026-08-27",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.1,
-    "votes": "46",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-    "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
-    "critic_score": 83,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-12T00:41:43Z"
+    "last_synced": "2026-09-12T01:06:35Z"
   }
 ]
