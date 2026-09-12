@@ -1,6 +1,66 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 94664,
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "first_air_date": "2021-01-11",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "1,710",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-12T19:06:35Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 290193,
+    "name": "Mousetrap",
+    "first_air_date": "2026-08-28",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "35",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
+    "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-12T19:06:35Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 37854,
     "name": "One Piece",
     "first_air_date": "1999-10-20",
@@ -688,65 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-12T08:07:43Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 246473,
-    "name": "Made in Korea",
-    "first_air_date": "2025-12-24",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.1,
-    "votes": "34",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3GmRS3efCTp6jumogKOxYBrV5mO.jpg",
-    "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
-    "critic_score": 81,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-12T07:35:58Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 300507,
-    "name": "Crew Girl",
-    "first_air_date": "2026-09-10",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.8,
-    "votes": "12",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
-    "overview": "After a family scandal, teen rower Teagan Tao moves to a small town and joins an elite prep school's all-boys crew, sparking rivalry and attraction.",
-    "critic_score": 78,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-12T07:35:58Z"
   }
 ]
