@@ -1,6 +1,96 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 97546,
+    "name": "Ted Lasso",
+    "first_air_date": "2020-08-14",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "2,641",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-12T02:07:44Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 113962,
+    "name": "Lioness",
+    "first_air_date": "2023-07-23",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "1,514",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "critic_score": 82,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-12T02:07:44Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 66980,
+    "name": "Babylon Berlin",
+    "first_air_date": "2017-10-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.7,
+    "votes": "410",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr18RHPMQSA0zbCzAZN2asIOqy5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7hezSIqkDjhP7MNGFN9vRkyWgO9.jpg",
+    "overview": "Beneath the decadence of 1929 Berlin, lies an underworld city of sin. Police investigator Gereon Rath has been transferred from Cologne to the epicenter of political and social changes in the Golden Twenties.",
+    "critic_score": 77,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-12T02:07:44Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 247168,
     "name": "Chad Powers",
     "first_air_date": "2025-09-30",
@@ -653,96 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
     "overview": "In 1990s Los Angeles, Wanda and Leon fight to take West Coast rap mainstream while gang wars erupt and record labels move to exploit hip hop culture for their own gain.",
     "critic_score": 59,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-11T19:06:49Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 103516,
-    "name": "Star Trek: Strange New Worlds",
-    "first_air_date": "2022-05-05",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.9,
-    "votes": "844",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-    "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-    "critic_score": 79,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-11T19:06:49Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 294486,
-    "name": "The Long Watch",
-    "first_air_date": "2026-09-06",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 9.0,
-    "votes": "1",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
-    "overview": "A millennium-era leak case shaping cross-strait dynamics hides a covert tug-of-war between foreign forces and Chinese agents. In the late 90s, rookie Chunxiao and star agent Ma Qi foil plots together, but as time passes, the case reshapes all involved amid era-defining shifts.",
-    "critic_score": 90,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-11T19:06:49Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 301626,
-    "name": "A Tale of Two Cities",
-    "first_air_date": "2026-09-06",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 9.0,
-    "votes": "8",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
-    "overview": "A pair of lookalikes, one a former French aristocrat and the other an alcoholic English lawyer, fall in love with the same woman amidst the turmoil of the French Revolution.",
-    "critic_score": 90,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
