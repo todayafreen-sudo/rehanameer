@@ -1,6 +1,105 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1108427,
+    "title": "Moana",
+    "original_title": "Moana",
+    "release_year": 2026,
+    "release_date": "2026-07-08",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.2,
+    "votes": "612",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "critic_score": 72,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-14T22:08:14Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1365884,
+    "title": "Call My Agent! The Movie",
+    "original_title": "Dix Pour Cent ! Le Film",
+    "release_year": 2026,
+    "release_date": "2026-08-29",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.2,
+    "votes": "46",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
+    "overview": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
+    "critic_score": 62,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-14T22:08:14Z"
+  },
+  {
+    "id": "mov-033",
+    "tmdb_id": 1514026,
+    "title": "Buddy",
+    "original_title": "Buddy",
+    "release_year": 2026,
+    "release_date": "2026-08-27",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "56",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+    "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
+    "critic_score": 80,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-14T22:08:14Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1433367,
     "title": "One Night Only",
     "original_title": "One Night Only",
@@ -30,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
+    "last_synced": "2026-09-14T22:08:14Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
+    "last_synced": "2026-09-14T22:08:14Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
+    "last_synced": "2026-09-14T22:08:14Z"
   },
   {
     "id": "mov-032",
@@ -129,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
+    "last_synced": "2026-09-14T22:08:14Z"
   },
   {
     "id": "mov-031",
@@ -147,7 +246,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.9,
+    "rating": 7.8,
     "votes": "2,672",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
@@ -162,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
+    "last_synced": "2026-09-14T22:08:14Z"
   },
   {
     "id": "mov-032",
@@ -195,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
+    "last_synced": "2026-09-14T22:08:14Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
+    "last_synced": "2026-09-14T22:08:14Z"
   },
   {
     "id": "mov-032",
@@ -261,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
+    "last_synced": "2026-09-14T22:08:14Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
+    "last_synced": "2026-09-14T22:08:14Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
+    "last_synced": "2026-09-14T22:08:14Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
+    "last_synced": "2026-09-14T22:08:14Z"
   },
   {
     "id": "mov-032",
@@ -591,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
+    "last_synced": "2026-09-14T22:08:14Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
+    "last_synced": "2026-09-14T22:08:14Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
+    "last_synced": "2026-09-14T22:08:14Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
+    "last_synced": "2026-09-14T22:08:14Z"
   },
   {
     "id": "mov-032",
@@ -889,104 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-13T03:07:48Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 687163,
-    "title": "Project Hail Mary",
-    "original_title": "Project Hail Mary",
-    "release_year": 2026,
-    "release_date": "2026-03-15",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.6,
-    "votes": "7,677",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
-    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-    "critic_score": 86,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-14T13:40:50Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1522689,
-    "title": "Why Did I Get Married Again?",
-    "original_title": "Why Did I Get Married Again?",
-    "release_year": 2026,
-    "release_date": "2026-09-08",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.2,
-    "votes": "14",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-    "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
-    "critic_score": 68,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1440098,
-    "title": "Drawn Together",
-    "original_title": "Enfrentados: Marfil",
-    "release_year": 2026,
-    "release_date": "2026-09-09",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.6,
-    "votes": "38",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-    "overview": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
-    "critic_score": 66,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-14T21:39:05Z"
   }
 ]
