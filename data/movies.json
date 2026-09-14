@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1440098,
+    "title": "Drawn Together",
+    "original_title": "Enfrentados: Marfil",
+    "release_year": 2026,
+    "release_date": "2026-09-09",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.6,
+    "votes": "69",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+    "overview": "After a wealthy Spanish heiress is kidnapped, she falls into a dangerous attraction with the newly hired bodyguard assigned to protect her in a world full of deception.",
+    "critic_score": 66,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-14T22:40:03Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1522689,
+    "title": "Why Did I Get Married Again?",
+    "original_title": "Why Did I Get Married Again?",
+    "release_year": 2026,
+    "release_date": "2026-09-08",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.2,
+    "votes": "18",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+    "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
+    "critic_score": 72,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-14T22:40:03Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1108427,
     "title": "Moana",
     "original_title": "Moana",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-033",
@@ -96,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-032",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-032",
@@ -294,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-032",
@@ -360,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-032",
@@ -690,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T22:08:14Z"
+    "last_synced": "2026-09-14T22:40:03Z"
   },
   {
     "id": "mov-032",
@@ -922,71 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-14T19:08:00Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1506560,
-    "title": "Clash of the Thundermans",
-    "original_title": "Clash of the Thundermans",
-    "release_year": 2026,
-    "release_date": "2026-09-03",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.7,
-    "votes": "48",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/tBZMwg5oCJn8P0pStfuOMhhSQD3.jpg",
-    "overview": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",
-    "critic_score": 67,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-12T19:35:14Z"
-  },
-  {
-    "id": "mov-033",
-    "tmdb_id": 977942,
-    "title": "The Uprising",
-    "original_title": "The Uprising",
-    "release_year": 2026,
-    "release_date": "2026-09-10",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.2,
-    "votes": "0",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
-    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-    "critic_score": 0,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-13T03:07:48Z"
   }
 ]
