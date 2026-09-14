@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1280738,
+    "title": "The Furious",
+    "original_title": "火遮眼",
+    "release_year": 2026,
+    "release_date": "2026-06-10",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "714",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/i0eR9O1FnCgBm1cH8WwqxGbAXMS.jpg",
+    "overview": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
+    "critic_score": 82,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-14T16:40:37Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1101412,
     "title": "Fall 2: Deadpoint",
     "original_title": "Fall 2: Deadpoint",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-032",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-032",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-12T23:35:52Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-032",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-032",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-032",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-031",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-033",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-031",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-032",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   },
   {
     "id": "mov-033",
@@ -954,39 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-14T16:08:09Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 860508,
-    "title": "The Whisper Man",
-    "original_title": "The Whisper Man",
-    "release_year": 2026,
-    "release_date": "2026-08-27",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.8,
-    "votes": "595",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
-    "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-    "critic_score": 68,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-12T18:08:20Z"
+    "last_synced": "2026-09-14T16:40:37Z"
   }
 ]
