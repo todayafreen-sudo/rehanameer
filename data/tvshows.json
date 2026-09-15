@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 270476,
+    "name": "Widow's Bay",
+    "first_air_date": "2026-04-28",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "452",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+    "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-15T12:09:58Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 113962,
     "name": "Lioness",
     "first_air_date": "2023-07-23",
@@ -713,36 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
     "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
     "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-15T01:40:06Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 325755,
-    "name": "The Perfect Lie",
-    "first_air_date": "2026-09-10",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.2,
-    "votes": "11",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
-    "overview": "When one of their own is killed in a house fire, four picture-perfect couples are forced to question everything they thought they knew about each other.",
-    "critic_score": 62,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
