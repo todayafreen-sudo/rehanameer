@@ -1,6 +1,66 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 94664,
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "first_air_date": "2021-01-11",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "1,714",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-16T20:08:55Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 246473,
+    "name": "Made in Korea",
+    "first_air_date": "2025-12-24",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "36",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3GmRS3efCTp6jumogKOxYBrV5mO.jpg",
+    "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
+    "critic_score": 82,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-16T20:08:55Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 65942,
     "name": "Re:ZERO -Starting Life in Another World-",
     "first_air_date": "2016-04-04",
@@ -688,65 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-16T08:40:58Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 194583,
-    "name": "The Walking Dead: Dead City",
-    "first_air_date": "2023-06-18",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.9,
-    "votes": "794",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
-    "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
-    "critic_score": 79,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-16T08:40:58Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 273207,
-    "name": "Neagley",
-    "first_air_date": "2026-09-16",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.2,
-    "votes": "5",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m6CxPAuGv2oHc1ahERrcVWnk2J.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/20ivBYm3H9MbGtRISGdhjydll9L.jpg",
-    "overview": "Frances Neagley is a private investigator in Chicago. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell bent on justice. Using everything she's learned from Jack Reacher and her time as a member of the 110 Special Investigators, Neagley puts herself on a dangerous path to uncover a menacing evil.",
-    "critic_score": 62,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-16T08:08:29Z"
   }
 ]
