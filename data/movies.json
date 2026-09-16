@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1248832,
+    "title": "Digger",
+    "original_title": "Digger",
+    "release_year": 2026,
+    "release_date": "2026-09-30",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-16T09:39:41Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1275779,
     "title": "Disclosure Day",
     "original_title": "Disclosure Day",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-031",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-031",
@@ -279,7 +312,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.1,
+    "rating": 6.0,
     "votes": "46",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-031",
@@ -576,7 +609,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.7,
+    "rating": 6.6,
     "votes": "69",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-032",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-032",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-032",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-032",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-031",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-032",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   },
   {
     "id": "mov-031",
@@ -954,39 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1288445,
-    "title": "Mutiny",
-    "original_title": "Mutiny",
-    "release_year": 2026,
-    "release_date": "2026-08-19",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.4,
-    "votes": "391",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-    "critic_score": 64,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-16T09:08:08Z"
+    "last_synced": "2026-09-16T09:39:41Z"
   }
 ]
