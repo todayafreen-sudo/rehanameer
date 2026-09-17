@@ -1,6 +1,66 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 299939,
+    "name": "Monster: The Lizzie Borden Story",
+    "first_air_date": "2026-09-17",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "3",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3JVjgaqfX5MhxxHKpGWz05QV7Dz.jpg",
+    "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-17T12:42:39Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 273207,
+    "name": "Neagley",
+    "first_air_date": "2026-09-16",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.0,
+    "votes": "24",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m6CxPAuGv2oHc1ahERrcVWnk2J.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+    "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
+    "critic_score": 70,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-17T12:42:39Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 320760,
     "name": "Not a Stranger",
     "first_air_date": "2026-09-17",
@@ -683,66 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/wrMY8LMEnPiM9dokAUZCGGKLWrm.jpg",
     "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
     "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-17T07:39:17Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 258230,
-    "name": "Last Seen",
-    "first_air_date": "2026-09-09",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.8,
-    "votes": "12",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
-    "overview": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
-    "critic_score": 88,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-17T07:39:17Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 255358,
-    "name": "THE GHOST IN THE SHELL",
-    "first_air_date": "2026-07-07",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.2,
-    "votes": "62",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
-    "overview": "2029, a near-future Japan. The full cyborg Motoko Kusanagi envisions a task force that preemptively strikes emerging threats. She and her team are scouted by Daisuke Aramaki as Public Security Section 9, AKA the \"Shell Squad.\" An international conspiracy hints at a hacker known as The \"Puppet Master.\" What fate awaits Kusanagi? What is the hacker's endgame?",
-    "critic_score": 82,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
