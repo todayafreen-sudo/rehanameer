@@ -1,6 +1,156 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 108978,
+    "name": "Reacher",
+    "first_air_date": "2022-02-03",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "3,326",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-17T08:08:47Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 125988,
+    "name": "Silo",
+    "first_air_date": "2023-05-04",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "2,680",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
+    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+    "critic_score": 82,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-17T08:08:47Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 332401,
+    "name": "City of Blood",
+    "first_air_date": "2026-09-16",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 10.0,
+    "votes": "3",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nAEIr2b9M9ya8SXOTA1bDDMjhCA.jpg",
+    "overview": "Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city's new currency.",
+    "critic_score": 100,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-17T08:08:47Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 97546,
+    "name": "Ted Lasso",
+    "first_air_date": "2020-08-14",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "2,662",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-17T08:08:47Z"
+  },
+  {
+    "id": "tv-030",
+    "tmdb_id": 196322,
+    "name": "Dark Matter",
+    "first_air_date": "2024-05-07",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.8,
+    "votes": "776",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hQkomlkdnGgh52YqG1nhUeQxr5E.jpg",
+    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+    "critic_score": 78,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-17T08:08:47Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 95480,
     "name": "Slow Horses",
     "first_air_date": "2022-04-01",
@@ -598,155 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-17T02:08:03Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 325755,
-    "name": "The Perfect Lie",
-    "first_air_date": "2026-09-10",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.4,
-    "votes": "15",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
-    "overview": "When one of their own is killed in a house fire, four picture-perfect couples are forced to question everything they thought they knew about each other.",
-    "critic_score": 64,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-17T01:38:29Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 247718,
-    "name": "MobLand",
-    "first_air_date": "2025-03-30",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.4,
-    "votes": "847",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-17T01:38:29Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 332657,
-    "name": "Route 187",
-    "first_air_date": "2026-09-16",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 10.0,
-    "votes": "4",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfP9A3IaKE00U1ap1y7wAoZRzeC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/Agx8RmlBBDJrlH9MyUOd5JYYZPS.jpg",
-    "overview": "Citizens combat urban violence until a bus driver and student's murders by thugs spark outrage, leading authorities to hunt the culprits captured on video.",
-    "critic_score": 100,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-17T00:10:15Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 95350,
-    "name": "Lanterns",
-    "first_air_date": "2026-08-16",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.2,
-    "votes": "349",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "critic_score": 82,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-16T23:37:08Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 113962,
-    "name": "Lioness",
-    "first_air_date": "2023-07-23",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.2,
-    "votes": "1,555",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "critic_score": 82,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-16T23:37:08Z"
   }
 ]
