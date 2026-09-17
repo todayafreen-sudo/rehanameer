@@ -1,6 +1,96 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 320760,
+    "name": "Not a Stranger",
+    "first_air_date": "2026-09-17",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgBRNtynz81e0DE4bWo8XwTbCw9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vPQ4Ctn8MS6NBP73duf0GHtbziU.jpg",
+    "overview": "After giving birth, painter Funda put her career on hold to focus on her child. Ready to return to painting, she finally finds the nanny she has been searching for: Nazlı. But the mysterious and increasingly unsettling woman soon begins to disrupt the seemingly peaceful lives of Funda and her husband İlker. What begins as a simple employment arrangement develops into a dangerous psychological game in which desire, secrets and loyalty are put to the test.",
+    "critic_score": 0,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-17T12:09:48Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 232018,
+    "name": "Has Fallen",
+    "first_air_date": "2024-09-23",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.0,
+    "votes": "121",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v0eBR7tZIWQKNtb2MyJtAji5OjA.jpg",
+    "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
+    "critic_score": 70,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-17T12:09:48Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 300507,
+    "name": "Crew Girl",
+    "first_air_date": "2026-09-10",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "28",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
+    "overview": "After a family scandal, teen rower Teagan Tao moves to a small town and joins an elite prep school's all-boys crew, sparking rivalry and attraction.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-17T12:09:48Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 236235,
     "name": "The Gentlemen",
     "first_air_date": "2024-03-07",
@@ -658,95 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-17T07:39:17Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 299939,
-    "name": "Monster: The Lizzie Borden Story",
-    "first_air_date": "2026-09-17",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.0,
-    "votes": "1",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3JVjgaqfX5MhxxHKpGWz05QV7Dz.jpg",
-    "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-    "critic_score": 70,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-17T07:39:17Z"
-  },
-  {
-    "id": "tv-030",
-    "tmdb_id": 304842,
-    "name": "The Drop: A Snowfall Saga",
-    "first_air_date": "2026-09-08",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.2,
-    "votes": "10",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
-    "overview": "In 1990s Los Angeles, Wanda and Leon fight to take West Coast rap mainstream while gang wars erupt and record labels move to exploit hip hop culture for their own gain.",
-    "critic_score": 62,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-17T07:39:17Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 273207,
-    "name": "Neagley",
-    "first_air_date": "2026-09-16",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.8,
-    "votes": "22",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m6CxPAuGv2oHc1ahERrcVWnk2J.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
-    "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
-    "critic_score": 68,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-17T07:10:04Z"
   }
 ]
