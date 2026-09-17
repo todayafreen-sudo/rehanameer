@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1440098,
+    "title": "Drawn Together",
+    "original_title": "Enfrentados: Marfil",
+    "release_year": 2026,
+    "release_date": "2026-09-09",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.7,
+    "votes": "86",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+    "overview": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
+    "critic_score": 67,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-17T16:08:51Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1108427,
     "title": "Moana",
     "original_title": "Moana",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-032",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-032",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-032",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-032",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-032",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-032",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   },
   {
     "id": "mov-031",
@@ -954,39 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T15:38:39Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1522689,
-    "title": "Why Did I Get Married Again?",
-    "original_title": "Why Did I Get Married Again?",
-    "release_year": 2026,
-    "release_date": "2026-09-08",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.0,
-    "votes": "20",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-    "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
-    "critic_score": 70,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-17T08:08:47Z"
+    "last_synced": "2026-09-17T16:08:51Z"
   }
 ]
