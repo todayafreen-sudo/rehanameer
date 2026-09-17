@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1284465,
+    "title": "The Death of Robin Hood",
+    "original_title": "The Death of Robin Hood",
+    "release_year": 2026,
+    "release_date": "2026-06-18",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.2,
+    "votes": "307",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+    "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+    "critic_score": 62,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-17T18:09:12Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1124142,
     "title": "The Rivals of Amziah King",
     "original_title": "The Rivals of Amziah King",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T16:08:51Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-032",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-032",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-032",
@@ -393,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-032",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-032",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-17T17:37:22Z"
+    "last_synced": "2026-09-17T18:09:12Z"
   },
   {
     "id": "mov-031",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-17T17:37:22Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1465063,
-    "title": "Forgotten Island",
-    "original_title": "Forgotten Island",
-    "release_year": 2026,
-    "release_date": "2026-09-14",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.8,
-    "votes": "6",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-    "critic_score": 88,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-17T06:43:26Z"
   }
 ]
