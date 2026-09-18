@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1323244,
+    "title": "Rage of Stars",
+    "original_title": "Rage of Stars",
+    "release_year": 2026,
+    "release_date": "2026-08-06",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.6,
+    "votes": "149",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
+    "overview": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
+    "critic_score": 66,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-18T16:38:02Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1124142,
     "title": "The Rivals of Amziah King",
     "original_title": "The Rivals of Amziah King",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-031",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-032",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-033",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-032",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-033",
@@ -393,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-032",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-032",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-031",
@@ -609,7 +642,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.6,
+    "rating": 7.7,
     "votes": "51",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T16:07:21Z"
+    "last_synced": "2026-09-18T16:38:02Z"
   },
   {
     "id": "mov-031",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-17T20:08:15Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1365884,
-    "title": "Call My Agent! The Movie",
-    "original_title": "Dix Pour Cent ! Le Film",
-    "release_year": 2026,
-    "release_date": "2026-08-29",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.5,
-    "votes": "65",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
-    "overview": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
-    "critic_score": 64,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-18T13:38:19Z"
   }
 ]
