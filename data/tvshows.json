@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 287620,
+    "name": "Stuart Fails to Save the Universe",
+    "first_air_date": "2026-07-23",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.8,
+    "votes": "166",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
+    "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+    "critic_score": 88,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-18T06:10:13Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 236235,
     "name": "The Gentlemen",
     "first_air_date": "2024-03-07",
@@ -713,36 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/3GmRS3efCTp6jumogKOxYBrV5mO.jpg",
     "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
     "critic_score": 82,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-17T19:06:32Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 300507,
-    "name": "Crew Girl",
-    "first_air_date": "2026-09-10",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.3,
-    "votes": "28",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
-    "overview": "After a family scandal, teen rower Teagan Tao moves to a small town and joins an elite prep school's all-boys crew, sparking rivalry and attraction.",
-    "critic_score": 83,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
