@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1185806,
+    "title": "PAW Patrol: The Dino Movie",
+    "original_title": "PAW Patrol: The Dino Movie",
+    "release_year": 2026,
+    "release_date": "2026-07-23",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.8,
+    "votes": "115",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+    "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+    "critic_score": 78,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-18T08:39:43Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1329016,
     "title": "Tony",
     "original_title": "Tony",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T06:42:09Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-031",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T04:08:05Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-032",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-032",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-032",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-031",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-032",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-18T08:08:25Z"
+    "last_synced": "2026-09-18T08:39:43Z"
   },
   {
     "id": "mov-031",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-18T03:07:37Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1558568,
-    "title": "Go Team!",
-    "original_title": "Gracias, equipo",
-    "release_year": 2026,
-    "release_date": "2026-09-11",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 5.7,
-    "votes": "19",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
-    "overview": "When their team-building event gets downgraded to a tiny village, a cheese company's staff think it can't get worse — then they learn about the layoffs.",
-    "critic_score": 59,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-17T14:39:16Z"
   }
 ]
