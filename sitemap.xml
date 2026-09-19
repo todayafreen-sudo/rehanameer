@@ -43,6 +43,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://movixwire.world/news/2026-09-19-venice-and-toronto-festivals-announce-major-program-overhauls-to.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://movixwire.world/news/2026-09-19-streaming-platforms-pivot-to-physical-4k-collector-editions-amid.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -333,12 +339,6 @@
   <url>
     <loc>https://movixwire.world/news/2025-05-02-japanese-theatrical-animation-global-box-office.html</loc>
     <lastmod>2025-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://movixwire.world/news/2025-04-15-seoul-creative-boom-korean-drama-global-investments.html</loc>
-    <lastmod>2025-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
