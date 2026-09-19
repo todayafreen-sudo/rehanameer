@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1451944,
+    "title": "Lust Stories 3",
+    "original_title": "Lust Stories 3",
+    "release_year": 2026,
+    "release_date": "2026-09-18",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.0,
+    "votes": "1",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GBe4TeCeXa1ENg0rv2JH8cH0ry.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ygMNjFOBuLVoInEoPzqPU2U0pfg.jpg",
+    "overview": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human connection in all their complexity.",
+    "critic_score": 70,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-19T03:07:34Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1124142,
     "title": "The Rivals of Amziah King",
     "original_title": "The Rivals of Amziah King",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-032",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-032",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-032",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-032",
@@ -543,7 +576,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.0,
+    "rating": 8.2,
     "votes": "5",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T00:10:36Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-032",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-032",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T00:10:36Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-032",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-19T02:37:28Z"
+    "last_synced": "2026-09-19T03:07:34Z"
   },
   {
     "id": "mov-031",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-19T02:37:28Z"
-  },
-  {
-    "id": "mov-033",
-    "tmdb_id": 860508,
-    "title": "The Whisper Man",
-    "original_title": "The Whisper Man",
-    "release_year": 2026,
-    "release_date": "2026-08-27",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.8,
-    "votes": "703",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
-    "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-    "critic_score": 68,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-18T20:07:42Z"
   }
 ]
