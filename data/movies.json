@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1279493,
+    "title": "The Get Out",
+    "original_title": "The Get Out",
+    "release_year": 2026,
+    "release_date": "2026-06-18",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.1,
+    "votes": "81",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
+    "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+    "critic_score": 61,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-20T09:37:04Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1514863,
+    "title": "Best of the Best",
+    "original_title": "Best of the Best",
+    "release_year": 2026,
+    "release_date": "2026-09-18",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.3,
+    "votes": "7",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+    "overview": "Two best friends at UCLA leap into the competitive and cutthroat world of collegiate Bollywood-fusion dance.",
+    "critic_score": 73,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-20T09:37:04Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1451944,
     "title": "Lust Stories 3",
     "original_title": "Lust Stories 3",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-032",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-032",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-032",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-033",
@@ -492,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-032",
@@ -624,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   },
   {
     "id": "mov-031",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1124142,
-    "title": "The Rivals of Amziah King",
-    "original_title": "The Rivals of Amziah King",
-    "release_year": 2026,
-    "release_date": "2026-08-13",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.7,
-    "votes": "65",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3qR1ZxuEzDksDGT13mHH2IiEq7G.jpg",
-    "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-    "critic_score": 67,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-20T09:07:23Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1400940,
-    "title": "Clayface",
-    "original_title": "Clayface",
-    "release_year": 2026,
-    "release_date": "2026-10-21",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "critic_score": 0,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-19T20:07:04Z"
+    "last_synced": "2026-09-20T09:37:04Z"
   }
 ]
