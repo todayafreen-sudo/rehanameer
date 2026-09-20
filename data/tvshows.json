@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 260463,
+    "name": "Daemons of the Shadow Realm",
+    "first_air_date": "2026-04-04",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "69",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIE1llfr1lcmzlsV4xn8vhgtlQN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qc30hdrxHQgN5wiopU4bkRZow5L.jpg",
+    "overview": "Yuru, a young hunter, lives in a small village deep in the mountains, hunting wild game and leading a humble life with Asa, his younger twin sister. Their peaceful lives are torn apart when a dragon’s roar echoes across the sky. What secrets lurk within their village? What fate awaits them?",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-20T00:42:40Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 275102,
     "name": "The Scandal",
     "first_air_date": "2026-09-18",
@@ -713,36 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-19T18:38:51Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 232018,
-    "name": "Has Fallen",
-    "first_air_date": "2024-09-23",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.0,
-    "votes": "122",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/v0eBR7tZIWQKNtb2MyJtAji5OjA.jpg",
-    "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
-    "critic_score": 70,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
