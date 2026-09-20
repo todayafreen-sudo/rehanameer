@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1368337,
+    "title": "The Odyssey",
+    "original_title": "The Odyssey",
+    "release_year": 2026,
+    "release_date": "2026-07-15",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "3,797",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "critic_score": 80,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-20T04:07:42Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1240889,
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "original_title": "Teenage Sex and Death at Camp Miasma",
+    "release_year": 2026,
+    "release_date": "2026-08-06",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.5,
+    "votes": "132",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kereiSEFjFa2Rc0hIVpfeqwuXq4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+    "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+    "critic_score": 65,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-20T04:07:42Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1423191,
     "title": "Resident Evil",
     "original_title": "Resident Evil",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-033",
@@ -96,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-033",
@@ -195,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-032",
@@ -426,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-031",
@@ -789,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-032",
@@ -888,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   },
   {
     "id": "mov-031",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-20T03:38:54Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1212763,
-    "title": "Evil Dead Burn",
-    "original_title": "Evil Dead Burn",
-    "release_year": 2026,
-    "release_date": "2026-07-07",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.7,
-    "votes": "1,544",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
-    "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-    "critic_score": 77,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-19T19:06:34Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1122030,
-    "title": "Alpha",
-    "original_title": "अल्फा",
-    "release_year": 2026,
-    "release_date": "2026-07-02",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 5.1,
-    "votes": "27",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
-    "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
-    "critic_score": 51,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-20T01:36:58Z"
+    "last_synced": "2026-09-20T04:07:42Z"
   }
 ]
