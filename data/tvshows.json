@@ -1,6 +1,66 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 30984,
+    "name": "Bleach",
+    "first_air_date": "2004-10-05",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "2,277",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-22T21:07:06Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 196322,
+    "name": "Dark Matter",
+    "first_air_date": "2024-05-07",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.8,
+    "votes": "789",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+    "critic_score": 78,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-22T21:07:06Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 37854,
     "name": "One Piece",
     "first_air_date": "1999-10-20",
@@ -683,66 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
     "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
     "critic_score": 83,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-22T02:08:06Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 239618,
-    "name": "American Hostage",
-    "first_air_date": "2026-09-20",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.8,
-    "votes": "4",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
-    "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
-    "critic_score": 78,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-22T02:08:06Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 252105,
-    "name": "Golden Axe",
-    "first_air_date": "2026-09-16",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "6",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/zOcEo3oQf9KDPPxZueNhReN6TBr.jpg",
-    "overview": "Legendary warriors Ax Battler, Tyris Flare, and Gilius Thunderhead reunite to save Yuria from the evil giant Death Adder, who just won't seem to stay dead. Their quest is complicated by Hampton Squib, an inexperienced and wildly underprepared adventurer whose dream of heroism far exceeds his abilities. Forced to work together despite their flaws, they must find a way to stop Death Adder once and for all.",
-    "critic_score": 75,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
