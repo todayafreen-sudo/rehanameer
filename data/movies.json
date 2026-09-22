@@ -1,6 +1,105 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1423191,
+    "title": "Resident Evil",
+    "original_title": "Resident Evil",
+    "release_year": 2026,
+    "release_date": "2026-09-16",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.3,
+    "votes": "266",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "critic_score": 73,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-22T01:37:51Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1240889,
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "original_title": "Teenage Sex and Death at Camp Miasma",
+    "release_year": 2026,
+    "release_date": "2026-08-06",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.4,
+    "votes": "154",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+    "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+    "critic_score": 64,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-22T01:37:51Z"
+  },
+  {
+    "id": "mov-033",
+    "tmdb_id": 1368337,
+    "title": "The Odyssey",
+    "original_title": "The Odyssey",
+    "release_year": 2026,
+    "release_date": "2026-07-15",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "3,839",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "critic_score": 80,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-22T01:37:51Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1641629,
     "title": "You+Me - Against the World",
     "original_title": "Toi+Moi - Seuls contre tous",
@@ -30,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
+    "last_synced": "2026-09-22T01:37:51Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
+    "last_synced": "2026-09-22T01:37:51Z"
   },
   {
     "id": "mov-033",
@@ -96,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
+    "last_synced": "2026-09-22T01:37:51Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
+    "last_synced": "2026-09-22T01:37:51Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
+    "last_synced": "2026-09-22T01:37:51Z"
   },
   {
     "id": "mov-033",
@@ -195,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
+    "last_synced": "2026-09-22T01:37:51Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
+    "last_synced": "2026-09-22T01:37:51Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
+    "last_synced": "2026-09-22T01:37:51Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
+    "last_synced": "2026-09-22T01:37:51Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
+    "last_synced": "2026-09-22T01:37:51Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
+    "last_synced": "2026-09-22T01:37:51Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
+    "last_synced": "2026-09-22T01:37:51Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
+    "last_synced": "2026-09-22T01:37:51Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
+    "last_synced": "2026-09-22T01:37:51Z"
   },
   {
     "id": "mov-031",
@@ -888,105 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 969681,
-    "title": "Spider-Man: Brand New Day",
-    "original_title": "Spider-Man: Brand New Day",
-    "release_year": 2026,
-    "release_date": "2026-07-29",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.9,
-    "votes": "2,793",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "critic_score": 79,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1248832,
-    "title": "Digger",
-    "original_title": "Digger",
-    "release_year": 2026,
-    "release_date": "2026-09-30",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "critic_score": 0,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-22T00:42:12Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1204680,
-    "title": "Coyote vs. Acme",
-    "original_title": "Coyote vs. Acme",
-    "release_year": 2026,
-    "release_date": "2026-08-20",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "462",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-    "critic_score": 76,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-22T01:10:06Z"
+    "last_synced": "2026-09-22T01:37:51Z"
   }
 ]
