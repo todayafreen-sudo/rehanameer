@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 294990,
+    "name": "Spring of the Blade",
+    "first_air_date": "2026-09-17",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.5,
+    "votes": "2",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRWqHI4R4nOSPpRnbr8JjnpCmgx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qLZQnTiQxkBOid9tVLWC1CmoOcu.jpg",
+    "overview": "After losing her mother as a child, Xie Qingyuan returns years later to uncover the truth and seek justice. Reuniting with Shen Run, once a fallen youth and now a righteous court official, they join forces to expose corruption and right past wrongs. Through shared dangers and unwavering support, they grow closer, devoting their lives to protecting each other and their people.",
+    "critic_score": 95,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-22T13:08:18Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 273207,
     "name": "Neagley",
     "first_air_date": "2026-09-16",
@@ -718,35 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-21T23:08:04Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 332401,
-    "name": "City of Blood",
-    "first_air_date": "2026-09-16",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.6,
-    "votes": "12",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
-    "overview": "Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city's new currency.",
-    "critic_score": 66,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-21T22:38:06Z"
   }
 ]
