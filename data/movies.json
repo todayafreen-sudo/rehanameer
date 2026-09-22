@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1607127,
+    "title": "One Last Shot",
+    "original_title": "One Last Shot",
+    "release_year": 2026,
+    "release_date": "2026-09-22",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.0,
+    "votes": "1",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6M1gVQwezhnUXxQB8lfHBpSyula.jpg",
+    "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
+    "critic_score": 60,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-22T06:10:05Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1433367,
     "title": "One Night Only",
     "original_title": "One Night Only",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-032",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-033",
@@ -147,7 +180,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.0,
+    "rating": 8.1,
     "votes": "737",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T04:39:00Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-032",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-033",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-032",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-033",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-032",
@@ -444,7 +477,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.9,
+    "rating": 7.7,
     "votes": "14",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-033",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-032",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-031",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-031",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
+    "last_synced": "2026-09-22T06:10:05Z"
   },
   {
     "id": "mov-031",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-21T21:37:00Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1124142,
-    "title": "The Rivals of Amziah King",
-    "original_title": "The Rivals of Amziah King",
-    "release_year": 2026,
-    "release_date": "2026-08-13",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.8,
-    "votes": "74",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3qR1ZxuEzDksDGT13mHH2IiEq7G.jpg",
-    "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-    "critic_score": 68,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-22T05:38:16Z"
   }
 ]
