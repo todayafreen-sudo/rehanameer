@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 295089,
+    "name": "The Doll",
+    "first_air_date": "2026-09-16",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 4.8,
+    "votes": "10",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg",
+    "overview": "When Stanisław falls in love with the aristocratic Izabela, he dedicates his entire life to winning her over.",
+    "critic_score": 48,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-22T19:36:35Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 321958,
     "name": "Line of Fire",
     "first_air_date": "2026-09-21",
@@ -718,35 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-22T01:10:06Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 125988,
-    "name": "Silo",
-    "first_air_date": "2023-05-04",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.2,
-    "votes": "2,708",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
-    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-    "critic_score": 82,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-22T01:06:20Z"
   }
 ]
