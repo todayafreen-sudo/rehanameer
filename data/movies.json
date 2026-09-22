@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1514863,
+    "title": "Best of the Best",
+    "original_title": "Best of the Best",
+    "release_year": 2026,
+    "release_date": "2026-09-18",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 4.8,
+    "votes": "38",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbP661svmn7XZq3TdSmSUI5UKQJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+    "overview": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
+    "critic_score": 48,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-22T08:40:08Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1124142,
     "title": "The Rivals of Amziah King",
     "original_title": "The Rivals of Amziah King",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-032",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T07:08:03Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-031",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-032",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-033",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-032",
@@ -312,7 +345,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.6,
+    "rating": 7.5,
     "votes": "473",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-033",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-032",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-033",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-032",
@@ -525,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-033",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-033",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T07:08:03Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-032",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-031",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-22T08:08:17Z"
+    "last_synced": "2026-09-22T08:40:08Z"
   },
   {
     "id": "mov-031",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-22T08:08:17Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1375441,
-    "title": "Primetime",
-    "original_title": "Primetime",
-    "release_year": 2026,
-    "release_date": "2026-09-23",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.5,
-    "votes": "4",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-    "critic_score": 65,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-21T19:06:41Z"
   }
 ]
