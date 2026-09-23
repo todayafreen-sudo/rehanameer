@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1283515,
+    "title": "Verity",
+    "original_title": "Verity",
+    "release_year": 2026,
+    "release_date": "2026-09-30",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-23T23:06:41Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1477712,
     "title": "Ice Cream Man",
     "original_title": "Ice Cream Man",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-031",
@@ -213,7 +246,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.5,
+    "rating": 6.4,
     "votes": "4",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T18:10:00Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-031",
@@ -345,7 +378,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.6,
+    "rating": 7.4,
     "votes": "10",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-032",
@@ -393,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-032",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-032",
@@ -510,7 +543,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.7,
+    "rating": 8.4,
     "votes": "5",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
@@ -525,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-032",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-032",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-033",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-031",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
+    "last_synced": "2026-09-23T23:06:41Z"
   },
   {
     "id": "mov-031",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-23T19:38:07Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1084244,
-    "title": "Toy Story 5",
-    "original_title": "Toy Story 5",
-    "release_year": 2026,
-    "release_date": "2026-06-17",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.4,
-    "votes": "2,239",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-    "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-    "critic_score": 84,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
   }
 ]
