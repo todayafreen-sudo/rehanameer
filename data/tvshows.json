@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 273207,
+    "name": "Neagley",
+    "first_air_date": "2026-09-16",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "108",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+    "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
+    "critic_score": 80,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-23T03:07:40Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 97546,
     "name": "Ted Lasso",
     "first_air_date": "2020-08-14",
@@ -718,35 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-22T13:39:48Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 294990,
-    "name": "Spring of the Blade",
-    "first_air_date": "2026-09-17",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 9.5,
-    "votes": "2",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRWqHI4R4nOSPpRnbr8JjnpCmgx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/qLZQnTiQxkBOid9tVLWC1CmoOcu.jpg",
-    "overview": "After losing her mother as a child, Xie Qingyuan returns years later to uncover the truth and seek justice. Reuniting with Shen Run, once a fallen youth and now a righteous court official, they join forces to expose corruption and right past wrongs. Through shared dangers and unwavering support, they grow closer, devoting their lives to protecting each other and their people.",
-    "critic_score": 95,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-22T13:08:18Z"
   }
 ]
