@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 95350,
+    "name": "Lanterns",
+    "first_air_date": "2026-08-16",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "403",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-23T00:10:07Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 108978,
     "name": "Reacher",
     "first_air_date": "2022-02-03",
@@ -718,35 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-22T03:39:16Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 299939,
-    "name": "Monster: The Lizzie Borden Story",
-    "first_air_date": "2026-09-17",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.1,
-    "votes": "62",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-    "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-    "critic_score": 71,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-22T03:08:18Z"
   }
 ]
