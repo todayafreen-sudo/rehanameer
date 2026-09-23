@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1641629,
+    "title": "You+Me - Against the World",
+    "original_title": "Toi+Moi - Seuls contre tous",
+    "release_year": 2026,
+    "release_date": "2026-09-18",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 5.7,
+    "votes": "37",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+    "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
+    "critic_score": 57,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-23T05:38:19Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1228834,
     "title": "The Fix",
     "original_title": "The Fix",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-032",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-032",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-032",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-033",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-032",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-033",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-031",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   },
   {
     "id": "mov-032",
@@ -954,39 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
-  },
-  {
-    "id": "mov-033",
-    "tmdb_id": 1368337,
-    "title": "The Odyssey",
-    "original_title": "The Odyssey",
-    "release_year": 2026,
-    "release_date": "2026-07-15",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "3,839",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "critic_score": 80,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-23T05:07:03Z"
+    "last_synced": "2026-09-23T05:38:19Z"
   }
 ]
