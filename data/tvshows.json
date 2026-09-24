@@ -1,6 +1,66 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 275102,
+    "name": "The Scandal",
+    "first_air_date": "2026-09-18",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.6,
+    "votes": "12",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+    "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+    "critic_score": 66,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-24T03:39:58Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 2190,
+    "name": "South Park",
+    "first_air_date": "1997-08-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "5,160",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-24T03:39:58Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 239618,
     "name": "American Hostage",
     "first_air_date": "2026-09-20",
@@ -683,66 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "critic_score": 81,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-23T19:38:07Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 320760,
-    "name": "Not a Stranger",
-    "first_air_date": "2026-09-17",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.7,
-    "votes": "13",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxXO2VE0vMnzXhUw9GQRAUFFPN6.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/RUkgsqD4YbEKKq77eFgJjeH89n.jpg",
-    "overview": "After giving birth, painter Funda put her career on hold to focus on her child. Ready to return to painting, she finally finds the nanny she has been searching for: Nazlı. But the mysterious and increasingly unsettling woman soon begins to disrupt the seemingly peaceful lives of Funda and her husband İlker. What begins as a simple employment arrangement develops into a dangerous psychological game in which desire, secrets and loyalty are put to the test.",
-    "critic_score": 67,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-23T19:38:07Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 207484,
-    "name": "Outlander: Blood of My Blood",
-    "first_air_date": "2025-08-08",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.6,
-    "votes": "107",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
-    "overview": "From the battlefields of World War I to the rugged Highlands of 18th century Scotland, two fated couples must defy the forces that seek to tear them apart, unfolding in surprising and unforeseen ways in this romantic saga that unfolds across time.",
-    "critic_score": 86,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
