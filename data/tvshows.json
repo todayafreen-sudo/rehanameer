@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 273207,
+    "name": "Neagley",
+    "first_air_date": "2026-09-16",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "120",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+    "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
+    "critic_score": 80,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-24T12:09:54Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 299939,
     "name": "Monster: The Lizzie Borden Story",
     "first_air_date": "2026-09-17",
@@ -713,36 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
     "overview": "Winter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... and an all-new breed of strange.",
     "critic_score": 76,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-24T00:43:04Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 312557,
-    "name": "Minerva Academy",
-    "first_air_date": "2026-09-22",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.6,
-    "votes": "5",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
-    "overview": "At Minerva Military High School, teens navigate discipline, rivalry and family pressure as a young cadet searches for answers about his missing friend.",
-    "critic_score": 66,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
