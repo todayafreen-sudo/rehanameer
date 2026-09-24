@@ -1,6 +1,96 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 95350,
+    "name": "Lanterns",
+    "first_air_date": "2026-08-16",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "421",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-24T16:08:24Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 108978,
+    "name": "Reacher",
+    "first_air_date": "2022-02-03",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "3,395",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-24T16:08:24Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 250203,
+    "name": "Brothers",
+    "first_air_date": "2026-09-22",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 10.0,
+    "votes": "6",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+    "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+    "critic_score": 100,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-24T16:08:24Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 275102,
     "name": "The Scandal",
     "first_air_date": "2026-09-18",
@@ -658,95 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-24T11:07:31Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 310290,
-    "name": "My Sad Dead",
-    "first_air_date": "2026-09-24",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 3.0,
-    "votes": "2",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg",
-    "overview": "Emma can see the dead. But when her niece arrives, thousands of lives are shaken.",
-    "critic_score": 30,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-24T11:07:31Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 232018,
-    "name": "Has Fallen",
-    "first_air_date": "2024-09-23",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.0,
-    "votes": "124",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3yoTM5JtkxnPZvVzQOrL0c2ILVM.jpg",
-    "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
-    "critic_score": 70,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-24T10:39:24Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 305357,
-    "name": "A Different World",
-    "first_air_date": "2026-09-24",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
-    "overview": "Deborah Wayne enters her freshman year at her parents' HBCU alma mater and finds their shadow difficult to escape. She sets out to build her own legacy – while having the time of her life – alongside a whole new generation of Hillman’s best and brightest.",
-    "critic_score": 0,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-24T10:07:44Z"
   }
 ]

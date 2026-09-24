@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1400940,
+    "title": "Clayface",
+    "original_title": "Clayface",
+    "release_year": 2026,
+    "release_date": "2026-10-21",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-24T16:08:24Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1375441,
     "title": "Primetime",
     "original_title": "Primetime",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-031",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-032",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-032",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-032",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-032",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-032",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-031",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-031",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-031",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T15:39:37Z"
+    "last_synced": "2026-09-24T16:08:24Z"
   },
   {
     "id": "mov-031",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-24T14:08:12Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1124142,
-    "title": "The Rivals of Amziah King",
-    "original_title": "The Rivals of Amziah King",
-    "release_year": 2026,
-    "release_date": "2026-08-13",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.8,
-    "votes": "84",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2ajSnvBSb0rvDJrlTWTsxsmHWJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3qR1ZxuEzDksDGT13mHH2IiEq7G.jpg",
-    "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-    "critic_score": 68,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-23T22:37:16Z"
   }
 ]
