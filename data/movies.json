@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1339713,
+    "title": "Obsession",
+    "original_title": "Obsession",
+    "release_year": 2026,
+    "release_date": "2026-05-13",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "5,697",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "critic_score": 82,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-24T08:40:29Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1248832,
+    "title": "Digger",
+    "original_title": "Digger",
+    "release_year": 2026,
+    "release_date": "2026-09-30",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.3,
+    "votes": "3",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "critic_score": 93,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-24T08:40:29Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1465063,
     "title": "Forgotten Island",
     "original_title": "Forgotten Island",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-032",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-031",
@@ -162,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-032",
@@ -195,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-032",
@@ -261,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   },
   {
     "id": "mov-031",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1451944,
-    "title": "Lust Stories 3",
-    "original_title": "लस्ट स्टोरीज़ ३",
-    "release_year": 2026,
-    "release_date": "2026-09-18",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.3,
-    "votes": "6",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLA83DD1qMEBwbRIYXf29RKjMja.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/jRtR4aTq4vmxRg9ah60R5i1kkQ7.jpg",
-    "overview": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human connection in all their complexity.",
-    "critic_score": 65,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-24T07:39:15Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1607127,
-    "title": "One Last Shot",
-    "original_title": "One Last Shot",
-    "release_year": 2026,
-    "release_date": "2026-09-22",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.6,
-    "votes": "10",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-    "overview": "Seasoned Navy SEAL Jake Harris is called back into action when the world is threatened by a former comrade. To track down and prevent the mastermind from extracting the nuclear codes, Harris must lead his team into enemy territory against a brutal barrage of mercenaries, deadly traps, and a reckoning with his own checkered past.",
-    "critic_score": 83,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-24T08:08:38Z"
+    "last_synced": "2026-09-24T08:40:29Z"
   }
 ]
