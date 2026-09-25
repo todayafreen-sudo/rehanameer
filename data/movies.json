@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1400940,
+    "title": "Clayface",
+    "original_title": "Clayface",
+    "release_year": 2026,
+    "release_date": "2026-10-21",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-25T12:43:16Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1375441,
     "title": "Primetime",
     "original_title": "Primetime",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-032",
@@ -114,7 +147,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 9.5,
+    "rating": 8.6,
     "votes": "4",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-033",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T11:07:52Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-032",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-032",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-032",
@@ -345,7 +378,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 10.0,
+    "rating": 8.3,
     "votes": "0",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXbG3BjBlu79tIknvqOF5Pnkw1V.jpg",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-032",
@@ -543,7 +576,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 5.7,
+    "rating": 5.6,
     "votes": "42",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T05:39:31Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-032",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T12:09:55Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-032",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T09:39:54Z"
+    "last_synced": "2026-09-25T12:43:16Z"
   },
   {
     "id": "mov-033",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-25T08:08:07Z"
-  },
-  {
-    "id": "mov-034",
-    "tmdb_id": 687163,
-    "title": "Project Hail Mary",
-    "original_title": "Project Hail Mary",
-    "release_year": 2026,
-    "release_date": "2026-03-15",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.6,
-    "votes": "7,945",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-    "critic_score": 86,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-24T19:36:45Z"
   }
 ]
