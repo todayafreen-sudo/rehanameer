@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1003596,
+    "title": "Avengers: Doomsday",
+    "original_title": "Avengers: Doomsday",
+    "release_year": 2026,
+    "release_date": "2026-12-16",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-25T02:07:28Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1368337,
     "title": "The Odyssey",
     "original_title": "The Odyssey",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T00:11:22Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-032",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-032",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-032",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T00:11:22Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-032",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-032",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-031",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-032",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T00:11:22Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   },
   {
     "id": "mov-031",
@@ -954,39 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T01:36:32Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1329016,
-    "title": "Tony",
-    "original_title": "Tony",
-    "release_year": 2026,
-    "release_date": "2026-08-07",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.6,
-    "votes": "97",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
-    "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-    "critic_score": 76,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-24T09:08:13Z"
+    "last_synced": "2026-09-25T02:07:28Z"
   }
 ]

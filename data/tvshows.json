@@ -1,6 +1,66 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 196322,
+    "name": "Dark Matter",
+    "first_air_date": "2024-05-07",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.8,
+    "votes": "793",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+    "critic_score": 78,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-25T02:07:28Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 30984,
+    "name": "Bleach",
+    "first_air_date": "2004-10-05",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "2,277",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-25T02:07:28Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 2190,
     "name": "South Park",
     "first_air_date": "1997-08-13",
@@ -688,65 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-24T16:08:24Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 250203,
-    "name": "Brothers",
-    "first_air_date": "2026-09-22",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 10.0,
-    "votes": "6",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
-    "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
-    "critic_score": 100,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-24T16:08:24Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 275102,
-    "name": "The Scandal",
-    "first_air_date": "2026-09-18",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.2,
-    "votes": "13",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-    "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-    "critic_score": 72,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-24T15:39:38Z"
   }
 ]
