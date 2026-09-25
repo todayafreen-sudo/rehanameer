@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1204680,
+    "title": "Coyote vs. Acme",
+    "original_title": "Coyote vs. Acme",
+    "release_year": 2026,
+    "release_date": "2026-08-20",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.5,
+    "votes": "507",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+    "critic_score": 75,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-25T08:08:07Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1240889,
     "title": "Teenage Sex and Death at Camp Miasma",
     "original_title": "Teenage Sex and Death at Camp Miasma",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-032",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-032",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-034",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-031",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-032",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   },
   {
     "id": "mov-032",
@@ -954,39 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1423191,
-    "title": "Resident Evil",
-    "original_title": "Resident Evil",
-    "release_year": 2026,
-    "release_date": "2026-09-16",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.3,
-    "votes": "392",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "critic_score": 73,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-25T07:40:08Z"
+    "last_synced": "2026-09-25T08:08:07Z"
   }
 ]
