@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 82684,
+    "name": "That Time I Got Reincarnated as a Slime",
+    "first_air_date": "2018-10-02",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "986",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
+    "overview": "Corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime! Thrown into this new world with the name Rimuru, he begins his quest to create a world that’s welcoming to all races.",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-26T17:06:47Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 30984,
     "name": "Bleach",
     "first_air_date": "2004-10-05",
@@ -718,35 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-26T09:37:32Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 273207,
-    "name": "Neagley",
-    "first_air_date": "2026-09-16",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.1,
-    "votes": "139",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
-    "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
-    "critic_score": 81,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-26T09:07:21Z"
   }
 ]
