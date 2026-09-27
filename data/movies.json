@@ -1,6 +1,105 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 675871,
+    "title": "Super Troopers 3",
+    "original_title": "Super Troopers 3",
+    "release_year": 2026,
+    "release_date": "2026-08-06",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.7,
+    "votes": "28",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecTxAyfx4fdTMy2N288oZMMn3Ey.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
+    "overview": "When Farva’s wildly over-the-top Indian engagement to Thorny’s sister spirals into chaos, the Super Troopers must navigate Thorny’s schemes to break up the relationship, while trying to crack a pernicious new drug ring  — all to save the day and maybe the wedding itself.",
+    "critic_score": 67,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-27T01:07:37Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1514863,
+    "title": "Best of the Best",
+    "original_title": "Best of the Best",
+    "release_year": 2026,
+    "release_date": "2026-09-18",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 5.2,
+    "votes": "54",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+    "overview": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
+    "critic_score": 52,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-27T01:07:37Z"
+  },
+  {
+    "id": "mov-033",
+    "tmdb_id": 1212763,
+    "title": "Evil Dead Burn",
+    "original_title": "Evil Dead Burn",
+    "release_year": 2026,
+    "release_date": "2026-07-07",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.7,
+    "votes": "1,595",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+    "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+    "critic_score": 77,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-27T01:07:37Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1137844,
     "title": "Mayday",
     "original_title": "Mayday",
@@ -129,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
+    "last_synced": "2026-09-27T01:07:37Z"
   },
   {
     "id": "mov-031",
@@ -147,7 +246,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.6,
+    "rating": 7.4,
     "votes": "43",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
@@ -162,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
+    "last_synced": "2026-09-27T01:07:37Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
+    "last_synced": "2026-09-27T01:07:37Z"
   },
   {
     "id": "mov-032",
@@ -228,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
+    "last_synced": "2026-09-27T01:07:37Z"
   },
   {
     "id": "mov-033",
@@ -294,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
+    "last_synced": "2026-09-27T01:07:37Z"
   },
   {
     "id": "mov-032",
@@ -360,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
+    "last_synced": "2026-09-27T01:07:37Z"
   },
   {
     "id": "mov-032",
@@ -393,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
+    "last_synced": "2026-09-27T01:07:37Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
+    "last_synced": "2026-09-27T01:07:37Z"
   },
   {
     "id": "mov-032",
@@ -459,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
+    "last_synced": "2026-09-27T01:07:37Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
+    "last_synced": "2026-09-27T01:07:37Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
+    "last_synced": "2026-09-27T01:07:37Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
+    "last_synced": "2026-09-27T01:07:37Z"
   },
   {
     "id": "mov-032",
@@ -756,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
+    "last_synced": "2026-09-27T01:07:37Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
+    "last_synced": "2026-09-27T01:07:37Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
+    "last_synced": "2026-09-27T01:07:37Z"
   },
   {
     "id": "mov-032",
@@ -889,104 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-25T19:06:57Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1101383,
-    "title": "The End of Oak Street",
-    "original_title": "The End of Oak Street",
-    "release_year": 2026,
-    "release_date": "2026-08-12",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.0,
-    "votes": "1,473",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-    "critic_score": 70,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1477712,
-    "title": "Ice Cream Man",
-    "original_title": "Ice Cream Man",
-    "release_year": 2026,
-    "release_date": "2026-08-03",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 4.7,
-    "votes": "72",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
-    "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
-    "critic_score": 46,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-27T00:44:00Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 950028,
-    "title": "The Invite",
-    "original_title": "The Invite",
-    "release_year": 2026,
-    "release_date": "2026-06-25",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.3,
-    "votes": "626",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
-    "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-    "critic_score": 73,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-24T19:36:45Z"
   }
 ]
