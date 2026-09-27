@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1288445,
+    "title": "Mutiny",
+    "original_title": "Mutiny",
+    "release_year": 2026,
+    "release_date": "2026-08-19",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.2,
+    "votes": "622",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+    "critic_score": 72,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-27T19:36:41Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1003596,
     "title": "Avengers: Doomsday",
     "original_title": "Avengers: Doomsday",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-031",
@@ -180,7 +213,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.6,
+    "rating": 7.7,
     "votes": "79",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-032",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T17:37:28Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-031",
@@ -576,7 +609,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.0,
+    "rating": 7.1,
     "votes": "15",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-032",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-033",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-032",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-031",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-032",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
+    "last_synced": "2026-09-27T19:36:41Z"
   },
   {
     "id": "mov-031",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-26T19:35:39Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1240889,
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "original_title": "Teenage Sex and Death at Camp Miasma",
-    "release_year": 2026,
-    "release_date": "2026-08-06",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.3,
-    "votes": "179",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-    "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-    "critic_score": 63,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-27T19:06:37Z"
   }
 ]
