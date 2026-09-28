@@ -1,6 +1,126 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 305357,
+    "name": "A Different World",
+    "first_air_date": "2026-09-24",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.3,
+    "votes": "10",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
+    "overview": "Deborah Wayne enters her freshman year at her parents' HBCU alma mater and finds their shadow difficult to escape. She sets out to build her own legacy – while having the time of her life – alongside a whole new generation of Hillman’s best and brightest.",
+    "critic_score": 63,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-28T13:09:20Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 292742,
+    "name": "S.W.A.T. Exiles",
+    "first_air_date": "2026-09-25",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "7",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPiEujhVa2MBSowmvnNWqEzxH0x.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mNIc5QqjBuXHeeyj6P4WSqTCBu9.jpg",
+    "overview": "After a high-profile mission goes sideways, Daniel 'Hondo' Harrelson is pulled out of forced retirement to lead a last-chance experimental SWAT unit made up of untested, unpredictable young recruits. Hondo must bridge a generational divide, navigate clashing personalities, and turn a squad of outsiders into a team capable of protecting the city and saving the program that made him who he is.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-28T13:09:20Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 196322,
+    "name": "Dark Matter",
+    "first_air_date": "2024-05-07",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.8,
+    "votes": "803",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+    "critic_score": 78,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-28T13:09:20Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 294486,
+    "name": "The Long Watch",
+    "first_air_date": "2026-09-06",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.5,
+    "votes": "2",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
+    "overview": "A millennium-era leak case shaping cross-strait dynamics hides a covert tug-of-war between foreign forces and Chinese agents. In the late 90s, rookie Chunxiao and star agent Ma Qi foil plots together, but as time passes, the case reshapes all involved amid era-defining shifts.",
+    "critic_score": 75,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-09-28T13:09:20Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 324502,
     "name": "Overgeared",
     "first_air_date": "2026-10-02",
@@ -628,125 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-09-28T07:41:21Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 1413,
-    "name": "American Horror Story",
-    "first_air_date": "2011-10-05",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.1,
-    "votes": "6,196",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-    "critic_score": 81,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-28T07:10:02Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 95480,
-    "name": "Slow Horses",
-    "first_air_date": "2022-04-01",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "1,001",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-    "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-28T07:10:02Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 94664,
-    "name": "Mushoku Tensei: Jobless Reincarnation",
-    "first_air_date": "2021-01-11",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.4,
-    "votes": "1,740",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-    "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-28T07:10:02Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 289078,
-    "name": "A Prophet",
-    "first_air_date": "2026-09-24",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.5,
-    "votes": "2",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/giSXBUuCfCXV9ALQAmcZd659J0r.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/eTlMy2amueTqJBFZm5x14GGhZxH.jpg",
-    "overview": "After his family is wiped out by the Tianxiang Sect, Shangguan Chengming goes undercover to take revenge. With the help of Jiang Feiyan, they use a series of scams to expose corruption and fight for justice.",
-    "critic_score": 85,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-09-28T06:47:04Z"
   }
 ]
