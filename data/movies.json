@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1322562,
+    "title": "Mononoke the Movie: Chapter III - The Curse of the Serpent",
+    "original_title": "劇場版モノノ怪 第三章 蛇神",
+    "release_year": 2026,
+    "release_date": "2026-05-29",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 10.0,
+    "votes": "1",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nANxmUdcF2cyBNjBMeG1LaXnw0n.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pbJ9sgqSxk1AypbZXt69iVAo2xQ.jpg",
+    "overview": "When tragedy strikes within the walls of the Ōoku, twisted human passions and festering grudges spawn the Medicine Seller's most fearsome opponent yet.",
+    "critic_score": 100,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-09-29T17:40:54Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 977942,
     "title": "The Uprising",
     "original_title": "The Uprising",
@@ -15,7 +48,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.3,
+    "rating": 7.5,
     "votes": "18",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -114,7 +147,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.9,
+    "rating": 8.0,
     "votes": "91",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-032",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -708,7 +741,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.5,
+    "rating": 7.6,
     "votes": "7",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -741,7 +774,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.2,
+    "rating": 8.1,
     "votes": "29",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -840,7 +873,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.1,
+    "rating": 8.2,
     "votes": "322",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   },
   {
     "id": "mov-031",
@@ -954,39 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-09-29T17:08:07Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1375646,
-    "title": "Colony",
-    "original_title": "군체",
-    "release_year": 2026,
-    "release_date": "2026-05-21",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.1,
-    "votes": "900",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
-    "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-    "critic_score": 81,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-29T12:46:15Z"
+    "last_synced": "2026-09-29T17:40:54Z"
   }
 ]
