@@ -1,6 +1,96 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 2190,
+    "name": "South Park",
+    "first_air_date": "1997-08-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "5,173",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-01T10:10:09Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 250203,
+    "name": "Brothers",
+    "first_air_date": "2026-09-22",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "11",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+    "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-01T10:10:09Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 305357,
+    "name": "A Different World",
+    "first_air_date": "2026-09-24",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.8,
+    "votes": "12",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
+    "overview": "Deborah Wayne enters her freshman year at her parents' HBCU alma mater and finds their shadow difficult to escape. She sets out to build her own legacy – while having the time of her life – alongside a whole new generation of Hillman’s best and brightest.",
+    "critic_score": 68,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-01T10:10:09Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 65942,
     "name": "Re:ZERO -Starting Life in Another World-",
     "first_air_date": "2016-04-04",
@@ -658,95 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-01T05:08:43Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 258348,
-    "name": "Clevatess",
-    "first_air_date": "2025-07-02",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "107",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D13BxQUrtU6ORMpl8loY6Pukq7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
-    "overview": "One of the Lords of Dark Beasts, Clevatess’s reign shatters when he revives a hero he personally slayed and adopts an orphaned humanoid baby—the last hope to save a dying world. Now bound together, what fate awaits this unlikely trio?",
-    "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-01T05:08:43Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 287620,
-    "name": "Stuart Fails to Save the Universe",
-    "first_air_date": "2026-07-23",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.4,
-    "votes": "212",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
-    "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-    "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-01T01:09:55Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 30984,
-    "name": "Bleach",
-    "first_air_date": "2004-10-05",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.4,
-    "votes": "2,283",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-    "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-01T01:09:55Z"
   }
 ]
