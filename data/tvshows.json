@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 223911,
+    "name": "Renegade Immortal",
+    "first_air_date": "2023-09-25",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "45",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbZVuX5wbliibnuzphp2EsEhqF5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
+    "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-01T10:41:29Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 2190,
     "name": "South Park",
     "first_air_date": "1997-08-13",
@@ -718,35 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-01T05:41:14Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 297982,
-    "name": "Irreplaceable",
-    "first_air_date": "2026-09-28",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "1",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg",
-    "overview": "After witnessing her mother's suicide following a divorce, Xu Chi defies her tragic fate by rising from an ordinary graduate to a sharp-witted top consultant. Drawn into the covert revenge scheme of seasoned partner Ye Xinzhi, who mentors her while navigating their growing mutual attraction, the duo confronts a crossroads when professional upheavals collide with their evolving bond.",
-    "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-01T05:08:43Z"
   }
 ]
