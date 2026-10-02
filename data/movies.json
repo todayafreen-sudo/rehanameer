@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 977942,
+    "title": "The Uprising",
+    "original_title": "The Uprising",
+    "release_year": 2026,
+    "release_date": "2026-09-10",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "126",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+    "critic_score": 80,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-02T15:42:47Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1003596,
     "title": "Avengers: Doomsday",
     "original_title": "Avengers: Doomsday",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-02T15:09:58Z"
+    "last_synced": "2026-10-02T15:42:47Z"
   },
   {
     "id": "mov-031",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-09-29T19:40:06Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1322562,
-    "title": "Mononoke the Movie: Chapter III - The Curse of the Serpent",
-    "original_title": "劇場版モノノ怪 第三章 蛇神",
-    "release_year": 2026,
-    "release_date": "2026-05-29",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 10.0,
-    "votes": "1",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nANxmUdcF2cyBNjBMeG1LaXnw0n.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/pbJ9sgqSxk1AypbZXt69iVAo2xQ.jpg",
-    "overview": "When tragedy strikes within the walls of the Ōoku, twisted human passions and festering grudges spawn the Medicine Seller's most fearsome opponent yet.",
-    "critic_score": 100,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-09-29T18:10:51Z"
   }
 ]
