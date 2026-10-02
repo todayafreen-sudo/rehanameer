@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 283428,
+    "name": "The Ramparts of Ice",
+    "first_air_date": "2026-04-02",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.6,
+    "votes": "61",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+    "overview": "Weighed down by memories she can't shake, high schooler Koyuki Hikawa keeps everyone at arm's length — until three schoolmates draw her out of her shell.",
+    "critic_score": 86,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-02T06:10:28Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 113962,
     "name": "Lioness",
     "first_air_date": "2023-07-23",
@@ -713,36 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
     "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
     "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-01T18:44:46Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 318918,
-    "name": "LEGO ONE PIECE",
-    "first_air_date": "2026-09-29",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.6,
-    "votes": "8",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg",
-    "overview": "The Straw Hats hit the high seas in a two-part LEGO special! Join Luffy, Nami, Usopp and the crew on their epic journey, fully reimagined brick by brick.",
-    "critic_score": 86,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
