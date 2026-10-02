@@ -1,6 +1,186 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 298852,
+    "name": "WAR",
+    "first_air_date": "2026-10-02",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.3,
+    "votes": "6",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2hdcWhcyuHllCEjIxz8VDBzC0Fs.jpg",
+    "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
+    "critic_score": 93,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-02T20:07:25Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 284558,
+    "name": "Kill Jackie",
+    "first_air_date": "2026-10-02",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.8,
+    "votes": "5",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4OJPcAAFAC9TvV75c9hjZVFgbjQ.jpg",
+    "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
+    "critic_score": 88,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-02T20:07:25Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 113962,
+    "name": "Lioness",
+    "first_air_date": "2023-07-23",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "1,659",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-02T20:07:25Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 95480,
+    "name": "Slow Horses",
+    "first_air_date": "2022-04-01",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "1,012",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "critic_score": 80,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-02T20:07:25Z"
+  },
+  {
+    "id": "tv-030",
+    "tmdb_id": 45790,
+    "name": "JoJo's Bizarre Adventure",
+    "first_air_date": "2012-10-06",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.5,
+    "votes": "1,666",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+    "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+    "critic_score": 85,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-02T20:07:25Z"
+  },
+  {
+    "id": "tv-031",
+    "tmdb_id": 196322,
+    "name": "Dark Matter",
+    "first_air_date": "2024-05-07",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.8,
+    "votes": "811",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+    "critic_score": 78,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-02T20:07:25Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 108978,
     "name": "Reacher",
     "first_air_date": "2022-02-03",
@@ -568,185 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-02T14:43:08Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 37854,
-    "name": "One Piece",
-    "first_air_date": "1999-10-20",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.8,
-    "votes": "5,572",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-    "critic_score": 88,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-02T14:10:04Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 305357,
-    "name": "A Different World",
-    "first_air_date": "2026-09-24",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.8,
-    "votes": "12",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
-    "overview": "Deborah Wayne enters her freshman year at her parents' HBCU alma mater and finds their shadow difficult to escape. She sets out to build her own legacy – while having the time of her life – alongside a whole new generation of Hillman’s best and brightest.",
-    "critic_score": 68,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-02T13:42:36Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 335227,
-    "name": "I Would Rather Die",
-    "first_air_date": "2026-10-02",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCFvuoNaL4nk7HCFiH7uEm2CDEp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/x91V52Ew4WFoYOryVuFMNuFPZDC.jpg",
-    "overview": "The protagonist Archie, considered the school loser, is bitten by a zombie and finds himself at the center of a mission to save the city alongside his friends Cris and Brenda.",
-    "critic_score": 0,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-02T12:10:10Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 298505,
-    "name": "Coven Academy",
-    "first_air_date": "2026-10-01",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 10.0,
-    "votes": "1",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-    "overview": "In the haunted heart of New Orleans, follow three teenage witches and their dangerously charming warlock peers at an elite magic boarding school where power is currency, secrets are lethal and attraction is a liability. Caught between ancient supernatural wars and forbidden love interests, the coven must decide how far they’re willing to go to protect their city—and themselves.",
-    "critic_score": 100,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-02T11:07:44Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 97546,
-    "name": "Ted Lasso",
-    "first_air_date": "2020-08-14",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.4,
-    "votes": "2,704",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-02T10:41:24Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 283428,
-    "name": "The Ramparts of Ice",
-    "first_air_date": "2026-04-02",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.6,
-    "votes": "62",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
-    "overview": "Weighed down by memories she can't shake, high schooler Koyuki Hikawa keeps everyone at arm's length — until three schoolmates draw her out of her shell.",
-    "critic_score": 86,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-02T10:41:24Z"
   }
 ]
