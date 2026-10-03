@@ -1,6 +1,126 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 283428,
+    "name": "The Ramparts of Ice",
+    "first_air_date": "2026-04-02",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.6,
+    "votes": "62",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+    "overview": "Weighed down by memories she can't shake, high schooler Koyuki Hikawa keeps everyone at arm's length — until three schoolmates draw her out of her shell.",
+    "critic_score": 86,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-03T06:55:10Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 250203,
+    "name": "Brothers",
+    "first_air_date": "2026-09-22",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "12",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+    "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+    "critic_score": 82,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-03T06:55:10Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 295778,
+    "name": "Scrubs",
+    "first_air_date": "2026-02-25",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.7,
+    "votes": "112",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
+    "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
+    "critic_score": 77,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-03T06:55:10Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 318918,
+    "name": "LEGO ONE PIECE",
+    "first_air_date": "2026-09-29",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "11",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg",
+    "overview": "The Straw Hats hit the high seas in a two-part LEGO special! Join Luffy, Nami, Usopp and the crew on their epic journey, fully reimagined brick by brick.",
+    "critic_score": 80,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-03T06:55:10Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 95480,
     "name": "Slow Horses",
     "first_air_date": "2022-04-01",
@@ -628,125 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-02T21:41:15Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 298505,
-    "name": "Coven Academy",
-    "first_air_date": "2026-10-01",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 10.0,
-    "votes": "4",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-    "overview": "In the haunted heart of New Orleans, follow three teenage witches and their dangerously charming warlock peers at an elite magic boarding school where power is currency, secrets are lethal and attraction is a liability. Caught between ancient supernatural wars and forbidden love interests, the coven must decide how far they’re willing to go to protect their city—and themselves.",
-    "critic_score": 100,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-02T20:41:18Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 37854,
-    "name": "One Piece",
-    "first_air_date": "1999-10-20",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.8,
-    "votes": "5,573",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-    "critic_score": 88,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-02T20:41:18Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 298852,
-    "name": "WAR",
-    "first_air_date": "2026-10-02",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 9.3,
-    "votes": "6",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/2hdcWhcyuHllCEjIxz8VDBzC0Fs.jpg",
-    "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
-    "critic_score": 93,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-02T20:07:25Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 284558,
-    "name": "Kill Jackie",
-    "first_air_date": "2026-10-02",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.8,
-    "votes": "5",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4OJPcAAFAC9TvV75c9hjZVFgbjQ.jpg",
-    "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
-    "critic_score": 88,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-02T20:07:25Z"
   }
 ]
