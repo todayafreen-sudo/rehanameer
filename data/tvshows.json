@@ -1,6 +1,126 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 2190,
+    "name": "South Park",
+    "first_air_date": "1997-08-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "5,182",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-05T21:42:16Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 108978,
+    "name": "Reacher",
+    "first_air_date": "2022-02-03",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "3,453",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-05T21:42:16Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 456,
+    "name": "The Simpsons",
+    "first_air_date": "1989-12-17",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "11,048",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "critic_score": 80,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-05T21:42:16Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 299939,
+    "name": "Monster: The Lizzie Borden Story",
+    "first_air_date": "2026-09-17",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.1,
+    "votes": "160",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+    "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+    "critic_score": 71,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-05T21:42:16Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 301494,
     "name": "The Old Story of Yu Hong",
     "first_air_date": "2026-09-29",
@@ -628,125 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-05T16:44:09Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 1413,
-    "name": "American Horror Story",
-    "first_air_date": "2011-10-05",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.1,
-    "votes": "6,212",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-    "critic_score": 81,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-05T16:44:09Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 307106,
-    "name": "Between Steps",
-    "first_air_date": "2026-10-05",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
-    "overview": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
-    "critic_score": 0,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-05T16:09:08Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 316694,
-    "name": "So What's Wrong with Getting Reborn as a Goblin?",
-    "first_air_date": "2026-10-05",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EMDTHdIMRRKbNCjTkAGg1hMiCG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3knNVqZlEdwYPwYBWQechjvRzx0.jpg",
-    "overview": "When office worker Akira Yagami gives his life saving a child, he awakens in another world as a weak goblin. But luckily, he’s granted a unique skill that extends his lifespan decades beyond their species limit and allows him to inherit the abilities of fallen goblins. In a realm of powerful races like demons and elves, Akira’s rise to becoming the strongest goblin begins.",
-    "critic_score": 0,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-05T16:09:08Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 324502,
-    "name": "Overgeared",
-    "first_air_date": "2026-10-02",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.2,
-    "votes": "4",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/94GLmulA9qVGsuo9kLpVKi01E2Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
-    "overview": "Escape everyday life in SATISFY, a VR game where players earn real-world fame and fortune. One player, Grid, can't seem to catch a break in the game or in real life. That all changes when a challenging quest leads him to becoming the heir to a legendary blacksmith. His stats are reset to zero, but he's leveling up and crafting some seriously god-tier goods.",
-    "critic_score": 62,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-05T16:09:08Z"
   }
 ]
