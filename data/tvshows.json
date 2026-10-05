@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 335227,
+    "name": "I Would Rather Die",
+    "first_air_date": "2026-10-02",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.7,
+    "votes": "9",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HehlJEDVfHf9nt36Ygq8apTWQD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/x91V52Ew4WFoYOryVuFMNuFPZDC.jpg",
+    "overview": "The protagonist Archie, considered the school loser, is bitten by a zombie and finds himself at the center of a mission to save the city alongside his friends Cris and Brenda.",
+    "critic_score": 77,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-05T14:45:02Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 108978,
     "name": "Reacher",
     "first_air_date": "2022-02-03",
@@ -713,36 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
     "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
     "critic_score": 81,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-05T06:52:24Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 305644,
-    "name": "Four Hands, Two Sonatas",
-    "first_air_date": "2026-08-29",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 9.2,
-    "votes": "42",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
-    "overview": "When two young pianists from completely different worlds meet at an elite music high school, the melodies of their lives become intimately intertwined.",
-    "critic_score": 92,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
