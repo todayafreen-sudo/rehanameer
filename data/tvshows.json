@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 290856,
+    "name": "Marshals",
+    "first_air_date": "2026-03-01",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.9,
+    "votes": "381",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+    "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+    "critic_score": 79,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-06T23:40:14Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 258165,
     "name": "East of Eden",
     "first_air_date": "2026-10-01",
@@ -713,36 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
     "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
     "critic_score": 81,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-06T19:07:39Z"
-  },
-  {
-    "id": "tv-032",
-    "tmdb_id": 283938,
-    "name": "Even the Student Council Has Its Holes!",
-    "first_air_date": "2026-10-04",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGj3OTrtaSvm5umJ8nVGyQLF30E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/kuYMjcQ6BeLTBYUR1l1T8W8ZMcf.jpg",
-    "overview": "In a student council filled with weirdos, one new member is about to have a hell of a school year! Mizunoe Ume just wanted to avoid repeating a grade when he joined the student council. After all, it seemed like an easy fix to his current academic problems. But then, he met his fellow council members. Each of them is eccentric in their own way—one's an airhead, another's scary, one's secretly a pervert, but all in all, they're just really weird! Yet somehow, they're also oddly cute and endearing. Which means Mizunoe is stuck with them and all the chaos they bring to the table. Get ready for a slice-of-life story that's irresistibly charming, quirky, and a little bit naughty!",
-    "critic_score": 0,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
