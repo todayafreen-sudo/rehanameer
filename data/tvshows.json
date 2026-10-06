@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 37854,
+    "name": "One Piece",
+    "first_air_date": "1999-10-20",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.8,
+    "votes": "5,582",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "critic_score": 88,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-06T17:08:31Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 2190,
     "name": "South Park",
     "first_air_date": "1997-08-13",
@@ -713,36 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
     "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
     "critic_score": 88,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-06T07:10:08Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 65942,
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "first_air_date": "2016-04-04",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.1,
-    "votes": "795",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-    "critic_score": 81,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
