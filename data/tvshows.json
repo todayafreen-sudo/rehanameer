@@ -1,6 +1,96 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 207347,
+    "name": "Blue Box",
+    "first_air_date": "2024-10-03",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.8,
+    "votes": "103",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sN3TuYevEPWxZhwcp6I2PJRW1jl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
+    "overview": "Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!",
+    "critic_score": 78,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-06T20:42:36Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 1413,
+    "name": "American Horror Story",
+    "first_air_date": "2011-10-05",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "6,213",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-06T20:42:36Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 97546,
+    "name": "Ted Lasso",
+    "first_air_date": "2020-08-14",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "2,717",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-06T20:42:36Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 94664,
     "name": "Mushoku Tensei: Jobless Reincarnation",
     "first_air_date": "2021-01-11",
@@ -658,95 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-06T16:43:07Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 316891,
-    "name": "The Salty Koharu Has a Soft Spot for Me",
-    "first_air_date": "2026-10-06",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eInC49veg0lHg13BaBiKmQiPk6U.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ukHKDQO3ILHEAsZ6uXRCeT7tKlO.jpg",
-    "overview": "Sato may be the most beautiful girl in school but she’s also the coldest, never smiling at anyone. When her classmate Oshio spots her at a café, he learns Sato’s secret: she’s actually just shy and clumsy. As Sato and Oshio bond over their shared interests in photography and desserts, a sweet romance starts to blossom between two socially awkward people.",
-    "critic_score": 0,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-06T16:10:22Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 95480,
-    "name": "Slow Horses",
-    "first_air_date": "2022-04-01",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "1,019",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-    "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-06T16:10:22Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 73223,
-    "name": "Black Clover",
-    "first_air_date": "2017-10-03",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.5,
-    "votes": "2,222",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-    "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-    "critic_score": 85,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-06T15:41:48Z"
   }
 ]
