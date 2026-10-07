@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 298505,
+    "name": "Coven Academy",
+    "first_air_date": "2026-10-01",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.3,
+    "votes": "22",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+    "overview": "A coven protects their magic school from a dark fate.",
+    "critic_score": 73,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-07T03:43:19Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 220542,
     "name": "The Apothecary Diaries",
     "first_air_date": "2023-10-22",
@@ -718,35 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-06T20:07:47Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 95350,
-    "name": "Lanterns",
-    "first_air_date": "2026-08-16",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.3,
-    "votes": "618",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-06T19:41:07Z"
   }
 ]
