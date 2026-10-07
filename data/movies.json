@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 843352,
+    "title": "Legend of the White Dragon",
+    "original_title": "Legend of the White Dragon",
+    "release_year": 2026,
+    "release_date": "2026-08-28",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 5.7,
+    "votes": "18",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yygzww0GACtCMmwhtPG1P01qSx5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
+    "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
+    "critic_score": 57,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-07T01:10:56Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1204680,
     "title": "Coyote vs. Acme",
     "original_title": "Coyote vs. Acme",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-031",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-031",
@@ -378,7 +411,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.4,
+    "rating": 6.6,
     "votes": "60",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
@@ -393,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-032",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-032",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-031",
@@ -807,7 +840,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.5,
+    "rating": 6.4,
     "votes": "87",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   },
   {
     "id": "mov-031",
@@ -939,7 +972,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.9,
+    "rating": 7.0,
     "votes": "172",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
@@ -954,39 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1307118,
-    "title": "Soulm8te",
-    "original_title": "Soulm8te",
-    "release_year": 2026,
-    "release_date": "2026-07-31",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "429",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-    "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-    "critic_score": 75,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-07T00:51:25Z"
+    "last_synced": "2026-10-07T01:10:56Z"
   }
 ]
