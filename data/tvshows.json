@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 1413,
+    "name": "American Horror Story",
+    "first_air_date": "2011-10-05",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "6,215",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-08T03:43:40Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 95350,
     "name": "Lanterns",
     "first_air_date": "2026-08-16",
@@ -713,36 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
     "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
     "critic_score": 85,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-07T21:42:20Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 230050,
-    "name": "A Returner's Magic Should Be Special",
-    "first_air_date": "2023-10-08",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.2,
-    "votes": "44",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/svwCvfLCUqc5tn85lijkKqTXQLF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/2KKDIwALX3HJWCjeDnvLa3Ag6ki.jpg",
-    "overview": "In a land dominated by the formidable Shadow Worlds, most of humanity has been destroyed. To rescue their planet from impending doom, six brave heroes fight a perilous battle…and fail. But there’s a glimpse of hope when Desir, one of the last mages, is suddenly sent back in time 13 years! Now armed with knowledge of the grim future, can he alter the course of history and save the world?",
-    "critic_score": 72,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
