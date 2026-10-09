@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1236045,
+    "title": "Animals",
+    "original_title": "Animals",
+    "release_year": 2026,
+    "release_date": "2026-10-09",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 1.0,
+    "votes": "1",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+    "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+    "critic_score": 10,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-09T09:24:58Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1148365,
+    "title": "Matchbox the Movie",
+    "original_title": "Matchbox the Movie",
+    "release_year": 2026,
+    "release_date": "2026-10-05",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.0,
+    "votes": "4",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+    "critic_score": 70,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-09T09:24:58Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1339713,
     "title": "Obsession",
     "original_title": "Obsession",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -114,7 +180,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 5.8,
+    "rating": 5.7,
     "votes": "59",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qg5U3trH8yEk94Iee9pFFxy8VzK.jpg",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -888,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   },
   {
     "id": "mov-031",
@@ -906,7 +972,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.9,
+    "rating": 7.5,
     "votes": "0",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1400940,
-    "title": "Clayface",
-    "original_title": "Clayface",
-    "release_year": 2026,
-    "release_date": "2026-10-21",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "critic_score": 0,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1375441,
-    "title": "Primetime",
-    "original_title": "Primetime",
-    "release_year": 2026,
-    "release_date": "2026-09-23",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.8,
-    "votes": "91",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-    "critic_score": 68,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-08T22:19:36Z"
+    "last_synced": "2026-10-09T09:24:58Z"
   }
 ]
