@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1153576,
+    "title": "Street Fighter",
+    "original_title": "Street Fighter",
+    "release_year": 2026,
+    "release_date": "2026-10-13",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-10T01:04:45Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1400837,
     "title": "Other Mommy",
     "original_title": "Other Mommy",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -81,7 +114,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.7,
+    "rating": 6.8,
     "votes": "1",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-032",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -675,7 +708,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.8,
+    "rating": 7.7,
     "votes": "65",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-09T21:05:40Z"
+    "last_synced": "2026-10-10T01:04:45Z"
   },
   {
     "id": "mov-031",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-10-07T02:08:52Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1204680,
-    "title": "Coyote vs. Acme",
-    "original_title": "Coyote vs. Acme",
-    "release_year": 2026,
-    "release_date": "2026-08-17",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "683",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-    "critic_score": 75,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-09T02:22:56Z"
   }
 ]
