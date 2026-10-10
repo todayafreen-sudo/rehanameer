@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1375441,
+    "title": "Primetime",
+    "original_title": "Primetime",
+    "release_year": 2026,
+    "release_date": "2026-09-23",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.8,
+    "votes": "103",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
+    "critic_score": 68,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-10T13:55:44Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1742441,
     "title": "V/H/S/Mixtape",
     "original_title": "V/H/S/Mixtape",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -81,7 +114,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.3,
+    "rating": 6.2,
     "votes": "29",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -147,7 +180,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.3,
+    "rating": 7.2,
     "votes": "1",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-032",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-08T10:10:36Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -312,7 +345,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 5.8,
+    "rating": 5.7,
     "votes": "59",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qg5U3trH8yEk94Iee9pFFxy8VzK.jpg",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -543,7 +576,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.0,
+    "rating": 7.9,
     "votes": "242",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -675,7 +708,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.6,
+    "rating": 7.5,
     "votes": "9",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T01:04:45Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   },
   {
     "id": "mov-031",
@@ -954,39 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-10T07:27:55Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1307118,
-    "title": "Soulm8te",
-    "original_title": "Soulm8te",
-    "release_year": 2026,
-    "release_date": "2026-07-31",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "444",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-    "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-    "critic_score": 75,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-09T16:25:20Z"
+    "last_synced": "2026-10-10T13:55:44Z"
   }
 ]
