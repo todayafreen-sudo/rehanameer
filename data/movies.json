@@ -1,6 +1,105 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1003596,
+    "title": "Avengers: Doomsday",
+    "original_title": "Avengers: Doomsday",
+    "release_year": 2026,
+    "release_date": "2026-12-16",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDkCXdxOrKRRa6t7uwOHDDj1Riu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-12T19:34:48Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1263337,
+    "title": "Heart of the Beast",
+    "original_title": "Heart of the Beast",
+    "release_year": 2026,
+    "release_date": "2026-09-19",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.4,
+    "votes": "272",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "critic_score": 74,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-12T19:34:48Z"
+  },
+  {
+    "id": "mov-033",
+    "tmdb_id": 1377237,
+    "title": "Runner",
+    "original_title": "Runner",
+    "release_year": 2026,
+    "release_date": "2026-09-07",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "494",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+    "critic_score": 83,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-12T19:34:48Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1302904,
     "title": "Practical Magic 2",
     "original_title": "Practical Magic 2",
@@ -30,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   },
   {
     "id": "mov-031",
@@ -81,7 +180,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.3,
+    "rating": 7.1,
     "votes": "66",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
@@ -96,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   },
   {
     "id": "mov-031",
@@ -510,7 +609,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 5.8,
+    "rating": 5.9,
     "votes": "29",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
@@ -525,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   },
   {
     "id": "mov-031",
@@ -576,7 +675,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.5,
+    "rating": 7.4,
     "votes": "1",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
@@ -591,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   },
   {
     "id": "mov-032",
@@ -624,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   },
   {
     "id": "mov-031",
@@ -888,105 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1492640,
-    "title": "UNABOMBER",
-    "original_title": "UNABOMBER",
-    "release_year": 2026,
-    "release_date": "2026-09-25",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.6,
-    "votes": "374",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-    "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
-    "critic_score": 66,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-09T01:16:29Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1108427,
-    "title": "Moana",
-    "original_title": "Moana",
-    "release_year": 2026,
-    "release_date": "2026-07-08",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.4,
-    "votes": "863",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "critic_score": 74,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-11T22:39:07Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 977942,
-    "title": "The Uprising",
-    "original_title": "The Uprising",
-    "release_year": 2026,
-    "release_date": "2026-09-10",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "242",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-    "critic_score": 80,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
+    "last_synced": "2026-10-12T19:34:48Z"
   }
 ]
