@@ -1,6 +1,156 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 95350,
+    "name": "Lanterns",
+    "first_air_date": "2026-08-16",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "727",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-13T08:52:17Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 289423,
+    "name": "Take Charge of My Heart",
+    "first_air_date": "2026-10-09",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "14",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+    "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-13T08:52:17Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 231620,
+    "name": "Natural High",
+    "first_air_date": "2023-08-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.5,
+    "votes": "6",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC2MuEWxnLVTyYw70XoK2HFf7nW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kQ58qbyCGkdmqKZtxMZbLNpgSxX.jpg",
+    "overview": "Come and join Shen Teng and his friends as they step away from the bustling crowded cities and reconnect with the beautiful wild nature.",
+    "critic_score": 75,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-13T08:52:17Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 73223,
+    "name": "Black Clover",
+    "first_air_date": "2017-10-03",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.5,
+    "votes": "2,236",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+    "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+    "critic_score": 85,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-13T08:52:17Z"
+  },
+  {
+    "id": "tv-030",
+    "tmdb_id": 305551,
+    "name": "Merry Berry Love",
+    "first_air_date": "2026-10-07",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.5,
+    "votes": "4",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/av7wQdYaicBCCUFQ6jRlm9ylZx4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
+    "overview": "When star Korean spatial designer Lee Yubin loses everything, he heads off to a Japanese island. There, he meets Karin, a resilient strawberry farmer. Hailing from different worlds, their lives collide in a big misunderstanding. Buckle up for \"Merry Berry Love,\" a sweet and sour Korea-Japan rom-com.",
+    "critic_score": 95,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-13T08:52:17Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 247718,
     "name": "MobLand",
     "first_air_date": "2025-03-30",
@@ -598,155 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-12T19:34:48Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 284833,
-    "name": "Avatar: Seven Havens",
-    "first_air_date": "2026-10-09",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.9,
-    "votes": "45",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
-    "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
-    "critic_score": 89,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 220542,
-    "name": "The Apothecary Diaries",
-    "first_air_date": "2023-10-22",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.7,
-    "votes": "665",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-    "critic_score": 87,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 37854,
-    "name": "One Piece",
-    "first_air_date": "1999-10-20",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.8,
-    "votes": "5,591",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
-    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-    "critic_score": 88,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 290856,
-    "name": "Marshals",
-    "first_air_date": "2026-03-01",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.9,
-    "votes": "388",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-    "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
-    "critic_score": 79,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
-  },
-  {
-    "id": "tv-030",
-    "tmdb_id": 207347,
-    "name": "Blue Box",
-    "first_air_date": "2024-10-03",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.9,
-    "votes": "104",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sN3TuYevEPWxZhwcp6I2PJRW1jl.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
-    "overview": "Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!",
-    "critic_score": 79,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-12T09:32:49Z"
   }
 ]
