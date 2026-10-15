@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1255833,
+    "title": "Whalefall",
+    "original_title": "Whalefall",
+    "release_year": 2026,
+    "release_date": "2026-10-14",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.5,
+    "votes": "15",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+    "critic_score": 75,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-15T22:55:50Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1476746,
+    "title": "The Florist",
+    "original_title": "The Florist",
+    "release_year": 2026,
+    "release_date": "2026-09-24",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.7,
+    "votes": "19",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
+    "overview": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.",
+    "critic_score": 67,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-15T22:55:50Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1283515,
     "title": "Verity",
     "original_title": "Verity",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-031",
@@ -213,7 +279,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.4,
+    "rating": 6.3,
     "votes": "2",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-032",
@@ -294,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-032",
@@ -345,7 +411,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.2,
+    "rating": 8.7,
     "votes": "0",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
@@ -360,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-032",
@@ -426,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-032",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-032",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-034",
@@ -624,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-032",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-032",
@@ -888,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T19:57:32Z"
+    "last_synced": "2026-10-15T22:55:50Z"
   },
   {
     "id": "mov-031",
@@ -922,71 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-10-13T07:24:45Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 950028,
-    "title": "The Invite",
-    "original_title": "The Invite",
-    "release_year": 2026,
-    "release_date": "2026-06-25",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.2,
-    "votes": "779",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
-    "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-    "critic_score": 72,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-12T02:00:46Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1458857,
-    "title": "Doing Life",
-    "original_title": "Doing Life",
-    "release_year": 2026,
-    "release_date": "2026-10-02",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.7,
-    "votes": "83",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-    "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
-    "critic_score": 77,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-11T22:39:07Z"
   }
 ]
