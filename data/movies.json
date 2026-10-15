@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1623256,
+    "title": "The Storm",
+    "original_title": "Stormen",
+    "release_year": 2026,
+    "release_date": "2026-10-15",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.8,
+    "votes": "3",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+    "overview": "Filip is turning 45, and has invited his closest friends for dinner at his and his wife's lavish and newly bought farm estate up north in Sweden. What they don't know is that a ferocious storm is on its way and that they'll be trapped together. Their polished acts fall, and an unfiltered meltdown starts. When the panic starts to creep in and they all realise the seriousness of the situation, the farm starts to shrink, secrets spill out, and unexpected feelings take shape.",
+    "critic_score": 88,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-15T16:11:31Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1291595,
+    "title": "Insidious: Out of the Further",
+    "original_title": "Insidious: Out of the Further",
+    "release_year": 2026,
+    "release_date": "2026-08-19",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.7,
+    "votes": "732",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "critic_score": 77,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-15T16:11:31Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1234139,
     "title": "Jailer 2",
     "original_title": "ஜெயிலர் 2",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-031",
@@ -114,7 +180,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.2,
+    "rating": 6.3,
     "votes": "2",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-031",
@@ -162,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-032",
@@ -180,7 +246,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.7,
+    "rating": 6.6,
     "votes": "3",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayzSlhCYuwV1MHT5kQaVJ0vH9fQ.jpg",
@@ -195,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-032",
@@ -261,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-032",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T06:08:21Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-032",
@@ -426,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-032",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-033",
@@ -477,7 +543,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.2,
+    "rating": 7.1,
     "votes": "122",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
@@ -492,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-034",
@@ -510,7 +576,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.4,
+    "rating": 7.3,
     "votes": "76",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-032",
@@ -657,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-032",
@@ -741,7 +807,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.3,
+    "rating": 6.4,
     "votes": "111",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   },
   {
     "id": "mov-032",
@@ -906,7 +972,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.8,
+    "rating": 7.3,
     "votes": "0",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1283515,
-    "title": "Verity",
-    "original_title": "Verity",
-    "release_year": 2026,
-    "release_date": "2026-09-30",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.4,
-    "votes": "152",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "critic_score": 64,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-15T11:52:20Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1084244,
-    "title": "Toy Story 5",
-    "original_title": "Toy Story 5",
-    "release_year": 2026,
-    "release_date": "2026-06-17",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.3,
-    "votes": "2,555",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-    "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-    "critic_score": 83,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-11T00:38:25Z"
+    "last_synced": "2026-10-15T16:11:31Z"
   }
 ]
