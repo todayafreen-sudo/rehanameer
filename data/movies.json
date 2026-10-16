@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1302904,
+    "title": "Practical Magic 2",
+    "original_title": "Practical Magic 2",
+    "release_year": 2026,
+    "release_date": "2026-09-09",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.7,
+    "votes": "182",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "critic_score": 67,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-16T15:08:00Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1284186,
     "title": "Sacrifice",
     "original_title": "Sacrifice",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-031",
@@ -81,7 +114,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.8,
+    "rating": 6.8,
     "votes": "1",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-032",
@@ -114,7 +147,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.0,
+    "rating": 6.7,
     "votes": "4",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-031",
@@ -147,7 +180,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.6,
+    "rating": 7.5,
     "votes": "15",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-032",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-032",
@@ -477,7 +510,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.5,
+    "rating": 6.4,
     "votes": "3",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayzSlhCYuwV1MHT5kQaVJ0vH9fQ.jpg",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-032",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-032",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T05:41:17Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-032",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-032",
@@ -774,7 +807,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.1,
+    "rating": 7.0,
     "votes": "122",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-034",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   },
   {
     "id": "mov-032",
@@ -954,39 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-16T10:33:47Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1263337,
-    "title": "Heart of the Beast",
-    "original_title": "Heart of the Beast",
-    "release_year": 2026,
-    "release_date": "2026-09-19",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.4,
-    "votes": "272",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "critic_score": 74,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-12T19:34:48Z"
+    "last_synced": "2026-10-16T15:08:00Z"
   }
 ]
