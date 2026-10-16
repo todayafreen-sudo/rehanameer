@@ -1,6 +1,126 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 153312,
+    "name": "Tulsa King",
+    "first_air_date": "2022-11-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "2,824",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-16T10:33:47Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 288673,
+    "name": "Carrie",
+    "first_air_date": "2026-10-07",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "286",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+    "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-16T10:33:47Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 247718,
+    "name": "MobLand",
+    "first_air_date": "2025-03-30",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.5,
+    "votes": "1,034",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "critic_score": 85,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-16T10:33:47Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 97546,
+    "name": "Ted Lasso",
+    "first_air_date": "2020-08-14",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "2,760",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-16T10:33:47Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 123542,
     "name": "LINK CLICK",
     "first_air_date": "2021-04-30",
@@ -628,125 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-15T16:11:31Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 289892,
-    "name": "Helluva Boss",
-    "first_air_date": "2020-10-31",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "116",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
-    "overview": "In Hell, imp Blitzø (the 'o' is silent) runs an assassin business targeting the world of the living, using a spell book borrowed from a prince of the underworld. With employees Moxxie, Millie, and Loona, they attempt to survive each other while keeping business afloat.",
-    "critic_score": 75,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-15T16:11:31Z"
-  },
-  {
-    "id": "tv-030",
-    "tmdb_id": 289423,
-    "name": "Take Charge of My Heart",
-    "first_air_date": "2026-10-09",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.5,
-    "votes": "24",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecRrKGXfflZmDZBD4irdkybClT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-    "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
-    "critic_score": 85,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-15T16:11:31Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 203857,
-    "name": "The Diplomat",
-    "first_air_date": "2023-04-20",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.6,
-    "votes": "492",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOKXV0FalCYixNmZYCfHXgyQ0VX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/hzznrBI07C2chXivlLYvEmQESP7.jpg",
-    "overview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
-    "critic_score": 76,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-15T11:52:21Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 286183,
-    "name": "Hollywood Arts",
-    "first_air_date": "2026-10-15",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVL8tV8z9br3XGsA9DDEY743sRE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/2wjP481Z3G6NlXoUFutN5vcnqzC.jpg",
-    "overview": "Struggling actress Trina Vega returns to her former high school, Hollywood Arts, as an unqualified substitute teacher, quickly finding herself both clashing with and unexpectedly inspiring a new generation of ambitious and talented students as they learn to find their true path at Hollywood's most elite performing arts school.",
-    "critic_score": 0,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-15T11:52:21Z"
   }
 ]
