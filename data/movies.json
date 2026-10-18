@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1148365,
+    "title": "Matchbox the Movie",
+    "original_title": "Matchbox the Movie",
+    "release_year": 2026,
+    "release_date": "2026-10-05",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.8,
+    "votes": "384",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+    "critic_score": 78,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-18T05:28:58Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1400940,
+    "title": "Clayface",
+    "original_title": "Clayface",
+    "release_year": 2026,
+    "release_date": "2026-10-21",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "8",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "critic_score": 82,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-18T05:28:58Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1339713,
     "title": "Obsession",
     "original_title": "Obsession",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   },
   {
     "id": "mov-032",
@@ -96,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   },
   {
     "id": "mov-032",
@@ -294,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-17T23:17:20Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   },
   {
     "id": "mov-032",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-17T23:17:20Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   },
   {
     "id": "mov-031",
@@ -543,7 +609,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.2,
+    "rating": 7.3,
     "votes": "1",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   },
   {
     "id": "mov-032",
@@ -576,7 +642,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.2,
+    "rating": 8.4,
     "votes": "4",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   },
   {
     "id": "mov-032",
@@ -873,7 +939,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.8,
+    "rating": 6.9,
     "votes": "2",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg",
@@ -888,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   },
   {
     "id": "mov-031",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1153576,
-    "title": "Street Fighter",
-    "original_title": "Street Fighter",
-    "release_year": 2026,
-    "release_date": "2026-10-13",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.2,
-    "votes": "3",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayzSlhCYuwV1MHT5kQaVJ0vH9fQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-    "critic_score": 77,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1236045,
-    "title": "Animals",
-    "original_title": "Animals",
-    "release_year": 2026,
-    "release_date": "2026-10-09",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.1,
-    "votes": "313",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-    "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-    "critic_score": 74,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-18T01:20:35Z"
+    "last_synced": "2026-10-18T05:28:58Z"
   }
 ]
