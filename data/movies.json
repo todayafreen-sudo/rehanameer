@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1153576,
+    "title": "Street Fighter",
+    "original_title": "Street Fighter",
+    "release_year": 2026,
+    "release_date": "2026-10-13",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.3,
+    "votes": "68",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "critic_score": 63,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-18T06:17:30Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1236045,
+    "title": "Animals",
+    "original_title": "Animals",
+    "release_year": 2026,
+    "release_date": "2026-10-09",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.1,
+    "votes": "453",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+    "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+    "critic_score": 71,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-18T06:17:30Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1148365,
     "title": "Matchbox the Movie",
     "original_title": "Matchbox the Movie",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-032",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-032",
@@ -360,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-032",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-032",
@@ -657,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
+    "last_synced": "2026-10-18T06:17:30Z"
   },
   {
     "id": "mov-032",
@@ -922,71 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-10-14T22:58:42Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1381078,
-    "title": "Love of Your Life",
-    "original_title": "Love of Your Life",
-    "release_year": 2026,
-    "release_date": "2026-10-07",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.9,
-    "votes": "2",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
-    "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
-    "critic_score": 70,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1400837,
-    "title": "Other Mommy",
-    "original_title": "Other Mommy",
-    "release_year": 2026,
-    "release_date": "2026-10-07",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 5.9,
-    "votes": "95",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "critic_score": 60,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-18T05:28:58Z"
   }
 ]
