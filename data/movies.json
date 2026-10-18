@@ -1,6 +1,105 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1381078,
+    "title": "Love of Your Life",
+    "original_title": "Love of Your Life",
+    "release_year": 2026,
+    "release_date": "2026-10-07",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.9,
+    "votes": "65",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+    "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+    "critic_score": 69,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-18T11:31:39Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1765072,
+    "title": "You Can See Everything",
+    "original_title": "You Can See Everything",
+    "release_year": 2026,
+    "release_date": "2026-10-16",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "15",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+    "critic_score": 84,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-18T11:31:39Z"
+  },
+  {
+    "id": "mov-033",
+    "tmdb_id": 1400837,
+    "title": "Other Mommy",
+    "original_title": "Other Mommy",
+    "release_year": 2026,
+    "release_date": "2026-10-07",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 5.9,
+    "votes": "129",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "critic_score": 59,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-18T11:31:39Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1153576,
     "title": "Street Fighter",
     "original_title": "Street Fighter",
@@ -15,7 +114,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.3,
+    "rating": 6.4,
     "votes": "68",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
@@ -30,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-032",
@@ -114,7 +213,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.2,
+    "rating": 8.4,
     "votes": "8",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
@@ -129,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-032",
@@ -294,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-031",
@@ -312,7 +411,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.3,
+    "rating": 7.2,
     "votes": "127",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
@@ -327,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-032",
@@ -426,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-032",
@@ -657,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-031",
@@ -675,7 +774,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.3,
+    "rating": 7.2,
     "votes": "1",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
@@ -690,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-032",
@@ -708,7 +807,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.4,
+    "rating": 8.3,
     "votes": "4",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
@@ -723,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-18T06:17:30Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   },
   {
     "id": "mov-032",
@@ -888,105 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-17T16:06:02Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1234139,
-    "title": "Jailer 2",
-    "original_title": "ஜெயிலர் 2",
-    "release_year": 2026,
-    "release_date": "2026-10-14",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "1",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
-    "overview": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new enemies to protect his home.",
-    "critic_score": 60,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-17T12:49:08Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1375441,
-    "title": "Primetime",
-    "original_title": "Primetime",
-    "release_year": 2026,
-    "release_date": "2026-09-23",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.9,
-    "votes": "121",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-    "critic_score": 69,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-16T00:59:11Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1187326,
-    "title": "Tad and The Magic Lamp",
-    "original_title": "Tadeo Jones y La Lámpara Maravillosa",
-    "release_year": 2026,
-    "release_date": "2026-08-26",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "15",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
-    "overview": "Tadeo, his girlfriend Sara, and his friends Momia, Jeff, and Belzoni embark on an adventure after Tadeo accidentally unleashes an ancient spell.",
-    "critic_score": 68,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-14T22:58:42Z"
+    "last_synced": "2026-10-18T11:31:39Z"
   }
 ]

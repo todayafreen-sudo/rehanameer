@@ -1,6 +1,36 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 45790,
+    "name": "JoJo's Bizarre Adventure",
+    "first_air_date": "2012-10-06",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.5,
+    "votes": "1,680",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
+    "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+    "critic_score": 85,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-18T11:31:39Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 95480,
     "name": "Slow Horses",
     "first_air_date": "2022-04-01",
@@ -713,36 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
     "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
     "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-16T21:53:11Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 220542,
-    "name": "The Apothecary Diaries",
-    "first_air_date": "2023-10-22",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.7,
-    "votes": "668",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-    "critic_score": 87,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
