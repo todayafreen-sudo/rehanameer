@@ -1,6 +1,66 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 247718,
+    "name": "MobLand",
+    "first_air_date": "2025-03-30",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.5,
+    "votes": "1,054",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "critic_score": 85,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-19T11:56:04Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 196322,
+    "name": "Dark Matter",
+    "first_air_date": "2024-05-07",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.8,
+    "votes": "839",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
+    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+    "critic_score": 78,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-19T11:56:04Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 123542,
     "name": "LINK CLICK",
     "first_air_date": "2021-04-30",
@@ -688,65 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-17T21:12:06Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 288673,
-    "name": "Carrie",
-    "first_air_date": "2026-10-07",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.3,
-    "votes": "319",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-    "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-    "critic_score": 83,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-17T18:41:58Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 153312,
-    "name": "Tulsa King",
-    "first_air_date": "2022-11-13",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.3,
-    "votes": "2,835",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "critic_score": 83,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-17T18:41:58Z"
   }
 ]
