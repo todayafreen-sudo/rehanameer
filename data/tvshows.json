@@ -1,6 +1,126 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 120911,
+    "name": "The Terminal List",
+    "first_air_date": "2022-06-30",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "1,247",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
+    "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+    "critic_score": 80,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-21T12:44:39Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 275139,
+    "name": "Phony",
+    "first_air_date": "2026-10-20",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.1,
+    "votes": "7",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
+    "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+    "critic_score": 61,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-21T12:44:39Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 234310,
+    "name": "Where's Wanda?",
+    "first_air_date": "2024-10-02",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.6,
+    "votes": "40",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e31KF5NW91PA5ktaxqGMmx6myea.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ihFgxTeZ8nenm8Y41tuGH7tCeTU.jpg",
+    "overview": "After the Klatts' daughter goes missing, they take matters into their own hands and hatch a wild plan: Spy on the neighborhood. As they make their way into small-time espionage, shocking secrets come to light one by one.",
+    "critic_score": 66,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-21T12:44:39Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 95350,
+    "name": "Lanterns",
+    "first_air_date": "2026-08-16",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "791",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "critic_score": 82,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-21T12:44:39Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 37854,
     "name": "One Piece",
     "first_air_date": "1999-10-20",
@@ -628,125 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-20T16:29:50Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 285322,
-    "name": "Below",
-    "first_air_date": "2026-10-08",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.2,
-    "votes": "185",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-    "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-    "critic_score": 72,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-20T16:29:50Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 312359,
-    "name": "Dragon Ball Super: Beerus",
-    "first_air_date": "2026-10-11",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 9.7,
-    "votes": "259",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-    "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-    "critic_score": 97,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-20T16:29:50Z"
-  },
-  {
-    "id": "tv-030",
-    "tmdb_id": 333101,
-    "name": "Treasure Island",
-    "first_air_date": "2026-10-11",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.3,
-    "votes": "29",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
-    "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
-    "critic_score": 63,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-20T16:29:50Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 213375,
-    "name": "VisionQuest",
-    "first_air_date": "2026-10-13",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.8,
-    "votes": "112",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "critic_score": 88,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-20T11:57:38Z"
   }
 ]
