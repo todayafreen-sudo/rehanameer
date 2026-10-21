@@ -1,6 +1,156 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 203857,
+    "name": "The Diplomat",
+    "first_air_date": "2023-04-20",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.6,
+    "votes": "498",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hzznrBI07C2chXivlLYvEmQESP7.jpg",
+    "overview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
+    "critic_score": 76,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-21T01:48:55Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 300146,
+    "name": "Where the Mask Ends",
+    "first_air_date": "2026-10-16",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.0,
+    "votes": "1",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/YndvGwqwroUDVltBWmnOuTvJke.jpg",
+    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+    "critic_score": 90,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-21T01:48:55Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 108978,
+    "name": "Reacher",
+    "first_air_date": "2022-02-03",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "3,523",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-21T01:48:55Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 95480,
+    "name": "Slow Horses",
+    "first_air_date": "2022-04-01",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "1,060",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-21T01:48:55Z"
+  },
+  {
+    "id": "tv-030",
+    "tmdb_id": 231620,
+    "name": "Natural High",
+    "first_air_date": "2023-08-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.5,
+    "votes": "6",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC2MuEWxnLVTyYw70XoK2HFf7nW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kQ58qbyCGkdmqKZtxMZbLNpgSxX.jpg",
+    "overview": "Come and join Shen Teng and his friends as they step away from the bustling crowded cities and reconnect with the beautiful wild nature.",
+    "critic_score": 75,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-21T01:48:55Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 288673,
     "name": "Carrie",
     "first_air_date": "2026-10-07",
@@ -598,155 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-20T05:42:22Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 284833,
-    "name": "Avatar: Seven Havens",
-    "first_air_date": "2026-10-09",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 9.1,
-    "votes": "97",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
-    "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
-    "critic_score": 91,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-20T05:42:22Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 73223,
-    "name": "Black Clover",
-    "first_air_date": "2017-10-03",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.5,
-    "votes": "2,250",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-    "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-    "critic_score": 85,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-20T05:42:22Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 30984,
-    "name": "Bleach",
-    "first_air_date": "2004-10-05",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.4,
-    "votes": "2,301",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-    "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-20T01:29:26Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 97546,
-    "name": "Ted Lasso",
-    "first_air_date": "2020-08-14",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.4,
-    "votes": "2,774",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-20T01:29:26Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 286183,
-    "name": "Hollywood Arts",
-    "first_air_date": "2026-10-15",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.8,
-    "votes": "6",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/2wjP481Z3G6NlXoUFutN5vcnqzC.jpg",
-    "overview": "Class is in session at Hollywood Arts! Self-proclaimed icon Trina Vega returns to steer gifted teens toward stardom, status and hilarious havoc.",
-    "critic_score": 68,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-20T01:29:26Z"
   }
 ]
