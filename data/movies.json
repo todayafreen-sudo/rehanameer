@@ -1,6 +1,171 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1561726,
+    "title": "Masterplan",
+    "original_title": "Masterplan",
+    "release_year": 2026,
+    "release_date": "2026-10-16",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.0,
+    "votes": "147",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+    "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
+    "critic_score": 70,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-23T11:54:33Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1288069,
+    "title": "Tenzing",
+    "original_title": "Tenzing",
+    "release_year": 2026,
+    "release_date": "2026-10-09",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "145",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
+    "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
+    "critic_score": 83,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-23T11:54:33Z"
+  },
+  {
+    "id": "mov-033",
+    "tmdb_id": 1780005,
+    "title": "Surviving Hurricane Otis",
+    "original_title": "Contra El Huracán",
+    "release_year": 2026,
+    "release_date": "2026-10-23",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW3etvnzQjRSCnRb8e1fDAvt6S6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+    "overview": "In the middle of the sea, Wirpul and his half-brother Candi fight for survival when an unexpected storm turns into Hurricane Otis, a category 5 hurricane, off the coast of Acapulco.",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-23T11:54:33Z"
+  },
+  {
+    "id": "mov-034",
+    "tmdb_id": 1477104,
+    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "release_year": 2026,
+    "release_date": "2026-09-17",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.4,
+    "votes": "25",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+    "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
+    "critic_score": 74,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-23T11:54:33Z"
+  },
+  {
+    "id": "mov-035",
+    "tmdb_id": 1433583,
+    "title": "The Weight",
+    "original_title": "The Weight",
+    "release_year": 2026,
+    "release_date": "2026-09-16",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.7,
+    "votes": "60",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
+    "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
+    "critic_score": 67,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-23T11:54:33Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1255833,
     "title": "Whalefall",
     "original_title": "Whalefall",
@@ -30,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-23T06:14:16Z"
+    "last_synced": "2026-10-23T11:54:33Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-23T06:14:16Z"
+    "last_synced": "2026-10-23T11:54:33Z"
   },
   {
     "id": "mov-033",
@@ -129,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-23T06:14:16Z"
+    "last_synced": "2026-10-23T11:54:33Z"
   },
   {
     "id": "mov-032",
@@ -147,7 +312,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.6,
+    "rating": 6.5,
     "votes": "62",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg",
@@ -162,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-23T06:14:16Z"
+    "last_synced": "2026-10-23T11:54:33Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-23T06:14:16Z"
+    "last_synced": "2026-10-23T11:54:33Z"
   },
   {
     "id": "mov-032",
@@ -492,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-23T06:14:16Z"
+    "last_synced": "2026-10-23T11:54:33Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-23T06:14:16Z"
+    "last_synced": "2026-10-23T11:54:33Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-23T06:14:16Z"
+    "last_synced": "2026-10-23T11:54:33Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-23T06:14:16Z"
+    "last_synced": "2026-10-23T11:54:33Z"
   },
   {
     "id": "mov-032",
@@ -657,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-23T06:14:16Z"
+    "last_synced": "2026-10-23T11:54:33Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-23T06:14:16Z"
+    "last_synced": "2026-10-23T11:54:33Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-23T06:14:16Z"
+    "last_synced": "2026-10-23T11:54:33Z"
   },
   {
     "id": "mov-031",
@@ -823,170 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-10-21T01:48:55Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1003596,
-    "title": "Avengers: Doomsday",
-    "original_title": "Avengers: Doomsday",
-    "release_year": 2026,
-    "release_date": "2026-12-16",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
-    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-    "critic_score": 0,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-23T06:14:16Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1170608,
-    "title": "Dune: Part Three",
-    "original_title": "Dune: Part Three",
-    "release_year": 2026,
-    "release_date": "2026-12-15",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKCdkfKmEqS0mKpWgHTeWuISHS3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
-    "critic_score": 0,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-23T01:09:29Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1302904,
-    "title": "Practical Magic 2",
-    "original_title": "Practical Magic 2",
-    "release_year": 2026,
-    "release_date": "2026-09-09",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.1,
-    "votes": "257",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "critic_score": 70,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-22T19:21:50Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1284186,
-    "title": "Sacrifice",
-    "original_title": "Sacrifice",
-    "release_year": 2026,
-    "release_date": "2026-04-09",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 5.1,
-    "votes": "59",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
-    "overview": "During a star-studded charity gala brimming with celebrities, billionaires, and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
-    "critic_score": 50,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-23T01:09:29Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1368337,
-    "title": "The Odyssey",
-    "original_title": "The Odyssey",
-    "release_year": 2026,
-    "release_date": "2026-07-15",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "4,187",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
-    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "critic_score": 80,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-23T06:14:16Z"
   }
 ]
