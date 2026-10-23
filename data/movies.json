@@ -1,6 +1,138 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1765072,
+    "title": "You Can See Everything",
+    "original_title": "You Can See Everything",
+    "release_year": 2026,
+    "release_date": "2026-10-16",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.8,
+    "votes": "29",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+    "critic_score": 88,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-23T01:09:29Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1375646,
+    "title": "Colony",
+    "original_title": "군체",
+    "release_year": 2026,
+    "release_date": "2026-05-21",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "1,198",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/enz3WLx5QU1FUyhXZld04QWIc6N.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pGxUbJ1vKuMYeEjKDokFI7DNbSG.jpg",
+    "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+    "critic_score": 81,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-23T01:09:29Z"
+  },
+  {
+    "id": "mov-033",
+    "tmdb_id": 1236045,
+    "title": "Animals",
+    "original_title": "Animals",
+    "release_year": 2026,
+    "release_date": "2026-10-09",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.0,
+    "votes": "547",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+    "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+    "critic_score": 70,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-23T01:09:29Z"
+  },
+  {
+    "id": "mov-034",
+    "tmdb_id": 1381078,
+    "title": "Love of Your Life",
+    "original_title": "Love of Your Life",
+    "release_year": 2026,
+    "release_date": "2026-10-07",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.8,
+    "votes": "122",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+    "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+    "critic_score": 68,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-23T01:09:29Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1153576,
     "title": "Street Fighter",
     "original_title": "Street Fighter",
@@ -30,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-22T22:34:52Z"
+    "last_synced": "2026-10-23T01:09:29Z"
   },
   {
     "id": "mov-032",
@@ -180,7 +312,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.3,
+    "rating": 7.5,
     "votes": "36",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
@@ -195,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-22T22:34:52Z"
+    "last_synced": "2026-10-23T01:09:29Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-22T22:34:52Z"
+    "last_synced": "2026-10-23T01:09:29Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-22T22:34:52Z"
+    "last_synced": "2026-10-23T01:09:29Z"
   },
   {
     "id": "mov-032",
@@ -393,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-22T22:34:52Z"
+    "last_synced": "2026-10-23T01:09:29Z"
   },
   {
     "id": "mov-031",
@@ -426,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-22T22:34:52Z"
+    "last_synced": "2026-10-23T01:09:29Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-22T22:34:52Z"
+    "last_synced": "2026-10-23T01:09:29Z"
   },
   {
     "id": "mov-032",
@@ -591,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-22T15:27:36Z"
+    "last_synced": "2026-10-23T01:09:29Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-22T19:21:50Z"
+    "last_synced": "2026-10-23T01:09:29Z"
   },
   {
     "id": "mov-032",
@@ -690,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-22T19:21:50Z"
+    "last_synced": "2026-10-23T01:09:29Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-22T22:34:52Z"
+    "last_synced": "2026-10-23T01:09:29Z"
   },
   {
     "id": "mov-032",
@@ -756,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-22T22:34:52Z"
+    "last_synced": "2026-10-23T01:09:29Z"
   },
   {
     "id": "mov-031",
@@ -789,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-22T22:34:52Z"
+    "last_synced": "2026-10-23T01:09:29Z"
   },
   {
     "id": "mov-031",
@@ -807,7 +939,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.6,
+    "rating": 6.5,
     "votes": "58",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
@@ -822,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-22T22:34:52Z"
+    "last_synced": "2026-10-23T01:09:29Z"
   },
   {
     "id": "mov-031",
@@ -856,137 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-10-22T22:34:52Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1283515,
-    "title": "Verity",
-    "original_title": "Verity",
-    "release_year": 2026,
-    "release_date": "2026-09-30",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.4,
-    "votes": "230",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-    "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-    "critic_score": 64,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-22T19:21:50Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1380417,
-    "title": "By Any Means",
-    "original_title": "By Any Means",
-    "release_year": 2026,
-    "release_date": "2026-09-02",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.6,
-    "votes": "34",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/eAouIDoMDhLetm6CtmDKIGEaaCi.jpg",
-    "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
-    "critic_score": 74,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-22T22:34:52Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1198654,
-    "title": "Bad Apples",
-    "original_title": "Bad Apples",
-    "release_year": 2026,
-    "release_date": "2026-09-10",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.5,
-    "votes": "33",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3yVgDBfE25KMe0jcyM512Zbutm1.jpg",
-    "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
-    "critic_score": 72,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-22T22:34:52Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1234139,
-    "title": "Jailer 2",
-    "original_title": "ஜெயிலர் 2",
-    "release_year": 2026,
-    "release_date": "2026-10-14",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "9",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/zpHTOdRl7GEPqFsDGqsN6Hi9Ylt.jpg",
-    "overview": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new enemies to protect his home.",
-    "critic_score": 80,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-19T18:19:30Z"
   }
 ]
