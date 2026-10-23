@@ -1,6 +1,186 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 105248,
+    "name": "Cyberpunk: Edgerunners",
+    "first_air_date": "2022-09-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.5,
+    "votes": "2,076",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+    "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+    "critic_score": 85,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-23T20:00:44Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 300146,
+    "name": "Where the Mask Ends",
+    "first_air_date": "2026-10-16",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "6",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/YndvGwqwroUDVltBWmnOuTvJke.jpg",
+    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+    "critic_score": 82,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-23T20:00:44Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 293610,
+    "name": "Doctor X: Mafia in White",
+    "first_air_date": "2026-10-09",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.4,
+    "votes": "19",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "critic_score": 94,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-23T20:00:44Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 284833,
+    "name": "Avatar: Seven Havens",
+    "first_air_date": "2026-10-09",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.1,
+    "votes": "107",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+    "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+    "critic_score": 91,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-23T20:00:44Z"
+  },
+  {
+    "id": "tv-030",
+    "tmdb_id": 95480,
+    "name": "Slow Horses",
+    "first_air_date": "2022-04-01",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "1,071",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-23T20:00:44Z"
+  },
+  {
+    "id": "tv-031",
+    "tmdb_id": 279923,
+    "name": "Dream",
+    "first_air_date": "2026-10-16",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.0,
+    "votes": "2",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/60VJNlmyDUtpZlv2cdAKlNrXu7T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/trLfT9JbejqH6eQYbDwzcIVYUFG.jpg",
+    "overview": "Years ago, journalist Shen Leshui recorded the lives of workers at the Old La City Brewery. Now she returns to La City, picks up her camera again, and explores corners forgotten by time. Cao Jun, Tu Chunyan, Qian Yichuan, Cheng Youtian... These people, once the subjects of her lens, experience the rise and fall of fate in the torrent of time. Their stories are like riddles sealed by time. Moving between the past and the present, Shen Leshui uncovers these chapters of the past buried by time.",
+    "critic_score": 60,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-23T20:00:44Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 153312,
     "name": "Tulsa King",
     "first_air_date": "2022-11-13",
@@ -568,185 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-22T19:21:50Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 311648,
-    "name": "Make Me Tingle",
-    "first_air_date": "2026-10-15",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "1",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
-    "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
-    "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-22T19:21:50Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 2190,
-    "name": "South Park",
-    "first_air_date": "1997-08-13",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.3,
-    "votes": "5,212",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "critic_score": 83,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-22T15:27:37Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 303745,
-    "name": "Love in Disguise",
-    "first_air_date": "2026-10-19",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.3,
-    "votes": "9",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-    "critic_score": 73,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-22T10:24:18Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 289892,
-    "name": "Helluva Boss",
-    "first_air_date": "2020-10-31",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.6,
-    "votes": "118",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
-    "overview": "In Hell, imp Blitzø (the 'o' is silent) runs an assassin business targeting the world of the living, using a spell book borrowed from a prince of the underworld. With employees Moxxie, Millie, and Loona, they attempt to survive each other while keeping business afloat.",
-    "critic_score": 76,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-22T10:24:18Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 250923,
-    "name": "Nobody Wants This",
-    "first_air_date": "2024-09-26",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.3,
-    "votes": "302",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUpIceeJJoRqUHSCzh6jRSmlpkA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/q8BwtVM3t0SOtB1nZsXpOKZp8IM.jpg",
-    "overview": "An agnostic sex podcaster and a newly single rabbi fall in love, but can their relationship survive their wildly different lives and meddling families?",
-    "critic_score": 73,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-22T10:24:18Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 30984,
-    "name": "Bleach",
-    "first_air_date": "2004-10-05",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.3,
-    "votes": "2,306",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-    "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-22T05:47:45Z"
   }
 ]
