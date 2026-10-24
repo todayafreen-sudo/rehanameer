@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1453407,
+    "title": "Gajab Raat",
+    "original_title": "ग़ज़ब रात",
+    "release_year": 2026,
+    "release_date": "2026-10-23",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 3.2,
+    "votes": "2",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+    "overview": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
+    "critic_score": 32,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-24T18:16:53Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1153576,
     "title": "Street Fighter",
     "original_title": "Street Fighter",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-033",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-032",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-032",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T06:49:08Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-033",
@@ -345,7 +378,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 5.9,
+    "rating": 8.0,
     "votes": "5",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-23T23:18:08Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-032",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-032",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-033",
@@ -543,7 +576,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.3,
+    "rating": 8.2,
     "votes": "98",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-032",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-033",
@@ -642,7 +675,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 5.1,
+    "rating": 5.2,
     "votes": "0",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW3etvnzQjRSCnRb8e1fDAvt6S6.jpg",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-034",
@@ -708,7 +741,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.7,
+    "rating": 6.8,
     "votes": "60",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-031",
@@ -774,7 +807,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.5,
+    "rating": 8.7,
     "votes": "12",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-033",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
+    "last_synced": "2026-10-24T18:16:53Z"
   },
   {
     "id": "mov-032",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-10-23T20:00:44Z"
-  },
-  {
-    "id": "mov-033",
-    "tmdb_id": 1236045,
-    "title": "Animals",
-    "original_title": "Animals",
-    "release_year": 2026,
-    "release_date": "2026-10-09",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.0,
-    "votes": "547",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-    "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-    "critic_score": 70,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-24T06:49:08Z"
   }
 ]
