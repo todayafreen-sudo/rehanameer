@@ -1,6 +1,126 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 120911,
+    "name": "The Terminal List",
+    "first_air_date": "2022-06-30",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "1,268",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
+    "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+    "critic_score": 80,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-25T05:45:23Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 213375,
+    "name": "VisionQuest",
+    "first_air_date": "2026-10-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.7,
+    "votes": "175",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "critic_score": 87,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-25T05:45:23Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 196322,
+    "name": "Dark Matter",
+    "first_air_date": "2024-05-07",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.8,
+    "votes": "845",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
+    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+    "critic_score": 78,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-25T05:45:23Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 2190,
+    "name": "South Park",
+    "first_air_date": "1997-08-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "5,221",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-25T05:45:23Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 96677,
     "name": "Lupin",
     "first_air_date": "2021-01-08",
@@ -628,125 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-24T15:17:16Z"
-  },
-  {
-    "id": "tv-030",
-    "tmdb_id": 456,
-    "name": "The Simpsons",
-    "first_air_date": "1989-12-17",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "11,101",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5UALlcA0EnviaCUn2wMjOWYiOO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-24T15:17:16Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 220542,
-    "name": "The Apothecary Diaries",
-    "first_air_date": "2023-10-22",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.7,
-    "votes": "685",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-    "critic_score": 87,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-24T11:48:59Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 247718,
-    "name": "MobLand",
-    "first_air_date": "2025-03-30",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.6,
-    "votes": "1,080",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "critic_score": 86,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-24T11:48:59Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 106449,
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "first_air_date": "2020-07-25",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.4,
-    "votes": "91",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXX12X3Lx7jmlvfUc3glIwJVLCH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/8NIvQY34tNPc4txNeym2zEYk9ek.jpg",
-    "overview": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.",
-    "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-24T11:48:59Z"
   }
 ]
