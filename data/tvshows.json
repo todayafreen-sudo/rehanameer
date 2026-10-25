@@ -1,6 +1,186 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 288673,
+    "name": "Carrie",
+    "first_air_date": "2026-10-07",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "458",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+    "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-25T19:50:21Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 456,
+    "name": "The Simpsons",
+    "first_air_date": "1989-12-17",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "11,106",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "critic_score": 80,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-25T19:50:21Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 285625,
+    "name": "Small Town Remedy",
+    "first_air_date": "2026-10-21",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.0,
+    "votes": "1",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXlDXC1dPDoVAGWOk0Pb25zggqE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nhQKKALP3SOi1Ft5MZU6KU05VcY.jpg",
+    "overview": "After losing his job at a top-tier hospital due to an unexpected incident, Liu Zhengliang returns to his hometown and begins working in the emergency department of a local community hospital. While healing patients one after another, he finds himself continually healed by their resilience and humanity, creating a mutual journey of recovery and growth between caregiver and those in need.",
+    "critic_score": 90,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-25T19:50:21Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 65942,
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "first_air_date": "2016-04-04",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "811",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-25T19:50:21Z"
+  },
+  {
+    "id": "tv-030",
+    "tmdb_id": 314939,
+    "name": "A Love Other Than Yours",
+    "first_air_date": "2026-09-12",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.3,
+    "votes": "3",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
+    "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
+    "critic_score": 63,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-25T19:50:21Z"
+  },
+  {
+    "id": "tv-031",
+    "tmdb_id": 153312,
+    "name": "Tulsa King",
+    "first_air_date": "2022-11-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "2,865",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-25T19:50:21Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 123542,
     "name": "LINK CLICK",
     "first_air_date": "2021-04-30",
@@ -568,185 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-24T23:30:31Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 250923,
-    "name": "Nobody Wants This",
-    "first_air_date": "2024-09-26",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.3,
-    "votes": "304",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUpIceeJJoRqUHSCzh6jRSmlpkA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/q8BwtVM3t0SOtB1nZsXpOKZp8IM.jpg",
-    "overview": "An agnostic sex podcaster and a newly single rabbi fall in love, but can their relationship survive their wildly different lives and meddling families?",
-    "critic_score": 73,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-24T23:30:31Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 105248,
-    "name": "Cyberpunk: Edgerunners",
-    "first_air_date": "2022-09-13",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.5,
-    "votes": "2,080",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
-    "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
-    "critic_score": 85,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-24T21:01:57Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 95480,
-    "name": "Slow Horses",
-    "first_air_date": "2022-04-01",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.1,
-    "votes": "1,073",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-    "critic_score": 81,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-24T21:01:57Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 300146,
-    "name": "Where the Mask Ends",
-    "first_air_date": "2026-10-16",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.2,
-    "votes": "6",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/YndvGwqwroUDVltBWmnOuTvJke.jpg",
-    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-    "critic_score": 82,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-24T21:01:57Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 73223,
-    "name": "Black Clover",
-    "first_air_date": "2017-10-03",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.5,
-    "votes": "2,257",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-    "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-    "critic_score": 85,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-24T21:01:57Z"
-  },
-  {
-    "id": "tv-030",
-    "tmdb_id": 275139,
-    "name": "Phony",
-    "first_air_date": "2026-10-20",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.2,
-    "votes": "11",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/g2r69hj61xfhMxnrYm8QyMs0gs1.jpg",
-    "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
-    "critic_score": 72,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-24T21:01:57Z"
   }
 ]
