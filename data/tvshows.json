@@ -1,6 +1,96 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 153312,
+    "name": "Tulsa King",
+    "first_air_date": "2022-11-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "2,873",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-26T22:59:51Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 314360,
+    "name": "YAGA",
+    "first_air_date": "2026-10-23",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.9,
+    "votes": "9",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lVCFOjUDlZLMvTJxQ2t78MjTIqL.jpg",
+    "overview": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
+    "critic_score": 69,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-26T22:59:51Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 290856,
+    "name": "Marshals",
+    "first_air_date": "2026-03-01",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "412",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+    "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+    "critic_score": 80,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-26T22:59:51Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 123542,
     "name": "LINK CLICK",
     "first_air_date": "2021-04-30",
@@ -658,95 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-25T22:14:55Z"
-  },
-  {
-    "id": "tv-030",
-    "tmdb_id": 300146,
-    "name": "Where the Mask Ends",
-    "first_air_date": "2026-10-16",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.2,
-    "votes": "6",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/YndvGwqwroUDVltBWmnOuTvJke.jpg",
-    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-    "critic_score": 82,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-25T22:14:55Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 288673,
-    "name": "Carrie",
-    "first_air_date": "2026-10-07",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.3,
-    "votes": "458",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-    "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-    "critic_score": 83,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-25T19:50:21Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 456,
-    "name": "The Simpsons",
-    "first_air_date": "1989-12-17",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "11,106",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-25T19:50:21Z"
   }
 ]
