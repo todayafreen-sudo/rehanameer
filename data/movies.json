@@ -1,6 +1,105 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1477104,
+    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "release_year": 2026,
+    "release_date": "2026-09-17",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.3,
+    "votes": "36",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+    "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
+    "critic_score": 73,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-26T18:46:32Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1381071,
+    "title": "Godzilla Minus Zero",
+    "original_title": "ゴジラ-0.0",
+    "release_year": 2026,
+    "release_date": "2026-11-03",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-26T18:46:32Z"
+  },
+  {
+    "id": "mov-033",
+    "tmdb_id": 1567937,
+    "title": "V",
+    "original_title": "空枪",
+    "release_year": 2026,
+    "release_date": "2026-08-19",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.6,
+    "votes": "11",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mm8VecTY7YxWevgS8F2ygqLMAiv.jpg",
+    "overview": "In the early 1990s, this city of desire, once a land of opportunity, was plagued by rampant crime and a breakdown of order. Man Tsz-keung, a working-class man desperate to change his fate, meets flight attendant Lok Ka-yuen, and the two team up to rob a large sum of money. This success fuels Man Tsz-keung's madness, pushing him into a deeper power struggle with wealthy businessman Chan Fai-yin. Meanwhile, mainland police officer Qi Honggang and Hong Kong police officer Guan Suchen continue their investigation of Wan Ziqiang, leading to a joint operation between the two police forces, setting the stage for a clash between good and evil. This film is fictional.",
+    "critic_score": 66,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-26T18:46:32Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1003596,
     "title": "Avengers: Doomsday",
     "original_title": "Avengers: Doomsday",
@@ -30,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
+    "last_synced": "2026-10-26T18:46:32Z"
   },
   {
     "id": "mov-032",
@@ -96,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
+    "last_synced": "2026-10-26T18:46:32Z"
   },
   {
     "id": "mov-032",
@@ -129,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
+    "last_synced": "2026-10-26T18:46:32Z"
   },
   {
     "id": "mov-031",
@@ -162,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
+    "last_synced": "2026-10-26T18:46:32Z"
   },
   {
     "id": "mov-032",
@@ -228,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
+    "last_synced": "2026-10-26T18:46:32Z"
   },
   {
     "id": "mov-031",
@@ -246,7 +345,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.9,
+    "rating": 8.7,
     "votes": "51",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
@@ -261,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
+    "last_synced": "2026-10-26T18:46:32Z"
   },
   {
     "id": "mov-032",
@@ -294,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
+    "last_synced": "2026-10-26T18:46:32Z"
   },
   {
     "id": "mov-033",
@@ -393,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
+    "last_synced": "2026-10-26T18:46:32Z"
   },
   {
     "id": "mov-032",
@@ -459,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
+    "last_synced": "2026-10-26T18:46:32Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
+    "last_synced": "2026-10-26T18:46:32Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-26T05:48:34Z"
+    "last_synced": "2026-10-26T18:46:32Z"
   },
   {
     "id": "mov-032",
@@ -756,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
+    "last_synced": "2026-10-26T18:46:32Z"
   },
   {
     "id": "mov-032",
@@ -789,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
+    "last_synced": "2026-10-26T18:46:32Z"
   },
   {
     "id": "mov-033",
@@ -855,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
+    "last_synced": "2026-10-26T18:46:32Z"
   },
   {
     "id": "mov-032",
@@ -888,105 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1108427,
-    "title": "Moana",
-    "original_title": "Moana",
-    "release_year": 2026,
-    "release_date": "2026-07-08",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "957",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "critic_score": 75,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1514026,
-    "title": "Buddy",
-    "original_title": "Buddy",
-    "release_year": 2026,
-    "release_date": "2026-08-27",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.1,
-    "votes": "173",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-    "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
-    "critic_score": 71,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-25T17:09:23Z"
-  },
-  {
-    "id": "mov-033",
-    "tmdb_id": 1290418,
-    "title": "The Cycle",
-    "original_title": "The Cycle",
-    "release_year": 2026,
-    "release_date": "2026-09-24",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "5",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
-    "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
-    "critic_score": 59,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
+    "last_synced": "2026-10-26T18:46:32Z"
   }
 ]
