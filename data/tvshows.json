@@ -1,6 +1,156 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 96677,
+    "name": "Lupin",
+    "first_air_date": "2021-01-08",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.7,
+    "votes": "2,734",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+    "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+    "critic_score": 77,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-27T18:52:03Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 213375,
+    "name": "VisionQuest",
+    "first_air_date": "2026-10-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.7,
+    "votes": "185",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "critic_score": 87,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-27T18:52:03Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 275139,
+    "name": "Phony",
+    "first_air_date": "2026-10-20",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.4,
+    "votes": "17",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AdFlgN6pKI6C481z2KshrQL204w.jpg",
+    "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+    "critic_score": 74,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-27T18:52:03Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 316702,
+    "name": "Final Table",
+    "first_air_date": "2026-10-24",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "4",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+    "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+    "critic_score": 82,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-27T18:52:03Z"
+  },
+  {
+    "id": "tv-030",
+    "tmdb_id": 73223,
+    "name": "Black Clover",
+    "first_air_date": "2017-10-03",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.5,
+    "votes": "2,270",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+    "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+    "critic_score": 85,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-27T18:52:03Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 37854,
     "name": "One Piece",
     "first_air_date": "1999-10-20",
@@ -598,155 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-26T12:08:20Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 293610,
-    "name": "Doctor X: Mafia in White",
-    "first_air_date": "2026-10-09",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 9.5,
-    "votes": "26",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "critic_score": 95,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 2190,
-    "name": "South Park",
-    "first_air_date": "1997-08-13",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.3,
-    "votes": "5,222",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "critic_score": 83,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-26T12:08:20Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 220542,
-    "name": "The Apothecary Diaries",
-    "first_air_date": "2023-10-22",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.7,
-    "votes": "687",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-    "critic_score": 87,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-26T05:48:34Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 120911,
-    "name": "The Terminal List",
-    "first_air_date": "2022-06-30",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "1,271",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
-    "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
-    "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-26T05:48:34Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 247718,
-    "name": "MobLand",
-    "first_air_date": "2025-03-30",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.6,
-    "votes": "1,098",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "critic_score": 86,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-26T05:48:34Z"
   }
 ]
