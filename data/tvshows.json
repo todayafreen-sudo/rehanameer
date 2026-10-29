@@ -1,6 +1,156 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 288673,
+    "name": "Carrie",
+    "first_air_date": "2026-10-07",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "497",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+    "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-29T19:08:43Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 313699,
+    "name": "Balaraw: Blood Island",
+    "first_air_date": "2026-10-29",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.5,
+    "votes": "2",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgXCl86fh4EgaQlMpGQYSes1n2u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
+    "overview": "Years after her mother vanished, Sabina follows a mysterious clue to an uncharted island, where she confronts hidden dark secrets within her own family.",
+    "critic_score": 75,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-29T19:08:43Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 153312,
+    "name": "Tulsa King",
+    "first_air_date": "2022-11-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "2,887",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-29T19:08:43Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 286171,
+    "name": "Tigers Sniff the Rose",
+    "first_air_date": "2026-10-23",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.3,
+    "votes": "3",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OuUPWLwr5JKLZBhzF7antNWdvY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ccG6WAuf2XBC808HFaeIjvk2hXW.jpg",
+    "overview": "Princess Danyang, Mu Wanyao, a formidable and arrogant royal, is married to Yan Shang, a cunning scholar of humble origins. Amid court intrigues, they move from rivalry and mutual suspicion to reconciliation, becoming powerful allies who join forces to break political deadlocks and safeguard peace.",
+    "critic_score": 93,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-29T19:08:43Z"
+  },
+  {
+    "id": "tv-030",
+    "tmdb_id": 300146,
+    "name": "Where the Mask Ends",
+    "first_air_date": "2026-10-16",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "6",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
+    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+    "critic_score": 82,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-29T19:08:43Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 213562,
     "name": "Crystal Lake",
     "first_air_date": "2026-10-15",
@@ -598,155 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-28T20:26:35Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 250923,
-    "name": "Nobody Wants This",
-    "first_air_date": "2024-09-26",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.3,
-    "votes": "308",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RNtqMeSNNBkXqK8WPUMf72vGrt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/77sozyYenyY1JraK6YzLfDlTMpp.jpg",
-    "overview": "An agnostic sex podcaster and a newly single rabbi fall in love, but can their relationship survive their wildly different lives and meddling families?",
-    "critic_score": 73,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-28T20:26:35Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 105248,
-    "name": "Cyberpunk: Edgerunners",
-    "first_air_date": "2022-09-13",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.5,
-    "votes": "2,100",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
-    "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
-    "critic_score": 85,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-28T15:17:59Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 95480,
-    "name": "Slow Horses",
-    "first_air_date": "2022-04-01",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.1,
-    "votes": "1,087",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-    "critic_score": 81,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-28T15:17:59Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 334700,
-    "name": "The Gift of Deceit",
-    "first_air_date": "2026-10-28",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIQIbjSS7pXB0O93huVxWhG2W7z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
-    "overview": "Desperate to find a cure for the unknown illness affecting her daughter, art collector Lúcia Rossetti turns to a spiritual healer. When Lúcia falls victim to a scam, a series of secrets is revealed, intertwining two families marked by love, control, resentment, and guilt.",
-    "critic_score": 0,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-28T15:17:59Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 312359,
-    "name": "Dragon Ball Super: Beerus",
-    "first_air_date": "2026-10-11",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 9.7,
-    "votes": "341",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-    "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-    "critic_score": 97,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-28T15:17:59Z"
   }
 ]
