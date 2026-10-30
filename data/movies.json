@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 791523,
+    "title": "Wildwood",
+    "original_title": "Wildwood",
+    "release_year": 2026,
+    "release_date": "2026-10-19",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.6,
+    "votes": "110",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "critic_score": 86,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-30T16:29:15Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1571955,
+    "title": "Collision Course",
+    "original_title": "Colisión",
+    "release_year": 2026,
+    "release_date": "2026-10-30",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 10.0,
+    "votes": "1",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+    "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
+    "critic_score": 100,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-30T16:29:15Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1170608,
     "title": "Dune: Part Three",
     "original_title": "Dune: Part Three",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-032",
@@ -48,7 +114,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 0.0,
+    "rating": 9.2,
     "votes": "0",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/plu8tTviVZDO5jP7nzNXsDHLu8P.jpg",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-033",
@@ -294,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-032",
@@ -312,7 +378,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.7,
+    "rating": 7.6,
     "votes": "112",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-032",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-033",
@@ -426,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-034",
@@ -444,7 +510,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.4,
+    "rating": 6.3,
     "votes": "194",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-29T06:47:07Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-032",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-032",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-032",
@@ -657,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-033",
@@ -708,7 +774,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.8,
+    "rating": 6.7,
     "votes": "47",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
@@ -723,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-032",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-033",
@@ -822,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-032",
@@ -888,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T09:30:42Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   },
   {
     "id": "mov-034",
@@ -906,7 +972,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.0,
+    "rating": 7.9,
     "votes": "14",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T02:49:13Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1561726,
-    "title": "Masterplan",
-    "original_title": "Masterplan",
-    "release_year": 2026,
-    "release_date": "2026-10-16",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.0,
-    "votes": "179",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
-    "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
-    "critic_score": 70,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-28T01:59:19Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1477712,
-    "title": "Ice Cream Man",
-    "original_title": "Ice Cream Man",
-    "release_year": 2026,
-    "release_date": "2026-08-03",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 5.1,
-    "votes": "223",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2dr5aFRtRB1ojcHbCEPlfTXkbf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
-    "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
-    "critic_score": 51,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-28T01:59:19Z"
+    "last_synced": "2026-10-30T16:29:15Z"
   }
 ]
