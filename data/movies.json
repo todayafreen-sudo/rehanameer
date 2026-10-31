@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1381071,
+    "title": "Godzilla Minus Zero",
+    "original_title": "ゴジラ-0.0",
+    "release_year": 2026,
+    "release_date": "2026-11-03",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-31T00:35:57Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1765072,
+    "title": "You Can See Everything",
+    "original_title": "You Can See Everything",
+    "release_year": 2026,
+    "release_date": "2026-10-16",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.1,
+    "votes": "68",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+    "critic_score": 91,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-31T00:35:57Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1699463,
     "title": "The Girl We Let In",
     "original_title": "The Girl We Let In",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   },
   {
     "id": "mov-032",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   },
   {
     "id": "mov-032",
@@ -378,7 +444,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.5,
+    "rating": 6.6,
     "votes": "290",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   },
   {
     "id": "mov-032",
@@ -426,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   },
   {
     "id": "mov-031",
@@ -444,7 +510,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.5,
+    "rating": 7.4,
     "votes": "261",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   },
   {
     "id": "mov-032",
@@ -492,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   },
   {
     "id": "mov-033",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T16:29:15Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   },
   {
     "id": "mov-032",
@@ -657,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   },
   {
     "id": "mov-032",
@@ -690,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   },
   {
     "id": "mov-032",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   },
   {
     "id": "mov-033",
@@ -807,7 +873,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.8,
+    "rating": 6.9,
     "votes": "47",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
@@ -822,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   },
   {
     "id": "mov-032",
@@ -855,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   },
   {
     "id": "mov-033",
@@ -906,7 +972,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.9,
+    "rating": 7.8,
     "votes": "0",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6Gx7JTc8pYyW2WH7yLWj5Rx66I.jpg",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1422041,
-    "title": "LA BOLA NEGRA",
-    "original_title": "La bola negra",
-    "release_year": 2026,
-    "release_date": "2026-09-25",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "128",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
-    "critic_score": 81,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
-  },
-  {
-    "id": "mov-033",
-    "tmdb_id": 1003596,
-    "title": "Avengers: Doomsday",
-    "original_title": "Avengers: Doomsday",
-    "release_year": 2026,
-    "release_date": "2026-12-16",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
-    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-    "critic_score": 0,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T00:35:57Z"
   }
 ]
