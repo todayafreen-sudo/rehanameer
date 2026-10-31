@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1003596,
+    "title": "Avengers: Doomsday",
+    "original_title": "Avengers: Doomsday",
+    "release_year": 2026,
+    "release_date": "2026-12-16",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-31T06:34:20Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1789549,
+    "title": "The Birthday​ Gift​",
+    "original_title": "Das Geschenk",
+    "release_year": 2026,
+    "release_date": "2026-10-30",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.7,
+    "votes": "3",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqGFILLsEDwsLteNDQextojsYFV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
+    "overview": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
+    "critic_score": 87,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-31T06:34:20Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1381071,
     "title": "Godzilla Minus Zero",
     "original_title": "ゴジラ-0.0",
@@ -81,7 +147,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.0,
+    "rating": 7.0,
     "votes": "1",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqlMpXnO44LJ7Uvbswile8DMTIY.jpg",
@@ -96,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-032",
@@ -147,7 +213,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 10.0,
+    "rating": 7.7,
     "votes": "1",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
@@ -162,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T16:29:15Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-032",
@@ -213,7 +279,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.9,
+    "rating": 6.7,
     "votes": "0",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/plu8tTviVZDO5jP7nzNXsDHLu8P.jpg",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-033",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-032",
@@ -492,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-032",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-033",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T20:59:05Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-034",
@@ -657,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-032",
@@ -723,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-032",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-031",
@@ -774,7 +840,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.0,
+    "rating": 7.1,
     "votes": "419",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O616X9vmRzQdB68PHzBewPittd.jpg",
@@ -789,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-033",
@@ -873,7 +939,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.9,
+    "rating": 7.0,
     "votes": "47",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
@@ -888,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   },
   {
     "id": "mov-032",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
-  },
-  {
-    "id": "mov-033",
-    "tmdb_id": 1477104,
-    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "release_year": 2026,
-    "release_date": "2026-09-17",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.3,
-    "votes": "38",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
-    "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
-    "critic_score": 73,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-28T08:09:55Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1596275,
-    "title": "Drive - The Pretenders",
-    "original_title": "Drive - The Pretenders",
-    "release_year": 2026,
-    "release_date": "2026-10-27",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.8,
-    "votes": "0",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6Gx7JTc8pYyW2WH7yLWj5Rx66I.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4yhMroSvsvdYjZGx6T575aTkyB8.jpg",
-    "overview": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything - including what's already become so much more than just a deal.",
-    "critic_score": 0,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-10-31T06:34:20Z"
   }
 ]
