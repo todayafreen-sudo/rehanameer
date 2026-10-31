@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1422041,
+    "title": "LA BOLA NEGRA",
+    "original_title": "La bola negra",
+    "release_year": 2026,
+    "release_date": "2026-09-25",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "151",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+    "critic_score": 81,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-31T13:15:39Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1368337,
+    "title": "The Odyssey",
+    "original_title": "The Odyssey",
+    "release_year": 2026,
+    "release_date": "2026-07-15",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "4,314",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "critic_score": 80,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-10-31T13:15:39Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1596275,
     "title": "Drive - The Pretenders",
     "original_title": "Drive – The Pretenders",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-032",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-032",
@@ -213,7 +279,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.6,
+    "rating": 8.7,
     "votes": "110",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-032",
@@ -294,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-032",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-033",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-30T06:50:37Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-031",
@@ -543,7 +609,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.6,
+    "rating": 6.7,
     "votes": "290",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-032",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-032",
@@ -657,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-033",
@@ -675,7 +741,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.4,
+    "rating": 7.3,
     "votes": "91",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
@@ -690,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-034",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-032",
@@ -855,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-031",
@@ -873,7 +939,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.1,
+    "rating": 7.0,
     "votes": "419",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O616X9vmRzQdB68PHzBewPittd.jpg",
@@ -888,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   },
   {
     "id": "mov-032",
@@ -906,7 +972,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.1,
+    "rating": 6.0,
     "votes": "7",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
-  },
-  {
-    "id": "mov-033",
-    "tmdb_id": 1108427,
-    "title": "Moana",
-    "original_title": "Moana",
-    "release_year": 2026,
-    "release_date": "2026-07-08",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "984",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "critic_score": 75,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-30T06:50:37Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1290418,
-    "title": "The Cycle",
-    "original_title": "The Cycle",
-    "release_year": 2026,
-    "release_date": "2026-09-24",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.0,
-    "votes": "47",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
-    "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
-    "critic_score": 67,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-31T06:41:16Z"
+    "last_synced": "2026-10-31T13:15:39Z"
   }
 ]

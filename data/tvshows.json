@@ -1,6 +1,96 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 105248,
+    "name": "Cyberpunk: Edgerunners",
+    "first_air_date": "2022-09-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.5,
+    "votes": "2,116",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/w0lU7U89Fm4K8BQD4hJQpQthxu9.jpg",
+    "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+    "critic_score": 85,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-31T13:15:39Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 314360,
+    "name": "YAGA",
+    "first_air_date": "2026-10-23",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.2,
+    "votes": "13",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
+    "overview": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
+    "critic_score": 72,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-31T13:15:39Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 293610,
+    "name": "Doctor X: Mafia in White",
+    "first_air_date": "2026-10-09",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.3,
+    "votes": "32",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "critic_score": 93,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-10-31T13:15:39Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 153312,
     "name": "Tulsa King",
     "first_air_date": "2022-11-13",
@@ -658,95 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-10-30T06:50:37Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 289517,
-    "name": "Dead-End Job",
-    "first_air_date": "2026-10-30",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 10.0,
-    "votes": "1",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yobke0bpfNOazuF9wW7QbM2GER.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
-    "overview": "When a debtor is lured by a strange agency with the promise of lucrative gigs, he is soon thrust into a hellish world of terror and unpredictability.",
-    "critic_score": 100,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-30T06:50:37Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 30984,
-    "name": "Bleach",
-    "first_air_date": "2004-10-05",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.4,
-    "votes": "2,322",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-    "critic_score": 84,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-30T02:49:13Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 292741,
-    "name": "Nocturne",
-    "first_air_date": "2026-10-29",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 10.0,
-    "votes": "2",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/kn6ZSYuyeSymOp0gqJVBOMAJrTC.jpg",
-    "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
-    "critic_score": 100,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-10-30T02:49:13Z"
   }
 ]
