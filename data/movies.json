@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1339713,
+    "title": "Obsession",
+    "original_title": "Obsession",
+    "release_year": 2026,
+    "release_date": "2026-05-13",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "6,446",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "critic_score": 82,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-01T03:58:10Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 969681,
+    "title": "Spider-Man: Brand New Day",
+    "original_title": "Spider-Man: Brand New Day",
+    "release_year": 2026,
+    "release_date": "2026-07-29",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.5,
+    "votes": "6,400",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "critic_score": 85,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-01T03:58:10Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1384216,
     "title": "The Dog Stars",
     "original_title": "The Dog Stars",
@@ -15,7 +81,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.0,
+    "rating": 7.1,
     "votes": "665",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O616X9vmRzQdB68PHzBewPittd.jpg",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-032",
@@ -81,7 +147,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.1,
+    "rating": 6.0,
     "votes": "88",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
@@ -96,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-031",
@@ -114,7 +180,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.9,
+    "rating": 6.7,
     "votes": "80",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-031",
@@ -147,7 +213,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.1,
+    "rating": 8.0,
     "votes": "151",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
@@ -162,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T20:54:51Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-032",
@@ -195,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-031",
@@ -213,7 +279,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.8,
+    "rating": 7.7,
     "votes": "47",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-032",
@@ -426,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-032",
@@ -492,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-032",
@@ -510,7 +576,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.2,
+    "rating": 6.1,
     "votes": "0",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/plu8tTviVZDO5jP7nzNXsDHLu8P.jpg",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-033",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-032",
@@ -789,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-032",
@@ -855,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-033",
@@ -888,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T20:54:51Z"
+    "last_synced": "2026-11-01T03:58:10Z"
   },
   {
     "id": "mov-034",
@@ -922,71 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-10-31T00:35:57Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1058424,
-    "title": "Hope",
-    "original_title": "호프",
-    "release_year": 2026,
-    "release_date": "2026-07-15",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.8,
-    "votes": "376",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "critic_score": 68,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1300968,
-    "title": "The Hunger Games: Sunrise on the Reaping",
-    "original_title": "The Hunger Games: Sunrise on the Reaping",
-    "release_year": 2026,
-    "release_date": "2026-11-18",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-    "critic_score": 0,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-31T20:54:51Z"
   }
 ]
