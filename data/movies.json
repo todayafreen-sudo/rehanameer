@@ -1,6 +1,105 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1058424,
+    "title": "Hope",
+    "original_title": "호프",
+    "release_year": 2026,
+    "release_date": "2026-07-15",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.8,
+    "votes": "416",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "critic_score": 68,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-01T07:10:23Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 891621,
+    "title": "Wild Horse Nine",
+    "original_title": "Wild Horse Nine",
+    "release_year": 2026,
+    "release_date": "2026-10-30",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.8,
+    "votes": "8",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/b17UWf3LqHgKolQkXckne32qv0.jpg",
+    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+    "critic_score": 88,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-01T07:10:23Z"
+  },
+  {
+    "id": "mov-033",
+    "tmdb_id": 1195803,
+    "title": "Wicker",
+    "original_title": "Wicker",
+    "release_year": 2026,
+    "release_date": "2026-10-21",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.6,
+    "votes": "20",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+    "critic_score": 76,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-01T07:10:23Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1339713,
     "title": "Obsession",
     "original_title": "Obsession",
@@ -30,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   },
   {
     "id": "mov-031",
@@ -180,7 +279,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.7,
+    "rating": 6.8,
     "votes": "80",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
@@ -195,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   },
   {
     "id": "mov-031",
@@ -279,7 +378,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.7,
+    "rating": 7.8,
     "votes": "47",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
@@ -294,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   },
   {
     "id": "mov-032",
@@ -411,7 +510,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 9.1,
+    "rating": 8.9,
     "votes": "68",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
@@ -426,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   },
   {
     "id": "mov-032",
@@ -510,7 +609,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.2,
+    "rating": 6.8,
     "votes": "1",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
@@ -525,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-10-31T23:55:12Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   },
   {
     "id": "mov-032",
@@ -591,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   },
   {
     "id": "mov-033",
@@ -657,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   },
   {
     "id": "mov-031",
@@ -807,7 +906,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.7,
+    "rating": 6.8,
     "votes": "290",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
@@ -822,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   },
   {
     "id": "mov-032",
@@ -840,7 +939,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.6,
+    "rating": 7.7,
     "votes": "112",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
@@ -855,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   },
   {
     "id": "mov-031",
@@ -888,105 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1423191,
-    "title": "Resident Evil",
-    "original_title": "Resident Evil",
-    "release_year": 2026,
-    "release_date": "2026-09-16",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.3,
-    "votes": "1,090",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "critic_score": 73,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
-  },
-  {
-    "id": "mov-033",
-    "tmdb_id": 1503762,
-    "title": "Sense and Sensibility",
-    "original_title": "Sense and Sensibility",
-    "release_year": 2026,
-    "release_date": "2026-09-23",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.3,
-    "votes": "91",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
-    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
-    "critic_score": 74,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-01T03:58:10Z"
-  },
-  {
-    "id": "mov-034",
-    "tmdb_id": 1153576,
-    "title": "Street Fighter",
-    "original_title": "Street Fighter",
-    "release_year": 2026,
-    "release_date": "2026-10-13",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.3,
-    "votes": "194",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-    "critic_score": 64,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-10-31T00:35:57Z"
+    "last_synced": "2026-11-01T07:10:23Z"
   }
 ]
