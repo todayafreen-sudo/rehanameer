@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1339713,
+    "title": "Obsession",
+    "original_title": "Obsession",
+    "release_year": 2026,
+    "release_date": "2026-05-13",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "6,527",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "critic_score": 82,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-06T23:36:49Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 969681,
+    "title": "Spider-Man: Brand New Day",
+    "original_title": "Spider-Man: Brand New Day",
+    "release_year": 2026,
+    "release_date": "2026-07-29",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.5,
+    "votes": "6,577",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "critic_score": 85,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-06T23:36:49Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1483525,
     "title": "Possible Love",
     "original_title": "가능한 사랑",
@@ -15,7 +81,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.7,
+    "rating": 7.3,
     "votes": "12",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-032",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-032",
@@ -261,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-032",
@@ -279,7 +345,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.7,
+    "rating": 7.1,
     "votes": "8",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
@@ -294,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-031",
@@ -312,7 +378,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.0,
+    "rating": 8.1,
     "votes": "27",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-032",
@@ -345,7 +411,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.9,
+    "rating": 7.1,
     "votes": "5",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
@@ -360,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-032",
@@ -444,7 +510,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.2,
+    "rating": 6.1,
     "votes": "109",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-032",
@@ -543,7 +609,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.0,
+    "rating": 5.8,
     "votes": "14",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-032",
@@ -591,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-031",
@@ -723,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-031",
@@ -756,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-032",
@@ -888,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
+    "last_synced": "2026-11-06T23:36:49Z"
   },
   {
     "id": "mov-031",
@@ -922,71 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-11-06T07:42:35Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 891621,
-    "title": "Wild Horse Nine",
-    "original_title": "Wild Horse Nine",
-    "release_year": 2026,
-    "release_date": "2026-10-30",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.4,
-    "votes": "8",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/b17UWf3LqHgKolQkXckne32qv0.jpg",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
-    "critic_score": 88,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-06T18:48:05Z"
-  },
-  {
-    "id": "mov-033",
-    "tmdb_id": 1195803,
-    "title": "Wicker",
-    "original_title": "Wicker",
-    "release_year": 2026,
-    "release_date": "2026-10-21",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "20",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
-    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "critic_score": 76,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-03T13:40:11Z"
   }
 ]

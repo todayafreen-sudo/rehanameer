@@ -1,6 +1,216 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 289517,
+    "name": "Dead-End Job",
+    "first_air_date": "2026-10-30",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.7,
+    "votes": "53",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+    "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+    "critic_score": 77,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-06T23:36:49Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 96677,
+    "name": "Lupin",
+    "first_air_date": "2021-01-08",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.7,
+    "votes": "2,780",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
+    "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+    "critic_score": 77,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-06T23:36:49Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 220542,
+    "name": "The Apothecary Diaries",
+    "first_air_date": "2023-10-22",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.7,
+    "votes": "701",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+    "critic_score": 87,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-06T23:36:49Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 279155,
+    "name": "The Silent Storm",
+    "first_air_date": "2026-11-05",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.0,
+    "votes": "1",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8UHaCOfzyQYagHv7vAAOkrmgDb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wq90aEtC8xYym8dFovlU7X98Anq.jpg",
+    "overview": "In 1994, tax auditor Ouyang Xu, criminal investigator Yan Ping'an, and Zhou Haiyang—who was searching for his missing wife—met through a counterfeit invoice case in Chunjiang City. Under the tide of the times, the three experienced vastly different circumstances, and their fates gradually diverged. Years later, Operation Grain Rain brings them together again—but the brothers of old now stand on opposite sides. Ouyang Xu faces off against the tax fraud ring led by Zhou Haiyang and the protective umbrella behind it, caught in a painful choice between emotion and the law. Starting from a single invoice, he tears away the veil of greed and ultimately eliminates evil, safeguarding justice.",
+    "critic_score": 90,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-06T23:36:49Z"
+  },
+  {
+    "id": "tv-030",
+    "tmdb_id": 37854,
+    "name": "One Piece",
+    "first_air_date": "1999-10-20",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.8,
+    "votes": "5,633",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "critic_score": 88,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-06T23:36:49Z"
+  },
+  {
+    "id": "tv-031",
+    "tmdb_id": 73223,
+    "name": "Black Clover",
+    "first_air_date": "2017-10-03",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.5,
+    "votes": "2,294",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+    "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+    "critic_score": 85,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-06T23:36:49Z"
+  },
+  {
+    "id": "tv-032",
+    "tmdb_id": 2190,
+    "name": "South Park",
+    "first_air_date": "1997-08-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "5,253",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-06T23:36:49Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 259909,
     "name": "Dexter: Resurrection",
     "first_air_date": "2025-07-13",
@@ -538,215 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-11-05T23:12:01Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 258989,
-    "name": "The Greatest",
-    "first_air_date": "2026-11-04",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 5.2,
-    "votes": "13",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
-    "overview": "Fresh off gold at the 1960 Olympics, young boxer Muhammad Ali (then known as Cassius Clay) sets his sights on the Heavyweight Championship. Contending with newfound fame, self-doubt, family conflict and a politically charged America, the once-in-a-generation prodigy discovers his greatest opponent won't be in the ring, but in a society that isn't ready for him to become his own man.",
-    "critic_score": 52,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-05T23:12:01Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 314271,
-    "name": "Bass X Machina",
-    "first_air_date": "2026-11-03",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "6",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
-    "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
-    "critic_score": 75,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-05T23:12:01Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 153312,
-    "name": "Tulsa King",
-    "first_air_date": "2022-11-13",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.3,
-    "votes": "2,915",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "critic_score": 83,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-05T23:12:01Z"
-  },
-  {
-    "id": "tv-030",
-    "tmdb_id": 300146,
-    "name": "Where the Mask Ends",
-    "first_air_date": "2026-10-16",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.7,
-    "votes": "12",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
-    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-    "critic_score": 67,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-05T23:12:01Z"
-  },
-  {
-    "id": "tv-031",
-    "tmdb_id": 120911,
-    "name": "The Terminal List",
-    "first_air_date": "2022-06-30",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "1,332",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
-    "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
-    "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-05T23:12:01Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 225385,
-    "name": "Black Doves",
-    "first_air_date": "2024-12-05",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.0,
-    "votes": "465",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
-    "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
-    "critic_score": 70,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-05T17:31:08Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 270431,
-    "name": "When I Meet the Moon",
-    "first_air_date": "2026-11-05",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.7,
-    "votes": "3",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0U4S2UfTiQzQSyppRO4BP0SjRW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
-    "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shize is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
-    "critic_score": 87,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-05T17:31:08Z"
   }
 ]
