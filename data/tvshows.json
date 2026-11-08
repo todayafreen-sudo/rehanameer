@@ -1,6 +1,156 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 96677,
+    "name": "Lupin",
+    "first_air_date": "2021-01-08",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.7,
+    "votes": "2,780",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
+    "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+    "critic_score": 77,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-08T00:09:06Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 289517,
+    "name": "Dead-End Job",
+    "first_air_date": "2026-10-30",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.6,
+    "votes": "59",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+    "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+    "critic_score": 76,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-08T00:09:06Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 73223,
+    "name": "Black Clover",
+    "first_air_date": "2017-10-03",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.5,
+    "votes": "2,295",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+    "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+    "critic_score": 85,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-08T00:09:06Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 153312,
+    "name": "Tulsa King",
+    "first_air_date": "2022-11-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "2,917",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-08T00:09:06Z"
+  },
+  {
+    "id": "tv-030",
+    "tmdb_id": 456,
+    "name": "The Simpsons",
+    "first_air_date": "1989-12-17",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "11,148",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "critic_score": 80,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-08T00:09:06Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 275297,
     "name": "Let's Go",
     "first_air_date": "2026-11-02",
@@ -598,155 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-11-07T06:51:32Z"
-  },
-  {
-    "id": "tv-033",
-    "tmdb_id": 258742,
-    "name": "All's Fair",
-    "first_air_date": "2025-11-04",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 4.9,
-    "votes": "82",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/igHpitLtbzBG7EyNZhF9vPYm6PK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7t55fTjn0KRqCGPOSXM9RUk0zny.jpg",
-    "overview": "A team of female divorce attorneys leave a male-dominated firm to open their own powerhouse practice. Fierce, brilliant, and emotionally complicated, they navigate high-stakes breakups, scandalous secrets, and shifting allegiances—both in the courtroom and within their own ranks. In a world where money talks and love is a battleground, these women don't just play the game—they change it.",
-    "critic_score": 49,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-07T06:51:32Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 225385,
-    "name": "Black Doves",
-    "first_air_date": "2024-12-05",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.0,
-    "votes": "471",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
-    "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
-    "critic_score": 70,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-07T04:20:15Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 258989,
-    "name": "The Greatest",
-    "first_air_date": "2026-11-04",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 5.3,
-    "votes": "14",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
-    "overview": "Fresh off gold at the 1960 Olympics, young boxer Muhammad Ali (then known as Cassius Clay) sets his sights on the Heavyweight Championship. Contending with newfound fame, self-doubt, family conflict and a politically charged America, the once-in-a-generation prodigy discovers his greatest opponent won't be in the ring, but in a society that isn't ready for him to become his own man.",
-    "critic_score": 53,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-07T04:20:15Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 300146,
-    "name": "Where the Mask Ends",
-    "first_air_date": "2026-10-16",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.0,
-    "votes": "14",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
-    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-    "critic_score": 70,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-07T04:20:15Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 314271,
-    "name": "Bass X Machina",
-    "first_air_date": "2026-11-03",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.7,
-    "votes": "7",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
-    "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
-    "critic_score": 77,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-07T04:20:15Z"
   }
 ]
