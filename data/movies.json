@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1400837,
+    "title": "Other Mommy",
+    "original_title": "Other Mommy",
+    "release_year": 2026,
+    "release_date": "2026-10-07",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 5.8,
+    "votes": "202",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "critic_score": 58,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-10T11:29:16Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1616419,
+    "title": "The Good Lawyer",
+    "original_title": "Un bon avocat",
+    "release_year": 2026,
+    "release_date": "2026-09-11",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.1,
+    "votes": "7",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+    "overview": "Léonard Landry, a flamboyant criminal defence lawyer, overdoses in the middle of the courtroom. After undergoing rehab, he has one week to save his career and prepare for his own trial, reluctantly assisted by a tenacious intern, Noé. This marks the beginning of a frantic race involving legal manoeuvres, temptations and dramatic twists.",
+    "critic_score": 71,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-10T11:29:16Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1294189,
     "title": "The Mongoose",
     "original_title": "The Mongoose",
@@ -30,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-032",
@@ -81,7 +147,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.7,
+    "rating": 7.6,
     "votes": "33",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
@@ -96,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-031",
@@ -147,7 +213,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.2,
+    "rating": 8.6,
     "votes": "1",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
@@ -162,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T03:07:18Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-031",
@@ -261,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-031",
@@ -558,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-032",
@@ -657,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-032",
@@ -690,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-031",
@@ -789,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-032",
@@ -888,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   },
   {
     "id": "mov-031",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-10T08:01:50Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1571955,
-    "title": "Collision Course",
-    "original_title": "Colisión",
-    "release_year": 2026,
-    "release_date": "2026-10-30",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.4,
-    "votes": "54",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/xDw1Qm73qioQKCOx2VP5w4CBusL.jpg",
-    "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
-    "critic_score": 66,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-09T02:19:40Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1507696,
-    "title": "Apocalypse Z: New World",
-    "original_title": "Apocalipsis Z: Nuevo mundo",
-    "release_year": 2026,
-    "release_date": "2026-10-09",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.1,
-    "votes": "109",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-    "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-    "critic_score": 61,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-09T10:01:49Z"
+    "last_synced": "2026-11-10T11:29:16Z"
   }
 ]
