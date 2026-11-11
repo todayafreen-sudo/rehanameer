@@ -1,6 +1,126 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 291507,
+    "name": "The Body",
+    "first_air_date": "2026-11-11",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zksg8e0GZAmg1nLhVP5tKso3QRs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yfLPesZIbTrwBE9BzmiK4ypqz3L.jpg",
+    "overview": "After a dance-team initiation gone wrong, a group of badly behaved Catholic school girls begin having prophetic visions that set off mass hysteria in their town.",
+    "critic_score": 0,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-11T12:00:19Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 248830,
+    "name": "Stick",
+    "first_air_date": "2025-06-03",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.3,
+    "votes": "144",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
+    "overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
+    "critic_score": 73,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-11T12:00:19Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 307853,
+    "name": "Sunshine Through the Rain",
+    "first_air_date": "2026-11-06",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.7,
+    "votes": "3",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tckCJzClnmd85VIrtaycHkcgXhM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
+    "overview": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
+    "critic_score": 97,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-11T12:00:19Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 300146,
+    "name": "Where the Mask Ends",
+    "first_air_date": "2026-10-16",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.0,
+    "votes": "21",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
+    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+    "critic_score": 70,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-11T12:00:19Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 247718,
     "name": "MobLand",
     "first_air_date": "2025-03-30",
@@ -628,125 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-11-10T18:46:31Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 289517,
-    "name": "Dead-End Job",
-    "first_air_date": "2026-10-30",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "75",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
-    "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
-    "critic_score": 75,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-10T11:29:16Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 84773,
-    "name": "The Lord of the Rings: The Rings of Power",
-    "first_air_date": "2022-09-01",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.2,
-    "votes": "4,017",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
-    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-    "critic_score": 72,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-10T11:29:16Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 96677,
-    "name": "Lupin",
-    "first_air_date": "2021-01-08",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.7,
-    "votes": "2,783",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
-    "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-    "critic_score": 77,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-10T11:29:16Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 293610,
-    "name": "Doctor X: Mafia in White",
-    "first_air_date": "2026-10-09",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 9.1,
-    "votes": "43",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "critic_score": 91,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-10T11:29:16Z"
   }
 ]
