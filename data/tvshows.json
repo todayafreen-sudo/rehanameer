@@ -1,6 +1,156 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 213375,
+    "name": "VisionQuest",
+    "first_air_date": "2026-10-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "439",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "critic_score": 84,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-13T11:26:39Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 259909,
+    "name": "Dexter: Resurrection",
+    "first_air_date": "2025-07-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.6,
+    "votes": "753",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+    "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+    "critic_score": 86,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-13T11:26:39Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 45790,
+    "name": "JoJo's Bizarre Adventure",
+    "first_air_date": "2012-10-06",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.6,
+    "votes": "1,709",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
+    "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+    "critic_score": 86,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-13T11:26:39Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 2190,
+    "name": "South Park",
+    "first_air_date": "1997-08-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "5,267",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-13T11:26:39Z"
+  },
+  {
+    "id": "tv-030",
+    "tmdb_id": 293610,
+    "name": "Doctor X: Mafia in White",
+    "first_air_date": "2026-10-09",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.1,
+    "votes": "47",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "critic_score": 91,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-13T11:26:39Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 283428,
     "name": "The Ramparts of Ice",
     "first_air_date": "2026-04-02",
@@ -598,155 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-11-12T17:40:31Z"
-  },
-  {
-    "id": "tv-032",
-    "tmdb_id": 312661,
-    "name": "Miracles of the ER",
-    "first_air_date": "2026-11-12",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.0,
-    "votes": "1",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ginRZDiTKS1VmkLPaSFZlmLcVnm.jpg",
-    "overview": "A bold decision brings an average med student to an elite ER team, where he encounters medical crises, ethical dilemmas, and personal growth.",
-    "critic_score": 70,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-12T17:40:31Z"
-  },
-  {
-    "id": "tv-033",
-    "tmdb_id": 208921,
-    "name": "Rivals",
-    "first_air_date": "2024-10-18",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "94",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/vPw5Gpg0YEEk1VsE8QlmyTxIJuU.jpg",
-    "overview": "It is 1986 and Britain is booming. \"Rivals\" dives headfirst into the cutthroat world of TV where hair-dos are big and ambitions are even bigger. Deals are brokered in boardrooms, as well as bedrooms. Nobody can be sure who will come out on top. With every man and woman out only for themselves, can true love really blossom?",
-    "critic_score": 75,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-12T17:40:31Z"
-  },
-  {
-    "id": "tv-034",
-    "tmdb_id": 330613,
-    "name": "The Rules",
-    "first_air_date": "2026-10-28",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.5,
-    "votes": "2",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/IECgq0Hd4ezuyGhbQgQawURGKT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
-    "overview": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
-    "critic_score": 85,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-12T17:40:31Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 1489,
-    "name": "Jimmy Kimmel Live!",
-    "first_air_date": "2003-01-26",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 5.3,
-    "votes": "226",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
-    "overview": "James Christian Kimmel (born November 13, 1967) is an American talk-show host, comedian, and producer best known for creating and hosting Jimmy Kimmel Live! on ABC.",
-    "critic_score": 53,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-12T09:09:58Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 303044,
-    "name": "Campus Drivers",
-    "first_air_date": "2026-11-06",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.2,
-    "votes": "30",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aa1mDCaRtGNEIHVpZrh2xil03Tq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-    "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-    "critic_score": 82,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-12T09:09:58Z"
   }
 ]
