@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1780407,
+    "title": "Snoopy Presents: 12 Days of Snoopy",
+    "original_title": "Snoopy Presents: 12 Days of Snoopy",
+    "release_year": 2026,
+    "release_date": "2026-11-12",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.0,
+    "votes": "1",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/a3DzS9AUB6AgYiELaeTn2n8EfNz.jpg",
+    "overview": "Eager to get off Santa's naughty list, Snoopy goes all out to be the nicest beagle in town.",
+    "critic_score": 70,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-13T18:39:23Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1567605,
     "title": "Ebenezer",
     "original_title": "Ebenezer",
@@ -15,7 +48,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.7,
+    "rating": 7.8,
     "votes": "29",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-032",
@@ -48,7 +81,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.5,
+    "rating": 8.0,
     "votes": "2",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-032",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-033",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T07:38:20Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-032",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-032",
@@ -312,7 +345,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.9,
+    "rating": 7.5,
     "votes": "2",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-033",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-031",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-032",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-032",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-031",
@@ -642,7 +675,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.4,
+    "rating": 6.3,
     "votes": "27",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-032",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-033",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-031",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T03:29:22Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   },
   {
     "id": "mov-032",
@@ -954,39 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-13T11:26:38Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1616419,
-    "title": "The Good Lawyer",
-    "original_title": "Un bon avocat",
-    "release_year": 2026,
-    "release_date": "2026-09-11",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.1,
-    "votes": "7",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
-    "overview": "Léonard Landry, a flamboyant criminal defence lawyer, overdoses in the middle of the courtroom. After undergoing rehab, he has one week to save his career and prepare for his own trial, reluctantly assisted by a tenacious intern, Noé. This marks the beginning of a frantic race involving legal manoeuvres, temptations and dramatic twists.",
-    "critic_score": 71,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-10T18:46:31Z"
+    "last_synced": "2026-11-13T18:39:23Z"
   }
 ]
