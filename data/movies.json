@@ -1,6 +1,72 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1422041,
+    "title": "La Bola Negra",
+    "original_title": "La bola negra",
+    "release_year": 2026,
+    "release_date": "2026-09-25",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "218",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+    "critic_score": 80,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-14T13:54:46Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1294189,
+    "title": "The Mongoose",
+    "original_title": "The Mongoose",
+    "release_year": 2026,
+    "release_date": "2026-10-29",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.3,
+    "votes": "156",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
+    "critic_score": 63,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-14T13:54:46Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1780407,
     "title": "Snoopy Presents: 12 Days of Snoopy",
     "original_title": "Snoopy Presents: 12 Days of Snoopy",
@@ -63,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-14T07:24:08Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   },
   {
     "id": "mov-032",
@@ -129,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-14T07:24:08Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-14T07:24:08Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   },
   {
     "id": "mov-033",
@@ -294,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-14T07:24:08Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-14T07:24:08Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   },
   {
     "id": "mov-032",
@@ -360,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-14T07:24:08Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   },
   {
     "id": "mov-033",
@@ -411,7 +477,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 3.0,
+    "rating": 7.5,
     "votes": "2",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
@@ -426,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-12T09:09:58Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   },
   {
     "id": "mov-032",
@@ -492,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-14T07:24:08Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   },
   {
     "id": "mov-031",
@@ -510,7 +576,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.5,
+    "rating": 7.4,
     "votes": "58",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
@@ -525,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-14T07:24:08Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   },
   {
     "id": "mov-032",
@@ -624,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-14T07:24:08Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   },
   {
     "id": "mov-032",
@@ -657,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-14T07:24:08Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-14T07:24:08Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   },
   {
     "id": "mov-032",
@@ -723,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-14T07:24:08Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   },
   {
     "id": "mov-033",
@@ -789,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-14T07:24:08Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   },
   {
     "id": "mov-032",
@@ -840,7 +906,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.5,
+    "rating": 7.6,
     "votes": "31",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
@@ -855,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-14T07:24:08Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   },
   {
     "id": "mov-031",
@@ -921,72 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-14T00:06:49Z"
-  },
-  {
-    "id": "mov-033",
-    "tmdb_id": 1765072,
-    "title": "You Can See Everything",
-    "original_title": "You Can See Everything",
-    "release_year": 2026,
-    "release_date": "2026-10-16",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.9,
-    "votes": "104",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-    "critic_score": 89,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-10T18:46:31Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1400837,
-    "title": "Other Mommy",
-    "original_title": "Other Mommy",
-    "release_year": 2026,
-    "release_date": "2026-10-07",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.2,
-    "votes": "202",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "critic_score": 58,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-14T07:24:08Z"
+    "last_synced": "2026-11-14T13:54:46Z"
   }
 ]
