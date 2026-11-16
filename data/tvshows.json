@@ -1,6 +1,246 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 213375,
+    "name": "VisionQuest",
+    "first_air_date": "2026-10-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.3,
+    "votes": "502",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "critic_score": 83,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-16T18:45:15Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 303745,
+    "name": "Love in Disguise",
+    "first_air_date": "2026-10-19",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 9.1,
+    "votes": "76",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "critic_score": 91,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-16T18:45:15Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 293610,
+    "name": "Doctor X: Mafia in White",
+    "first_air_date": "2026-10-09",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.6,
+    "votes": "63",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "critic_score": 86,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-16T18:45:15Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 259909,
+    "name": "Dexter: Resurrection",
+    "first_air_date": "2025-07-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.5,
+    "votes": "761",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
+    "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+    "critic_score": 85,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-16T18:45:15Z"
+  },
+  {
+    "id": "tv-030",
+    "tmdb_id": 226102,
+    "name": "Crash",
+    "first_air_date": "2024-05-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.6,
+    "votes": "20",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PbecqJmo620ngl4X3hW0Ht6WVI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4wZZ8CGEsjXaKt5TosiFqbaPymD.jpg",
+    "overview": "A drama about Cha Yeon-ho, a reasonable individualist from KAIST, and Min So-hee, a traffic investigation ace with cool judgment and warm sensitivity at the Traffic Crime Investigation (TCI).",
+    "critic_score": 86,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-16T18:45:15Z"
+  },
+  {
+    "id": "tv-031",
+    "tmdb_id": 333101,
+    "name": "Treasure Island",
+    "first_air_date": "2026-10-11",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.6,
+    "votes": "46",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
+    "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+    "critic_score": 66,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-16T18:45:15Z"
+  },
+  {
+    "id": "tv-032",
+    "tmdb_id": 95480,
+    "name": "Slow Horses",
+    "first_air_date": "2022-04-01",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "1,133",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-16T18:45:15Z"
+  },
+  {
+    "id": "tv-033",
+    "tmdb_id": 301354,
+    "name": "Sword & Silence",
+    "first_air_date": "2026-11-14",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.5,
+    "votes": "2",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlHH1OGMrupWfVSeiGkxPabmSYN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ohxUMg44IaMTtdaSmPn1M1QW3Js.jpg",
+    "overview": "Six centuries of war have left the Three Kingdoms in turmoil. Facing powerful rivals, a small nation fights to unite a divided land.",
+    "critic_score": 75,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-16T18:45:15Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 254630,
     "name": "12 12 12",
     "first_air_date": "2026-11-12",
@@ -508,245 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-11-15T21:26:22Z"
-  },
-  {
-    "id": "tv-030",
-    "tmdb_id": 253372,
-    "name": "The Institute",
-    "first_air_date": "2025-07-13",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "225",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
-    "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
-    "critic_score": 75,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-15T21:26:22Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 85077,
-    "name": "The Chosen",
-    "first_air_date": "2019-04-21",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.8,
-    "votes": "1,055",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
-    "overview": "The life of Christ through the eyes of those who encountered him.",
-    "critic_score": 88,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-15T16:45:19Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 37854,
-    "name": "One Piece",
-    "first_air_date": "1999-10-20",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.8,
-    "votes": "5,654",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-    "critic_score": 88,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-15T16:45:19Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 279155,
-    "name": "The Silent Storm",
-    "first_air_date": "2026-11-05",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 9.0,
-    "votes": "1",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8UHaCOfzyQYagHv7vAAOkrmgDb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/m5tiVhzIFIqDyIPwOsHDsMDGMsK.jpg",
-    "overview": "In 1994, tax auditor Ouyang Xu, criminal investigator Yan Ping'an, and Zhou Haiyang—who was searching for his missing wife—met through a counterfeit invoice case in Chunjiang City. Under the tide of the times, the three experienced vastly different circumstances, and their fates gradually diverged. Years later, Operation Grain Rain brings them together again—but the brothers of old now stand on opposite sides. Ouyang Xu faces off against the tax fraud ring led by Zhou Haiyang and the protective umbrella behind it, caught in a painful choice between emotion and the law. Starting from a single invoice, he tears away the veil of greed and ultimately eliminates evil, safeguarding justice.",
-    "critic_score": 90,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-15T16:45:19Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 335981,
-    "name": "Cunk on Cinema",
-    "first_air_date": "2026-11-12",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.2,
-    "votes": "6",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
-    "overview": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with stale popcorn, asking herself where did cinema come from? And why? What does it want? And why can't it tell us?",
-    "critic_score": 72,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-15T16:45:19Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 1489,
-    "name": "Jimmy Kimmel Live!",
-    "first_air_date": "2003-01-26",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 5.3,
-    "votes": "226",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
-    "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
-    "critic_score": 53,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-15T09:43:16Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 303044,
-    "name": "Campus Drivers",
-    "first_air_date": "2026-11-06",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.8,
-    "votes": "39",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTgV6VLp70QOBpCZqvEuTWAA4Ng.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-    "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-    "critic_score": 78,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-15T09:43:16Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 220542,
-    "name": "The Apothecary Diaries",
-    "first_air_date": "2023-10-22",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.7,
-    "votes": "708",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-    "critic_score": 87,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-15T09:43:16Z"
   }
 ]
