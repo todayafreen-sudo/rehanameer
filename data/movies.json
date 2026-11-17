@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1559980,
+    "title": "The Gospel of Christmas",
+    "original_title": "The Gospel of Christmas",
+    "release_year": 2026,
+    "release_date": "2026-11-11",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.3,
+    "votes": "21",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg",
+    "overview": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas.",
+    "critic_score": 73,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-17T02:15:17Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1283515,
     "title": "Verity",
     "original_title": "Verity",
@@ -48,7 +81,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.7,
+    "rating": 7.6,
     "votes": "75",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-032",
@@ -81,7 +114,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.0,
+    "rating": 7.1,
     "votes": "16",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-031",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T08:15:14Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-031",
@@ -147,7 +180,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 9.5,
+    "rating": 9.3,
     "votes": "5",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-032",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-032",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-032",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-032",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-033",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T01:16:29Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-032",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-033",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-034",
@@ -756,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-032",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-033",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T02:15:17Z"
   },
   {
     "id": "mov-032",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-11-14T18:55:44Z"
-  },
-  {
-    "id": "mov-034",
-    "tmdb_id": 1757174,
-    "title": "The Christmas Switch",
-    "original_title": "Bara till jul",
-    "release_year": 2026,
-    "release_date": "2026-11-12",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.6,
-    "votes": "17",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kHrUoPF2rl5Hj0QMquAy3xznXT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
-    "overview": "Craving a change of pace, work-hard-play-hard city girl Freddie swaps lives with her homebody sister Mattie at Christmas time, only to unwrap a whole new kind of mess.",
-    "critic_score": 66,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-16T07:41:41Z"
   }
 ]
