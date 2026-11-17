@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1543469,
+    "title": "Heartland",
+    "original_title": "Heartland",
+    "release_year": 2026,
+    "release_date": "2026-11-13",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.6,
+    "votes": "62",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+    "overview": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
+    "critic_score": 66,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-17T08:51:00Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1559980,
     "title": "The Gospel of Christmas",
     "original_title": "The Gospel of Christmas",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-031",
@@ -180,7 +213,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 9.3,
+    "rating": 9.4,
     "votes": "5",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-032",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-031",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-032",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-031",
@@ -393,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-032",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-032",
@@ -510,7 +543,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.6,
+    "rating": 7.7,
     "votes": "800",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
@@ -525,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-033",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-031",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-032",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-033",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-034",
@@ -774,7 +807,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 5.3,
+    "rating": 5.1,
     "votes": "11",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-033",
@@ -840,7 +873,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.3,
+    "rating": 6.0,
     "votes": "23",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
@@ -855,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T08:15:14Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-034",
@@ -873,7 +906,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.8,
+    "rating": 6.9,
     "votes": "26",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-16T18:45:15Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-031",
@@ -906,7 +939,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.3,
+    "rating": 6.4,
     "votes": "386",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
@@ -921,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-17T02:15:17Z"
+    "last_synced": "2026-11-17T08:51:00Z"
   },
   {
     "id": "mov-032",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-11-16T18:45:15Z"
-  },
-  {
-    "id": "mov-033",
-    "tmdb_id": 1234139,
-    "title": "Jailer 2",
-    "original_title": "ஜெயிலர் 2",
-    "release_year": 2026,
-    "release_date": "2026-10-14",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "35",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ei2UWNDRx5xKR7HjvEj17qExvL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
-    "overview": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
-    "critic_score": 80,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-14T18:55:44Z"
   }
 ]
