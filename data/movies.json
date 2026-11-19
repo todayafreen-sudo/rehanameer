@@ -1,6 +1,105 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1003596,
+    "title": "Avengers: Doomsday",
+    "original_title": "Avengers: Doomsday",
+    "release_year": 2026,
+    "release_date": "2026-12-16",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-19T08:26:58Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1263337,
+    "title": "Heart of the Beast",
+    "original_title": "Heart of the Beast",
+    "release_year": 2026,
+    "release_date": "2026-09-19",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.7,
+    "votes": "1,018",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "critic_score": 77,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-19T08:26:58Z"
+  },
+  {
+    "id": "mov-033",
+    "tmdb_id": 1170608,
+    "title": "Dune: Part Three",
+    "original_title": "Dune: Part Three",
+    "release_year": 2026,
+    "release_date": "2026-12-15",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "critic_score": 0,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-19T08:26:58Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1551025,
     "title": "Guarding Stars",
     "original_title": "Guarding Stars",
@@ -15,7 +114,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.0,
+    "rating": 7.3,
     "votes": "12",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
@@ -30,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-19T01:00:01Z"
+    "last_synced": "2026-11-19T08:26:58Z"
   },
   {
     "id": "mov-032",
@@ -48,7 +147,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.9,
+    "rating": 7.7,
     "votes": "7",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
@@ -63,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-19T01:00:01Z"
+    "last_synced": "2026-11-19T08:26:58Z"
   },
   {
     "id": "mov-033",
@@ -96,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-19T01:00:01Z"
+    "last_synced": "2026-11-19T08:26:58Z"
   },
   {
     "id": "mov-034",
@@ -129,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-19T01:00:01Z"
+    "last_synced": "2026-11-19T08:26:58Z"
   },
   {
     "id": "mov-035",
@@ -195,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-19T01:00:01Z"
+    "last_synced": "2026-11-19T08:26:58Z"
   },
   {
     "id": "mov-032",
@@ -360,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-19T01:00:01Z"
+    "last_synced": "2026-11-19T08:26:58Z"
   },
   {
     "id": "mov-031",
@@ -378,7 +477,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.5,
+    "rating": 6.4,
     "votes": "485",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
@@ -393,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-19T01:00:01Z"
+    "last_synced": "2026-11-19T08:26:58Z"
   },
   {
     "id": "mov-031",
@@ -477,7 +576,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.3,
+    "rating": 6.2,
     "votes": "62",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
@@ -492,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-18T18:58:04Z"
+    "last_synced": "2026-11-19T08:26:58Z"
   },
   {
     "id": "mov-031",
@@ -591,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-19T01:00:01Z"
+    "last_synced": "2026-11-19T08:26:58Z"
   },
   {
     "id": "mov-032",
@@ -624,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-18T18:58:04Z"
+    "last_synced": "2026-11-19T08:26:58Z"
   },
   {
     "id": "mov-031",
@@ -675,7 +774,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.5,
+    "rating": 7.6,
     "votes": "5",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
@@ -690,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-19T01:00:01Z"
+    "last_synced": "2026-11-19T08:26:58Z"
   },
   {
     "id": "mov-032",
@@ -789,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-19T01:00:01Z"
+    "last_synced": "2026-11-19T08:26:58Z"
   },
   {
     "id": "mov-031",
@@ -822,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-19T01:00:01Z"
+    "last_synced": "2026-11-19T08:26:58Z"
   },
   {
     "id": "mov-032",
@@ -855,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-19T01:00:01Z"
+    "last_synced": "2026-11-19T08:26:58Z"
   },
   {
     "id": "mov-031",
@@ -888,105 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-19T01:00:01Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 891621,
-    "title": "Wild Horse Nine",
-    "original_title": "Wild Horse Nine",
-    "release_year": 2026,
-    "release_date": "2026-10-30",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.9,
-    "votes": "196",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
-    "critic_score": 80,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-15T16:45:19Z"
-  },
-  {
-    "id": "mov-033",
-    "tmdb_id": 1153576,
-    "title": "Street Fighter",
-    "original_title": "Street Fighter",
-    "release_year": 2026,
-    "release_date": "2026-10-13",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.3,
-    "votes": "241",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-    "critic_score": 63,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-16T07:41:41Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1368337,
-    "title": "The Odyssey",
-    "original_title": "The Odyssey",
-    "release_year": 2026,
-    "release_date": "2026-07-15",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "4,859",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
-    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "critic_score": 80,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-19T01:00:01Z"
+    "last_synced": "2026-11-19T08:26:58Z"
   }
 ]
