@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1765072,
+    "title": "You Can See Everything",
+    "original_title": "You Can See Everything",
+    "release_year": 2026,
+    "release_date": "2026-10-16",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.8,
+    "votes": "145",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
+    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+    "critic_score": 88,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-22T00:02:34Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1422041,
     "title": "LA BOLA NEGRA",
     "original_title": "La bola negra",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-032",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-032",
@@ -246,7 +279,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.3,
+    "rating": 6.2,
     "votes": "2",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-032",
@@ -279,7 +312,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.9,
+    "rating": 7.1,
     "votes": "0",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T12:00:22Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-032",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-032",
@@ -492,7 +525,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-031",
@@ -525,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-032",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-033",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-031",
@@ -609,7 +642,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.1,
+    "rating": 6.9,
     "votes": "12",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
@@ -624,7 +657,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-032",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-033",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-034",
@@ -708,7 +741,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 8.5,
+    "rating": 8.4,
     "votes": "45",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T08:01:48Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-035",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-032",
@@ -873,7 +906,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.2,
+    "rating": 6.9,
     "votes": "16",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
@@ -888,7 +921,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-18T10:27:59Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   },
   {
     "id": "mov-032",
@@ -954,39 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1400837,
-    "title": "Other Mommy",
-    "original_title": "Other Mommy",
-    "release_year": 2026,
-    "release_date": "2026-10-07",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.4,
-    "votes": "485",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "critic_score": 64,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-22T00:02:34Z"
   }
 ]
