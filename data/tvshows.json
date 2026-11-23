@@ -1,6 +1,186 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 213375,
+    "name": "VisionQuest",
+    "first_air_date": "2026-10-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "574",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "critic_score": 82,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-23T22:08:12Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 290826,
+    "name": "Dig",
+    "first_air_date": "2026-11-23",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.2,
+    "votes": "5",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5zO3rEJVkxDTPudMMZNh1tief3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8onvZbxTmP3XpuzKfLsBSm3WXMg.jpg",
+    "overview": "Follow four women who work at an archeological dig in Greece. When the team uncovers a long-buried secret with the potential to rewrite history, they find themselves at the center of a high-stakes international conspiracy.",
+    "critic_score": 62,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-23T22:08:12Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 231620,
+    "name": "Natural High",
+    "first_air_date": "2023-08-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.5,
+    "votes": "6",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC2MuEWxnLVTyYw70XoK2HFf7nW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kQ58qbyCGkdmqKZtxMZbLNpgSxX.jpg",
+    "overview": "Come and join Shen Teng and his friends as they step away from the bustling crowded cities and reconnect with the beautiful wild nature.",
+    "critic_score": 75,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-23T22:08:12Z"
+  },
+  {
+    "id": "tv-029",
+    "tmdb_id": 332839,
+    "name": "The Law of Beasts",
+    "first_air_date": "2026-11-18",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.4,
+    "votes": "20",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
+    "overview": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
+    "critic_score": 64,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-23T22:08:12Z"
+  },
+  {
+    "id": "tv-030",
+    "tmdb_id": 171802,
+    "name": "Blade Runner 2099",
+    "first_air_date": "2026-11-24",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7UAUa3qQBtm7Z07d2BwiBPGBGbe.jpg",
+    "overview": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
+    "critic_score": 0,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-23T22:08:12Z"
+  },
+  {
+    "id": "tv-031",
+    "tmdb_id": 290856,
+    "name": "Marshals",
+    "first_air_date": "2026-03-01",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "448",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+    "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+    "critic_score": 80,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-23T22:08:12Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 117488,
     "name": "Yellowjackets",
     "first_air_date": "2021-11-14",
@@ -568,185 +748,5 @@
     "latest_season": 1,
     "trending": true,
     "last_synced": "2026-11-22T21:11:03Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 291507,
-    "name": "Ticket+1-888-805-5591 or US +1-888-805-5591",
-    "first_air_date": "2026-11-11",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "118",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-    "overview": "Guide to Name Update Rules, Ticket+1-888-805-5591 or US +1-888-805-5591 Modification Procedures, and Spelling+1-888-805-5591 or US +1-888-805-5591 Error Corrections In accordance with United Airlines name change policy(US), you can call +1-888-805-5591 or US +18-888-055-591 [UK] (US) or +1-888-805-5591 or +18-888-055-591 [UK] (USA) (NoWait) with your booking number available. United Airlines",
-    "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-22T15:30:14Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 279246,
-    "name": "The Remarried Empress",
-    "first_air_date": "2026-11-03",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.7,
-    "votes": "134",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "critic_score": 87,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-22T15:30:14Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 303745,
-    "name": "Love in Disguise",
-    "first_air_date": "2026-10-19",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.9,
-    "votes": "92",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
-    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-    "critic_score": 89,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-22T15:30:14Z"
-  },
-  {
-    "id": "tv-026",
-    "tmdb_id": 247718,
-    "name": "MobLand",
-    "first_air_date": "2025-03-30",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.7,
-    "votes": "1,289",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "critic_score": 87,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-22T07:48:52Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 300523,
-    "name": "The Blue Road",
-    "first_air_date": "2026-11-20",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.9,
-    "votes": "8",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
-    "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
-    "critic_score": 69,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-22T07:48:52Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 103540,
-    "name": "Percy Jackson and the Olympians",
-    "first_air_date": "2023-12-19",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.3,
-    "votes": "881",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
-    "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
-    "critic_score": 73,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-22T07:48:52Z"
   }
 ]

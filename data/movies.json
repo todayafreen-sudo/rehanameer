@@ -1,6 +1,138 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1281331,
+    "title": "The Social Reckoning",
+    "original_title": "The Social Reckoning",
+    "release_year": 2026,
+    "release_date": "2026-10-07",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.0,
+    "votes": "149",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "critic_score": 70,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-23T22:08:12Z"
+  },
+  {
+    "id": "mov-032",
+    "tmdb_id": 1381071,
+    "title": "Godzilla Minus Zero",
+    "original_title": "ゴジラ-0.0",
+    "release_year": 2026,
+    "release_date": "2026-11-03",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.7,
+    "votes": "295",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+    "critic_score": 77,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-23T22:08:12Z"
+  },
+  {
+    "id": "mov-033",
+    "tmdb_id": 1400336,
+    "title": "Focker In-Law",
+    "original_title": "Focker In-Law",
+    "release_year": 2026,
+    "release_date": "2026-11-21",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.0,
+    "votes": "4",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
+    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
+    "critic_score": 80,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-23T22:08:12Z"
+  },
+  {
+    "id": "mov-034",
+    "tmdb_id": 1286656,
+    "title": "I Play Rocky",
+    "original_title": "I Play Rocky",
+    "release_year": 2026,
+    "release_date": "2026-11-06",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.4,
+    "votes": "66",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKW6b89n5EGbJXtxTZYBcDHLpYg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+    "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
+    "critic_score": 84,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-23T22:08:12Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1538497,
     "title": "Hexed",
     "original_title": "Hexed",
@@ -30,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
+    "last_synced": "2026-11-23T22:08:12Z"
   },
   {
     "id": "mov-032",
@@ -48,7 +180,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 0.0,
+    "rating": 7.2,
     "votes": "1",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
@@ -63,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
+    "last_synced": "2026-11-23T22:08:12Z"
   },
   {
     "id": "mov-031",
@@ -81,7 +213,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 5.0,
+    "rating": 4.9,
     "votes": "60",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
@@ -96,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
+    "last_synced": "2026-11-23T22:08:12Z"
   },
   {
     "id": "mov-031",
@@ -294,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
+    "last_synced": "2026-11-23T22:08:12Z"
   },
   {
     "id": "mov-031",
@@ -492,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
+    "last_synced": "2026-11-23T22:08:12Z"
   },
   {
     "id": "mov-032",
@@ -576,7 +708,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.8,
+    "rating": 6.7,
     "votes": "2",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
@@ -591,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
+    "last_synced": "2026-11-23T22:08:12Z"
   },
   {
     "id": "mov-032",
@@ -609,7 +741,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.4,
+    "rating": 7.5,
     "votes": "0",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
@@ -624,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
+    "last_synced": "2026-11-23T22:08:12Z"
   },
   {
     "id": "mov-031",
@@ -657,7 +789,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
+    "last_synced": "2026-11-23T22:08:12Z"
   },
   {
     "id": "mov-031",
@@ -690,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
+    "last_synced": "2026-11-23T22:08:12Z"
   },
   {
     "id": "mov-032",
@@ -756,7 +888,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
+    "last_synced": "2026-11-23T22:08:12Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +954,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
+    "last_synced": "2026-11-23T22:08:12Z"
   },
   {
     "id": "mov-031",
@@ -855,138 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1263337,
-    "title": "Heart of the Beast",
-    "original_title": "Heart of the Beast",
-    "release_year": 2026,
-    "release_date": "2026-09-19",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.8,
-    "votes": "1,018",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "critic_score": 77,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
-  },
-  {
-    "id": "mov-033",
-    "tmdb_id": 1170608,
-    "title": "Dune: Part Three",
-    "original_title": "Dune: Part Three",
-    "release_year": 2026,
-    "release_date": "2026-12-15",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
-    "critic_score": 0,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1551025,
-    "title": "Guarding Stars",
-    "original_title": "Guarding Stars",
-    "release_year": 2026,
-    "release_date": "2026-11-18",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.0,
-    "votes": "12",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
-    "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
-    "critic_score": 70,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
-  },
-  {
-    "id": "mov-032",
-    "tmdb_id": 1131943,
-    "title": "Madden",
-    "original_title": "Madden",
-    "release_year": 2026,
-    "release_date": "2026-11-18",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.8,
-    "votes": "7",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
-    "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders, to becoming football's most recognizable voice, to building the worldwide Madden NFL video game.",
-    "critic_score": 79,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-23T10:12:00Z"
+    "last_synced": "2026-11-23T22:08:12Z"
   }
 ]
