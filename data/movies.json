@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1458300,
+    "title": "The Mosquito Bowl",
+    "original_title": "The Mosquito Bowl",
+    "release_year": 2026,
+    "release_date": "2026-10-29",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 6.9,
+    "votes": "7",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
+    "overview": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
+    "critic_score": 69,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-25T12:01:38Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1280115,
     "title": "Way of the Warrior Kid",
     "original_title": "Way of the Warrior Kid",
@@ -15,7 +48,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.7,
+    "rating": 7.5,
     "votes": "3",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-031",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-031",
@@ -96,7 +129,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-032",
@@ -114,7 +147,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.6,
+    "rating": 7.4,
     "votes": "13",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-24T18:03:28Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-033",
@@ -147,7 +180,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.5,
+    "rating": 7.4,
     "votes": "34",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-034",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-032",
@@ -261,7 +294,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-033",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-034",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-035",
@@ -393,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-032",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-033",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-034",
@@ -525,7 +558,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-032",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-033",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-034",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-032",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   },
   {
     "id": "mov-031",
@@ -954,39 +987,6 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-25T09:36:27Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1422041,
-    "title": "LA BOLA NEGRA",
-    "original_title": "La bola negra",
-    "release_year": 2026,
-    "release_date": "2026-09-25",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.9,
-    "votes": "247",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
-    "critic_score": 79,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-21T19:36:47Z"
+    "last_synced": "2026-11-25T12:01:38Z"
   }
 ]
