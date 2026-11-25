@@ -1,6 +1,96 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 310209,
+    "name": "Nine to Six",
+    "first_air_date": "2026-11-25",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 0.0,
+    "votes": "0",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iVlL2Prt9Q5BWMfeZQ6d1ZAZBy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vRuayyRqPoxFCq2xwAc2hsJqonm.jpg",
+    "overview": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
+    "critic_score": 0,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-25T21:53:09Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 117488,
+    "name": "Yellowjackets",
+    "first_air_date": "2021-11-14",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 7.4,
+    "votes": "1,087",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+    "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
+    "critic_score": 74,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-25T21:53:09Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 203483,
+    "name": "River of No Return",
+    "first_air_date": "2026-11-20",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.1,
+    "votes": "7",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fo6B7Wm75WwIlCZP17ohjUjdLd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pFTGCQ3oVhFkuOCjnvCPeVsQBaL.jpg",
+    "overview": "In the Ming Dynasty, Crown Prince Zhu Zhanji races 2,200 miles from Nanjing to Beijing in 15 days to save himself and the empire.",
+    "critic_score": 81,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-25T21:53:09Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 85077,
     "name": "The Chosen",
     "first_air_date": "2019-04-21",
@@ -653,96 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/8onvZbxTmP3XpuzKfLsBSm3WXMg.jpg",
     "overview": "Follow four women who work at an archeological dig in Greece. When the team uncovers a long-buried secret with the potential to rewrite history, they find themselves at the center of a high-stakes international conspiracy.",
     "critic_score": 62,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-23T22:08:12Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 231620,
-    "name": "Natural High",
-    "first_air_date": "2023-08-13",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.5,
-    "votes": "6",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC2MuEWxnLVTyYw70XoK2HFf7nW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/kQ58qbyCGkdmqKZtxMZbLNpgSxX.jpg",
-    "overview": "Come and join Shen Teng and his friends as they step away from the bustling crowded cities and reconnect with the beautiful wild nature.",
-    "critic_score": 75,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-23T22:08:12Z"
-  },
-  {
-    "id": "tv-029",
-    "tmdb_id": 332839,
-    "name": "The Law of Beasts",
-    "first_air_date": "2026-11-18",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 6.4,
-    "votes": "20",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
-    "overview": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
-    "critic_score": 64,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-23T22:08:12Z"
-  },
-  {
-    "id": "tv-030",
-    "tmdb_id": 171802,
-    "name": "Blade Runner 2099",
-    "first_air_date": "2026-11-24",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 0.0,
-    "votes": "0",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/7UAUa3qQBtm7Z07d2BwiBPGBGbe.jpg",
-    "overview": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
-    "critic_score": 0,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
