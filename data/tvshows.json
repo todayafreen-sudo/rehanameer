@@ -1,6 +1,96 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 213375,
+    "name": "VisionQuest",
+    "first_air_date": "2026-10-13",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.2,
+    "votes": "587",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "critic_score": 82,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-26T09:12:17Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 290826,
+    "name": "DIG",
+    "first_air_date": "2026-11-23",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 5.9,
+    "votes": "17",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyW6V0R0SzG3BqtYKhlZKGBaUCn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/apHJDHRa0LMtZlcMvKK74InRMfc.jpg",
+    "overview": "Follow four women who work at an archeological dig in Greece. When the team uncovers a long-buried secret with the potential to rewrite history, they find themselves at the center of a high-stakes international conspiracy.",
+    "critic_score": 59,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-26T09:12:17Z"
+  },
+  {
+    "id": "tv-028",
+    "tmdb_id": 45790,
+    "name": "JoJo's Bizarre Adventure",
+    "first_air_date": "2012-10-06",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.6,
+    "votes": "1,714",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
+    "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+    "critic_score": 86,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-26T09:12:17Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 171802,
     "name": "Blade Runner 2099",
     "first_air_date": "2026-11-24",
@@ -653,96 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "critic_score": 87,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-24T06:13:55Z"
-  },
-  {
-    "id": "tv-032",
-    "tmdb_id": 303745,
-    "name": "Love in Disguise",
-    "first_air_date": "2026-10-19",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 9.0,
-    "votes": "96",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
-    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-    "critic_score": 90,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-24T06:13:55Z"
-  },
-  {
-    "id": "tv-033",
-    "tmdb_id": 243761,
-    "name": "Good Partner",
-    "first_air_date": "2024-07-12",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.0,
-    "votes": "17",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5I9RHQXYhEF0bLP5Waal6iQfnWq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/tNHTruWAXAEaoqgCnD3Jv5xUmzx.jpg",
-    "overview": "Cha Eun-kyung, a 17-year veteran divorce lawyer, faces a personal crisis when her own marriage is threatened while working alongside rookie lawyer Han Yu-ri, whose differing values lead to tension as they navigate their complex cases at Law Firm Daejung.",
-    "critic_score": 80,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-24T06:13:55Z"
-  },
-  {
-    "id": "tv-034",
-    "tmdb_id": 79481,
-    "name": "Fights Break Sphere",
-    "first_air_date": "2017-01-07",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.2,
-    "votes": "66",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyoahIcdamTXwjIaL3CqZ1v5CLl.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/cTCn2EO69SERNfhaezJMoqBom4G.jpg",
-    "overview": "In a land where no magic is present. A land where the strong make the rules and weak have to obey. A land filled with alluring treasures and beauty, yet also filled with unforeseen danger. Three years ago, Xiao Yan, who had shown talents none had seen in decades, suddenly lost everything. His powers, his reputation, and his promise to his mother. What sorcery has caused him to lose all of his powers? And why has his fiancee suddenly shown up?",
-    "critic_score": 82,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
