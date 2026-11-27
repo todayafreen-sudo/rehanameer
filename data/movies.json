@@ -1,6 +1,39 @@
 [
   {
     "id": "mov-031",
+    "tmdb_id": 1480665,
+    "title": "The Hunchback, Soul of Paris",
+    "original_title": "Quasimodo, l'âme de Paris",
+    "release_year": 2026,
+    "release_date": "2026-11-27",
+    "runtime": "124 min",
+    "genres": [
+      "Drama",
+      "Cinema"
+    ],
+    "director": "Various Auteurs",
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 10.0,
+    "votes": "1",
+    "box_office": "$150M+",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dHSDFEyUsjwRldplaRGygC5zkJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fILFJb7okqkNdzAataH4CxywwZX.jpg",
+    "overview": "Paris, 1830. As cholera threatens to ravage the city, a hunchback hunted for medical experiments is caught between political turmoil and impossible love.",
+    "critic_score": 100,
+    "certification": "PG-13",
+    "streaming": [
+      "Theatrical",
+      "Select VOD"
+    ],
+    "tagline": "A MovixWires Global Feature Spotlight.",
+    "status": "Released",
+    "trending": true,
+    "last_synced": "2026-11-27T14:38:17Z"
+  },
+  {
+    "id": "mov-031",
     "tmdb_id": 1765072,
     "title": "You Can See Everything",
     "original_title": "You Can See Everything",
@@ -30,7 +63,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-032",
@@ -48,7 +81,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 6.2,
+    "rating": 6.3,
     "votes": "271",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8IbJqmctfcAEw8KMmHhE63fA9.jpg",
@@ -63,7 +96,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-031",
@@ -114,7 +147,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.6,
+    "rating": 7.7,
     "votes": "7",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
@@ -129,7 +162,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-031",
@@ -147,7 +180,7 @@
     "cast": [
       "Ensemble Cast"
     ],
-    "rating": 7.6,
+    "rating": 7.4,
     "votes": "3",
     "box_office": "$150M+",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
@@ -162,7 +195,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-031",
@@ -195,7 +228,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-031",
@@ -228,7 +261,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-032",
@@ -294,7 +327,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-034",
@@ -327,7 +360,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-031",
@@ -360,7 +393,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-032",
@@ -393,7 +426,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-033",
@@ -426,7 +459,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-034",
@@ -459,7 +492,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-035",
@@ -558,7 +591,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-033",
@@ -591,7 +624,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-034",
@@ -657,7 +690,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-032",
@@ -690,7 +723,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-033",
@@ -723,7 +756,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-034",
@@ -789,7 +822,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-032",
@@ -822,7 +855,7 @@
     "tagline": "A MovixWires Global Feature Spotlight.",
     "status": "Released",
     "trending": true,
-    "last_synced": "2026-11-27T09:27:59Z"
+    "last_synced": "2026-11-27T14:38:17Z"
   },
   {
     "id": "mov-031",
@@ -955,38 +988,5 @@
     "status": "Released",
     "trending": true,
     "last_synced": "2026-11-25T09:36:27Z"
-  },
-  {
-    "id": "mov-031",
-    "tmdb_id": 1599184,
-    "title": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors",
-    "original_title": "斗破苍穹剧场版：双帝之战",
-    "release_year": 2026,
-    "release_date": "2026-11-22",
-    "runtime": "124 min",
-    "genres": [
-      "Drama",
-      "Cinema"
-    ],
-    "director": "Various Auteurs",
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 10.0,
-    "votes": "3",
-    "box_office": "$150M+",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQA44KCjcI284f3uxCRAdiS9blt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/9uMWGlxHR3bpyhzKQLYL83m5puq.jpg",
-    "overview": "",
-    "critic_score": 100,
-    "certification": "PG-13",
-    "streaming": [
-      "Theatrical",
-      "Select VOD"
-    ],
-    "tagline": "A MovixWires Global Feature Spotlight.",
-    "status": "Released",
-    "trending": true,
-    "last_synced": "2026-11-22T15:30:14Z"
   }
 ]
