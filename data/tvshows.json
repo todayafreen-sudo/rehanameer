@@ -1,6 +1,66 @@
 [
   {
     "id": "tv-026",
+    "tmdb_id": 37854,
+    "name": "One Piece",
+    "first_air_date": "1999-10-20",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.8,
+    "votes": "5,672",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "critic_score": 88,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-28T04:50:02Z"
+  },
+  {
+    "id": "tv-027",
+    "tmdb_id": 220542,
+    "name": "The Apothecary Diaries",
+    "first_air_date": "2023-10-22",
+    "seasons_count": 1,
+    "episodes_count": 10,
+    "genres": [
+      "Drama",
+      "Television"
+    ],
+    "network": "Global Broadcast",
+    "creators": [
+      "Showrunner Collective"
+    ],
+    "cast": [
+      "Ensemble Cast"
+    ],
+    "rating": 8.7,
+    "votes": "721",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+    "critic_score": 87,
+    "status": "Returning Series",
+    "schedule": "Streaming Worldwide",
+    "latest_season": 1,
+    "trending": true,
+    "last_synced": "2026-11-28T04:50:02Z"
+  },
+  {
+    "id": "tv-026",
     "tmdb_id": 84773,
     "name": "The Lord of the Rings: The Rings of Power",
     "first_air_date": "2022-09-01",
@@ -683,66 +743,6 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/vRuayyRqPoxFCq2xwAc2hsJqonm.jpg",
     "overview": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
     "critic_score": 0,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-25T21:53:09Z"
-  },
-  {
-    "id": "tv-027",
-    "tmdb_id": 117488,
-    "name": "Yellowjackets",
-    "first_air_date": "2021-11-14",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 7.4,
-    "votes": "1,087",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
-    "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
-    "critic_score": 74,
-    "status": "Returning Series",
-    "schedule": "Streaming Worldwide",
-    "latest_season": 1,
-    "trending": true,
-    "last_synced": "2026-11-25T21:53:09Z"
-  },
-  {
-    "id": "tv-028",
-    "tmdb_id": 203483,
-    "name": "River of No Return",
-    "first_air_date": "2026-11-20",
-    "seasons_count": 1,
-    "episodes_count": 10,
-    "genres": [
-      "Drama",
-      "Television"
-    ],
-    "network": "Global Broadcast",
-    "creators": [
-      "Showrunner Collective"
-    ],
-    "cast": [
-      "Ensemble Cast"
-    ],
-    "rating": 8.1,
-    "votes": "7",
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fo6B7Wm75WwIlCZP17ohjUjdLd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/pFTGCQ3oVhFkuOCjnvCPeVsQBaL.jpg",
-    "overview": "In the Ming Dynasty, Crown Prince Zhu Zhanji races 2,200 miles from Nanjing to Beijing in 15 days to save himself and the empire.",
-    "critic_score": 81,
     "status": "Returning Series",
     "schedule": "Streaming Worldwide",
     "latest_season": 1,
